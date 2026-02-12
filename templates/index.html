@@ -1,0 +1,48 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="card bg-white p-5 hero-section">
+    <div class="row" style="display: flex; gap: 40px; align-items: center;">
+        <div class="col-6" style="flex: 1;">
+            <h1 class="display-4 text-primary">Early Detection Saves Lives</h1>
+            <p class="lead">MediAI uses advanced Artificial Intelligence to assess your risk for critical health
+                conditions with clinical precision.</p>
+            <ul class="list-unstyled">
+                <li>✅ Heart Disease Risk Analysis</li>
+                <li>✅ Diabetes Probability Assessment</li>
+                <li>✅ Lung Cancer Symptom Check</li>
+                <li>✅ Brain Tumor Logic System</li>
+            </ul>
+        </div>
+        <div class="col-6" style="flex: 1; text-align: center;">
+            <img src="https://img.freepik.com/free-vector/health-check-concept-illustration_114360-1498.jpg"
+                alt="Health Tech"
+                style="max-width: 100%; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+        </div>
+    </div>
+</div>
+
+<div class="card mt-5">
+    <h2 class="text-center mb-4">💡 Health Awareness & Prevention</h2>
+
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+        <div class="card shadow-sm p-4" style="background-color: #ffebee; border-left: 5px solid #dc3545;">
+            <h4 class="text-danger"><i class="fas fa-heartbeat mr-2"></i>Cardiology</h4>
+            <p><strong>Prevention:</strong> Regular cardio (30 mins/day), low-sodium diet, and stress management.</p>
+        </div>
+        <div class="card shadow-sm p-4" style="background-color: #fff3e0; border-left: 5px solid #ffc107;">
+            <h4 class="text-warning" style="color: #d39e00 !important;">🩸 Diabetes Control</h4>
+            <p><strong>Prevention:</strong> Maintain healthy weight, reduce sugar intake, and monitor blood glucose
+                levels.</p>
+        </div>
+        <div class="card shadow-sm p-4" style="background-color: #e0f7fa; border-left: 5px solid #17a2b8;">
+            <h4 class="text-info">🫁 Lung Care</h4>
+            <p><strong>Prevention:</strong> Avoid smoking and second-hand smoke. Wear masks in high-pollution zones.</p>
+        </div>
+        <div class="card shadow-sm p-4" style="background-color: #e8eaf6; border-left: 5px solid #007bff;">
+            <h4 class="text-primary">🧠 Brain Function</h4>
+            <p><strong>Prevention:</strong> Mental exercises, quality sleep (7-9 hours), and omega-3 rich diet.</p>
+        </div>
+    </div>
+</div>
+{% endblock %}

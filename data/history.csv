@@ -1,0 +1,8 @@
+Patient ID,Disease,Risk Score,Date,Inputs
+1690,Healthy,100.0,2026-02-12 22:44:47,"Age:19.0, BMI:25.0, BP:120.0/80.0, Gluc:100.0, Chol:200.0, Smoke:Never, Hist:None"
+1690,Healthy,100.0,2026-02-12 22:45:02,"Age:19.0, BMI:25.0, BP:120.0/80.0, Gluc:100.0, Chol:200.0, Smoke:Never, Hist:None"
+1690,Healthy,100.0,2026-02-12 22:46:20,"Age:19.0, BMI:25.0, BP:120.0/80.0, Gluc:100.0, Chol:200.0, Smoke:Never, Hist:None"
+1690,Asthma,60.0,2026-02-13 02:08:45,"Age:19.0, BMI:25.0, BP:120.0/80.0, Gluc:100.0, Chol:200.0, Smoke:Never, Alc:None, Act:Low, Diet:Good, Sleep:7.0"
+1690,Asthma,60.0,2026-02-13 02:08:58,"Age:19.0, BMI:25.0, BP:120.0/80.0, Gluc:100.0, Chol:200.0, Smoke:Never, Alc:None, Act:Low, Diet:Good, Sleep:7.0"
+1690,Asthma,60.0,2026-02-13 02:09:07,"Age:19.0, BMI:25.0, BP:120.0/80.0, Gluc:100.0, Chol:200.0, Smoke:Never, Alc:None, Act:Low, Diet:Good, Sleep:7.0"
+1690,Asthma,60.0,2026-02-13 02:11:32,"Age:19.0, BMI:25.0, BP:120.0/80.0, Gluc:100.0, Chol:200.0, Smoke:Never, Alc:None, Act:Low, Diet:Good, Sleep:7.0"

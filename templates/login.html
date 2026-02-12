@@ -1,0 +1,79 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="row justify-content-center"
+    style="display: flex; justify-content: center; align-items: center; min-height: 60vh;">
+    <div class="col-md-6" style="width: 100%; max-width: 400px;">
+        <div class="card shadow-lg border-0 rounded-lg mt-5">
+            <div class="card-header text-center">
+                <h3 class="font-weight-light my-4">Secure Login</h3>
+                <div class="btn-group btn-group-toggle" style="margin-bottom: 15px;">
+                    <button type="button" class="btn btn-sm btn-primary active" id="btn-admin"
+                        onclick="toggleLogin('admin')">Admin</button>
+                    <button type="button" class="btn btn-sm btn-outline-primary" id="btn-patient"
+                        onclick="toggleLogin('patient')">Patient</button>
+                </div>
+            </div>
+            <div class="card-body">
+                <form method="POST" action="{{ url_for('login') }}">
+                    <input type="hidden" name="usertype" id="usertype" value="admin">
+
+                    <div class="form-group">
+                        <label class="small mb-1" for="username" id="label-username">Username</label>
+                        <input class="form-control py-4" id="username" name="username" type="text"
+                            placeholder="Enter username" required />
+                    </div>
+                    <div class="form-group">
+                        <label class="small mb-1" for="password" id="label-password">Password</label>
+                        <input class="form-control py-4" id="password" name="password" type="password"
+                            placeholder="Enter password" required />
+                    </div>
+                    <div class="form-group d-flex align-items-center justify-content-between mt-4 mb-0">
+                        <button class="btn btn-primary btn-block" type="submit" style="width: 100%;">Login</button>
+                    </div>
+                </form>
+            </div>
+            <div class="card-footer text-center">
+
+                <div class="small" id="footer-patient" style="display: none;">
+                    <a href="{{ url_for('register') }}">Create Account</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function toggleLogin(type) {
+        document.getElementById('usertype').value = type;
+
+        if (type === 'admin') {
+            document.getElementById('btn-admin').classList.add('btn-primary', 'active');
+            document.getElementById('btn-admin').classList.remove('btn-outline-primary');
+            document.getElementById('btn-patient').classList.add('btn-outline-primary');
+            document.getElementById('btn-patient').classList.remove('btn-primary', 'active');
+
+            document.getElementById('label-username').textContent = 'Username';
+            document.getElementById('username').placeholder = 'Enter username (admin)';
+            document.getElementById('label-password').textContent = 'Password';
+            document.getElementById('password').placeholder = 'Enter password (admin123)';
+
+
+            document.getElementById('footer-patient').style.display = 'none';
+        } else {
+            document.getElementById('btn-patient').classList.add('btn-primary', 'active');
+            document.getElementById('btn-patient').classList.remove('btn-outline-primary');
+            document.getElementById('btn-admin').classList.add('btn-outline-primary');
+            document.getElementById('btn-admin').classList.remove('btn-primary', 'active');
+
+            document.getElementById('label-username').textContent = 'Patient ID or Name';
+            document.getElementById('username').placeholder = 'Enter ID or Name';
+            document.getElementById('label-password').textContent = 'Mobile Number';
+            document.getElementById('password').placeholder = 'Enter Registered Mobile Number';
+
+
+            document.getElementById('footer-patient').style.display = 'block';
+        }
+    }
+</script>
+{% endblock %}

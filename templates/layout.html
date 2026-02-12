@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MediAI - Disease Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Chart.js for graphs -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <div class="container navbar-content">
+            <a href="{{ url_for('home') }}" class="navbar-brand">🏥 MediAI</a>
+            <ul class="navbar-nav">
+                {% if not (session.get('logged_in') and session.get('usertype') == 'patient') %}
+                <li><a href="{{ url_for('home') }}" class="nav-link">Home</a></li>
+                {% endif %}
+
+                {% if session.get('logged_in') %}
+                {% if session.get('usertype') == 'patient' %}
+                <li><a href="{{ url_for('patient_dashboard') }}" class="nav-link">My Dashboard</a></li>
+
+                <li><a class="nav-item nav-link" href="{{ url_for('find_doctor') }}"><i
+                            class="fas fa-user-md mr-1"></i>Find Doctor</a></li>
+                <li><a class="nav-item nav-link" href="{{ url_for('predict_page') }}"><i
+                            class="fas fa-stethoscope mr-1"></i>Prediction Tool</a></li>
+                {% else %}
+                <li><a href="{{ url_for('dashboard') }}" class="nav-link">Dashboard</a></li>
+                <li><a class="nav-item nav-link" href="{{ url_for('find_doctor') }}"><i
+                            class="fas fa-user-md mr-1"></i>Find Doctor</a></li>
+                {% endif %}
+                <li><a href="{{ url_for('logout') }}" class="nav-link">Logout ({{ session.get('username') }})</a></li>
+                {% else %}
+                <li><a href="{{ url_for('login') }}" class="nav-link">Login</a></li>
+                {% endif %}
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        {% for category, message in messages %}
+        <div class="alert alert-{{ category }} flash-message">{{ message }}</div>
+        {% endfor %}
+        {% endif %}
+        {% endwith %}
+
+        {% block content %}{% endblock %}
+    </div>
+
+    <footer>
+        <p>&copy; 2026 MediAI Health Systems. Advanced AI for Early Detection.</p>
+    </footer>
+
+    <script>
+        // Auto-dismiss flash messages only after 4 seconds
+        setTimeout(function () {
+            var alerts = document.querySelectorAll('.flash-message');
+            alerts.forEach(function (alert) {
+                alert.style.transition = "opacity 0.5s ease";
+                alert.style.opacity = "0";
+                setTimeout(function () {
+                    alert.remove();
+                }, 500);
+            });
+        }, 4000);
+    </script>
+</body>
+
+</html>

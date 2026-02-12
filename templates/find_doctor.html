@@ -1,0 +1,105 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-12 text-center">
+        <h2 class="text-primary font-weight-bold">Find a Specialist Doctor</h2>
+        <p class="text-muted">Search for the best doctors in your area based on specialization.</p>
+    </div>
+</div>
+
+<!-- Search Filter Card -->
+<div class="row mb-4">
+    <div class="col-md-10 offset-md-1">
+        <div class="card shadow-sm border-0">
+            <div class="card-body">
+                <form action="{{ url_for('find_doctor') }}" method="POST" class="form-inline justify-content-center">
+                    <div class="form-group mr-3 mb-2">
+                        <label for="city" class="sr-only">City</label>
+                        <select name="city" id="city" class="form-control mr-2" style="min-width: 200px;">
+                            <option value="">Select City</option>
+                            {% for city in cities %}
+                            <option value="{{ city }}" {% if city==selected_city %}selected{% endif %}>{{ city }}
+                            </option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="form-group mr-3 mb-2">
+                        <label for="specialization" class="sr-only">Specialization</label>
+                        <select name="specialization" id="specialization" class="form-control mr-2"
+                            style="min-width: 250px;">
+                            <option value="">Select Specialization</option>
+                            {% for spec in specializations %}
+                            <option value="{{ spec }}" {% if spec==selected_spec %}selected{% endif %}>{{ spec }}
+                            </option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary mb-2">Search Doctors</button>
+                    {% if selected_city or selected_spec %}
+                    <a href="{{ url_for('find_doctor') }}" class="btn btn-outline-secondary mb-2 ml-2">Clear</a>
+                    {% endif %}
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Results Section -->
+{% if searched %}
+{% if doctors %}
+<div class="row">
+    {% for doctor in doctors %}
+    <div class="col-md-6 mb-4">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-start">
+                    <div>
+                        <h5 class="card-title text-dark font-weight-bold mb-1">{{ doctor['Doctor Name'] }}</h5>
+                        <span class="badge badge-info mb-2">{{ doctor['Doctor Specialization'] }}</span>
+                    </div>
+                    <div class="text-right">
+                        <span class="badge badge-success"><i class="fas fa-star mr-1"></i>{{ doctor['Rating'] }}</span>
+                        <small class="d-block text-muted mt-1">{{ doctor['Patient Count'] }} Patients</small>
+                    </div>
+                </div>
+
+                <hr>
+
+                <p class="card-text mb-1"><i class="fas fa-hospital-alt text-primary mr-2" style="width: 20px;"></i>
+                    <strong>{{ doctor['Hospital'] }}</strong></p>
+                <p class="card-text mb-1"><i class="fas fa-map-marker-alt text-danger mr-2" style="width: 20px;"></i> {{
+                    doctor['Hospital Location'] }}</p>
+                <p class="card-text mb-1"><i class="fas fa-briefcase text-secondary mr-2" style="width: 20px;"></i> {{
+                    doctor['Doctor Experience (Years)'] }} Years Exp.</p>
+                <p class="card-text"><i class="fas fa-phone-alt text-success mr-2" style="width: 20px;"></i> {{
+                    doctor['Contact Info'] }}</p>
+
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% else %}
+<div class="row">
+    <div class="col-md-12 text-center mt-4">
+        <div class="alert alert-info">
+            <h4><i class="fas fa-info-circle mr-2"></i>No doctors found matching your criteria.</h4>
+            <p>Try selecting a different city or specialization.</p>
+        </div>
+    </div>
+</div>
+{% endif %}
+{% else %}
+<!-- Initial State / Suggestions -->
+<div class="row">
+    <div class="col-md-12 text-center mt-5 text-muted">
+        <i class="fas fa-user-md fa-5x mb-3" style="opacity: 0.2"></i>
+        <h4>Select a city and specialization to find doctors near you.</h4>
+    </div>
+</div>
+{% endif %}
+
+{% endblock %}

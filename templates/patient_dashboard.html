@@ -1,0 +1,198 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-12 text-center">
+        {% if view_only %}
+        <h2 class="text-primary font-weight-bold">Patient Records: {{ patient.get('Name', 'Patient') }}</h2>
+        <p class="text-muted">Viewing history and prediction results.</p>
+        <a href="{{ url_for('dashboard') }}" class="btn btn-secondary mb-3">Back to Dashboard</a>
+        {% else %}
+        <h2 class="text-primary font-weight-bold">Welcome, {{ patient.get('Name', session.get('username', 'Patient')) }}
+        </h2>
+        <p class="text-muted">Track your health trends and run new predictions.</p>
+        {% endif %}
+    </div>
+</div>
+
+
+<!-- Patient Details Profile Card -->
+<div class="row mb-4">
+    <div class="col-md-8 offset-md-2">
+        <div class="card shadow-sm border-0">
+            <div class="card-body">
+                <h5 class="card-title text-primary border-bottom pb-2 mb-3">
+                    <i class="fas fa-user-circle mr-2"></i>Patient Profile
+                </h5>
+                <div class="row">
+                    <div class="col-md-6">
+                        <p><strong>Name:</strong> {{ patient.get('Name', '') }}</p>
+                        <p><strong>Patient ID:</strong> {{ patient.get('Patient ID', '') }}</p>
+                        <p><strong>Age:</strong> {{ patient.get('Age', '') }}</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p><strong>Gender:</strong> {{ patient.get('Gender', '') }}</p>
+                        <p><strong>Blood Group:</strong> {{ patient.get('Blood Group', '') }}</p>
+                        <p><strong>Contact:</strong> {{ patient.get('Contact', '') }}</p>
+                        <p><strong>Location:</strong> {{ patient.get('City/Village', patient.get('Address', '')) }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<!-- Detailed History Table -->
+<div class="row mt-5">
+    <div class="col-md-10 offset-md-1">
+        <div class="card shadow-sm">
+            <div class="card-header bg-primary text-white">
+                <h4 class="mb-0"><i class="fas fa-history mr-2"></i>Detailed Prediction History</h4>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-hover table-bordered">
+                        <thead class="thead-light">
+                            <tr>
+                                <th>Date & Time</th>
+                                <th>Prediction</th>
+                                <th>Inputs Provided</th>
+                                <th>Confidence</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for record in history|reverse %}
+                            <tr>
+                                <td>{{ record.Date }}</td>
+                                <td class="text-capitalize font-weight-bold">{{ record.Disease }}</td>
+                                <td><small class="text-muted">{{ record.get('Inputs', '-') }}</small></td>
+                                <td>
+                                    <div class="progress" style="height: 20px;">
+                                        <div class="progress-bar {% if record.Disease == 'Healthy' %}bg-success{% elif record['Risk Score'] > 50 %}bg-danger{% else %}bg-warning{% endif %}"
+                                            role="progressbar" style="width: {{ record['Risk Score'] }}%;"
+                                            aria-valuenow="{{ record['Risk Score'] }}" aria-valuemin="0"
+                                            aria-valuemax="100">
+                                            {{ record['Risk Score'] }}%
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    {% if record.Disease == 'Healthy' %}
+                                    <span class="badge badge-success">Healthy</span>
+                                    {% else %}
+                                    {% if record['Risk Score'] > 70 %}
+                                    <span class="badge badge-danger">High Risk</span>
+                                    {% elif record['Risk Score'] > 30 %}
+                                    <span class="badge badge-warning">Moderate Risk</span>
+                                    {% else %}
+                                    <span class="badge badge-info">Low Risk</span>
+                                    {% endif %}
+                                    {% endif %}
+                                </td>
+                            </tr>
+                            {% else %}
+                            <tr>
+                                <td colspan="5" class="text-center text-muted">No history available yet.</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Prepare Data
+    // Prepare Data
+    const recordHistory = {{ history | tojson }};
+
+    function getDiseaseData(diseaseName) {
+        return recordHistory
+            .filter(record => record.Disease === diseaseName)
+            .map(record => ({ x: record.Date, y: record['Risk Score'] }));
+    }
+
+    function createChart(canvasId, label, color, diseaseName) {
+        const ctx = document.getElementById(canvasId).getContext('2d');
+        const data = getDiseaseData(diseaseName);
+
+        // Extract just the labels (dates) and data (scores) for simplicity
+        const labels = data.map((d, index) => `Check ${index + 1}`);
+        const scores = data.map(d => d.y);
+
+        // If no data, show placeholder empty chart
+        if (scores.length === 0) {
+            // scores.push(0); labels.push('No Data');
+        }
+
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Risk %',
+                    data: scores,
+                    borderColor: color,
+                    backgroundColor: color + '20', // transparent
+                    borderWidth: 2,
+                    pointRadius: 3,
+                    fill: true,
+                    tension: 0.4
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: { display: false }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 100,
+                        ticks: { display: false },
+                        grid: { display: false }
+                    },
+                    x: {
+                        display: false // Hide x-axis labels for clean look
+                    }
+                }
+            }
+        });
+    }
+
+    createChart('heartChart', 'Heart Risk', '#dc3545', 'heart');
+    createChart('diabetesChart', 'Diabetes Risk', '#ffc107', 'diabetes');
+    createChart('lungChart', 'Lung Risk', '#17a2b8', 'lung');
+    createChart('brainChart', 'Brain Risk', '#007bff', 'brain');
+</script>
+
+<style>
+    .disease-card {
+        cursor: pointer;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .disease-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) !important;
+    }
+
+    .icon-circle {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+</style>
+{% endblock %}

@@ -1,0 +1,59 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card text-center shadow-lg border-0">
+            <div class="card-body p-5">
+                <h1 class="mb-4 text-primary font-weight-bold">Health Analysis Report</h1>
+
+                {% if prediction == 'Healthy' %}
+                <div class="alert alert-success mt-3 py-4">
+                    <div class="display-1 mb-3"><i class="fas fa-check-circle text-success"></i></div>
+                    <h2 class="display-4 font-weight-bold text-success">You are Healthy!</h2>
+                    <p class="lead mt-2">Our analysis suggests you are in good health. Keep up the great work
+                        maintaining a healthy lifestyle!</p>
+                </div>
+                {% else %}
+                <div class="alert alert-danger mt-3 py-4">
+                    <div class="display-1 mb-3"><i class="fas fa-exclamation-triangle text-danger"></i></div>
+                    <h4 class="text-uppercase text-muted tracking-wide font-weight-bold">Potential Risk Detected</h4>
+                    <h2 class="display-4 font-weight-bold my-3 text-danger">{{ prediction }}</h2>
+                    <p class="lead">Our AI model has identified health patterns consistent with <strong>{{ prediction
+                            }}</strong>.</p>
+                    <hr class="my-4">
+                    <p class="mb-3">We strongly recommend consulting a healthcare professional for a detailed checkup
+                        and personalized advice.</p>
+                    <a href="{{ url_for('find_doctor') }}" class="btn btn-danger btn-lg px-5 shadow-sm"><i
+                            class="fas fa-user-md mr-2"></i>Find a Specialist Near You</a>
+                </div>
+                {% endif %}
+
+                <div class="row mt-5 justify-content-center">
+                    <div class="col-md-8">
+                        <h5 class="text-muted mb-3">Model Confidence Score</h5>
+                        <div class="progress" style="height: 25px; border-radius: 15px;">
+                            <div class="progress-bar {% if prediction == 'Healthy' %}bg-success{% else %}bg-danger{% endif %} progress-bar-striped progress-bar-animated"
+                                role="progressbar" style="width: {{ (probability * 100) }}%;"
+                                aria-valuenow="{{ (probability * 100) }}" aria-valuemin="0" aria-valuemax="100">
+                                <span class="font-weight-bold">{{ (probability * 100)|round(1) }}%</span>
+                            </div>
+                        </div>
+                        <small class="text-muted mt-2 d-block">This score indicates how confident the AI is in its
+                            assessment.</small>
+                    </div>
+                </div>
+
+                <div class="row mt-5">
+                    <div class="col-md-6 offset-md-3">
+                        <a href="{{ url_for('predict_page') }}" class="btn btn-outline-primary btn-block mb-3 py-2">Make
+                            Another Prediction</a>
+                        <a href="{{ url_for('dashboard') }}" class="btn btn-outline-secondary btn-block py-2">Back to
+                            Dashboard</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
