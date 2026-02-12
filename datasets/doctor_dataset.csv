@@ -1,0 +1,2001 @@
+Doctor Name,Doctor Specialization,Hospital,Hospital Location,Contact Info,Doctor Experience (Years),Rating,Patient Count
+Dr. Srinivas Kumar,Cardiologist,Secunderabad City Hospital,Secunderabad,917181241943,16,3.4,1558
+Dr. Tejaswi Kumar,Cardiologist,Secunderabad City Hospital,Secunderabad,919831882064,35,3.2,914
+Dr. Srinivas Naidu,Cardiologist,Hyderabad City Hospital,Hyderabad,916939042955,15,4.0,104
+Dr. Kiran Kumar,Cardiologist,Vizianagaram Trust Hospital,Vizianagaram,918791232393,35,3.8,969
+Dr. Mahesh Babu,Cardiologist,Hyderabad Institute of Medical Sciences,Hyderabad,919733616459,1,4.5,376
+Dr. Rajesh Varma,Cardiologist,Kurnool Care Hospital,Kurnool,916667779376,14,4.9,739
+Dr. Ramesh Raju,Cardiologist,Secunderabad Memorial Hospital,Secunderabad,916415393687,23,4.7,1286
+Dr. Venkatesh Kumar,Cardiologist,Rajahmundry Medical Center,Rajahmundry,917973214822,35,3.2,1938
+Dr. Ramesh Murthy,Cardiologist,Anantapur Care Hospital,Anantapur,917259191105,24,4.2,1492
+Dr. Venkatesh Acharya,Cardiologist,Secunderabad General Hospital,Secunderabad,916978815630,19,5.0,1801
+Dr. Suresh Raju,Cardiologist,Hyderabad Trust Hospital,Hyderabad,917193887545,30,4.3,797
+Dr. Harish Goud,Cardiologist,Hyderabad General Hospital,Hyderabad,916899825838,18,4.4,1449
+Dr. Bhavani Acharya,Cardiologist,Secunderabad Super Speciality Hospital,Secunderabad,916735034881,35,4.5,384
+Dr. Lakshmi Varma,Cardiologist,Ongole Institute of Medical Sciences,Ongole,919974524834,15,4.4,1776
+Dr. Ravi Krishna,Cardiologist,Anantapur Institute of Medical Sciences,Anantapur,916137869475,21,3.8,185
+Dr. Madhavi Prakash,Cardiologist,Ongole Apollo Hospital,Ongole,919083418319,21,3.4,1072
+Dr. Soujanya Yadav,Cardiologist,Visakhapatnam Global Hospital,Visakhapatnam,916613628803,17,3.3,1575
+Dr. Deepika Varma,Cardiologist,Hyderabad Institute of Medical Sciences,Hyderabad,919208399878,28,4.8,867
+Dr. Ravi Chowdary,Cardiologist,Vijayawada Trust Hospital,Vijayawada,918188398760,32,3.2,146
+Dr. Prasad Acharya,Cardiologist,Secunderabad Medical Center,Secunderabad,916687117441,28,4.2,838
+Dr. Bhavani Yadav,Cardiologist,Ongole Medical Center,Ongole,918272528809,17,4.9,1812
+Dr. Tejaswi Kumar,Cardiologist,Hyderabad Trust Hospital,Hyderabad,916491995979,35,4.5,1624
+Dr. Suresh Varma,Cardiologist,Vijayawada General Hospital,Vijayawada,917867302554,11,3.9,1528
+Dr. Swathi Babu,Cardiologist,Rajahmundry Apollo Hospital,Rajahmundry,916767303988,33,4.8,1832
+Dr. Soujanya Murthy,Cardiologist,Rajahmundry Super Speciality Hospital,Rajahmundry,918615507143,13,3.3,1611
+Dr. Deepika Babu,Cardiologist,Hyderabad Global Hospital,Hyderabad,919961824197,34,4.8,1276
+Dr. Anusha Reddy,Cardiologist,Tirupati City Hospital,Tirupati,916480468219,24,4.8,1753
+Dr. Ravi Reddy,Cardiologist,Rajahmundry Medical Center,Rajahmundry,917034535593,6,3.2,1045
+Dr. Deepika Babu,Cardiologist,Kakinada Super Speciality Hospital,Kakinada,916540137296,9,4.3,1989
+Dr. Naresh Varma,Cardiologist,Hyderabad Trust Hospital,Hyderabad,918266341635,28,4.9,1952
+Dr. Sirisha Rao,Cardiologist,Hyderabad Trust Hospital,Hyderabad,919062092518,20,3.8,1425
+Dr. Sridevi Prakash,Cardiologist,Vijayawada General Hospital,Vijayawada,918222971316,29,3.2,510
+Dr. Rajesh Reddy,Cardiologist,Tirupati City Hospital,Tirupati,918526766690,15,4.2,64
+Dr. Sirisha Acharya,Cardiologist,Ongole Trust Hospital,Ongole,916252860896,15,3.1,114
+Dr. Ramesh Murthy,Cardiologist,Vijayawada Medical Center,Vijayawada,917022222125,18,4.3,488
+Dr. Prasad Kumar,Cardiologist,Hyderabad Memorial Hospital,Hyderabad,919789806435,31,3.5,1018
+Dr. Kiran Naidu,Cardiologist,Guntur Medical Center,Guntur,916416314667,28,3.7,891
+Dr. Venkatesh Acharya,Cardiologist,Kakinada Global Hospital,Kakinada,918806569935,7,3.1,1541
+Dr. Suresh Rao,Cardiologist,Vijayawada Trust Hospital,Vijayawada,916822873088,13,4.1,337
+Dr. Naresh Varma,Cardiologist,Guntur Trust Hospital,Guntur,917986972437,16,4.7,204
+Dr. Deepika Naidu,Cardiologist,Vizianagaram Apollo Hospital,Vizianagaram,916217275224,35,4.7,241
+Dr. Naresh Raju,Cardiologist,Anantapur Institute of Medical Sciences,Anantapur,918085812759,31,3.4,871
+Dr. Naresh Raju,Cardiologist,Hyderabad City Hospital,Hyderabad,916009257255,25,3.5,1655
+Dr. Anil Raju,Cardiologist,Vijayawada Apollo Hospital,Vijayawada,918991837720,32,3.3,657
+Dr. Venkatesh Sarma,Cardiologist,Hyderabad Global Hospital,Hyderabad,919159967109,35,3.1,692
+Dr. Venkatesh Sarma,Cardiologist,Hyderabad General Hospital,Hyderabad,918047791082,33,4.8,1137
+Dr. Venkatesh Murthy,Cardiologist,Hyderabad Global Hospital,Hyderabad,916344076115,12,3.1,189
+Dr. Lakshmi Naidu,Cardiologist,Hyderabad Memorial Hospital,Hyderabad,919823754905,16,4.2,131
+Dr. Ramesh Raju,Cardiologist,Hyderabad Apollo Hospital,Hyderabad,918823396242,34,3.6,584
+Dr. Tejaswi Kumar,Cardiologist,Hyderabad Apollo Hospital,Hyderabad,917349409434,16,3.5,318
+Dr. Sridevi Goud,Cardiologist,Tirupati Medical Center,Tirupati,919990103355,5,3.0,1322
+Dr. Suresh Naidu,Cardiologist,Hyderabad Super Speciality Hospital,Hyderabad,918309122187,14,4.0,321
+Dr. Ramesh Prakash,Cardiologist,Vijayawada Care Hospital,Vijayawada,917049193572,24,3.6,947
+Dr. Sirisha Varma,Cardiologist,Hyderabad Super Speciality Hospital,Hyderabad,918627135980,34,3.0,1723
+Dr. Anil Prakash,Cardiologist,Visakhapatnam Super Speciality Hospital,Visakhapatnam,918849232839,7,4.9,325
+Dr. Suresh Prakash,Cardiologist,Tirupati City Hospital,Tirupati,916459716009,10,3.5,1288
+Dr. Sirisha Goud,Cardiologist,Anantapur Institute of Medical Sciences,Anantapur,916874443787,17,4.0,564
+Dr. Ramesh Acharya,Cardiologist,Anantapur Super Speciality Hospital,Anantapur,917819244083,18,3.1,733
+Dr. Soujanya Varma,Cardiologist,Hyderabad General Hospital,Hyderabad,916693989311,29,4.1,925
+Dr. Srinivas Naidu,Cardiologist,Visakhapatnam Care Hospital,Visakhapatnam,916323169889,10,4.1,1759
+Dr. Madhavi Murthy,Cardiologist,Vijayawada City Hospital,Vijayawada,916636057975,28,3.3,681
+Dr. Venkatesh Prakash,Cardiologist,Vijayawada Care Hospital,Vijayawada,917536778950,14,4.4,1415
+Dr. Harish Babu,Cardiologist,Anantapur Medical Center,Anantapur,918404681399,27,4.9,1584
+Dr. Ravi Krishna,Cardiologist,Hyderabad Memorial Hospital,Hyderabad,916697939765,12,4.8,100
+Dr. Rajesh Babu,Cardiologist,Hyderabad Institute of Medical Sciences,Hyderabad,919997823785,27,4.6,1819
+Dr. Mahesh Chowdary,Cardiologist,Hyderabad Global Hospital,Hyderabad,919381747775,7,3.8,129
+Dr. Ravi Rao,Cardiologist,Vijayawada City Hospital,Vijayawada,919507212752,30,3.7,1730
+Dr. Ravi Reddy,Cardiologist,Hyderabad Global Hospital,Hyderabad,918834820954,13,3.8,620
+Dr. Mahesh Goud,Cardiologist,Secunderabad Care Hospital,Secunderabad,918755143093,33,3.8,1777
+Dr. Rajesh Reddy,Cardiologist,Hyderabad Super Speciality Hospital,Hyderabad,916495389030,17,3.4,593
+Dr. Suresh Sarma,Cardiologist,Hyderabad Trust Hospital,Hyderabad,917866437132,23,4.5,692
+Dr. Bhavani Murthy,Cardiologist,Guntur Apollo Hospital,Guntur,916496694873,25,4.8,439
+Dr. Venkatesh Kumar,Cardiologist,Rajahmundry City Hospital,Rajahmundry,917872852789,1,4.0,1701
+Dr. Tejaswi Kumar,Cardiologist,Vizianagaram City Hospital,Vizianagaram,919186651306,13,3.7,193
+Dr. Bhavani Goud,Cardiologist,Kakinada Institute of Medical Sciences,Kakinada,918849227494,8,4.4,665
+Dr. Anil Acharya,Cardiologist,Hyderabad Care Hospital,Hyderabad,917754034197,21,3.8,655
+Dr. Prasad Rao,Cardiologist,Anantapur Care Hospital,Anantapur,917805803262,25,4.4,1898
+Dr. Bhavani Sarma,Cardiologist,Hyderabad Care Hospital,Hyderabad,917292569882,26,4.1,50
+Dr. Anil Rao,Cardiologist,Kurnool Care Hospital,Kurnool,917846355528,21,3.9,955
+Dr. Swathi Yadav,Cardiologist,Hyderabad Medical Center,Hyderabad,919409067573,11,4.3,631
+Dr. Tejaswi Acharya,Cardiologist,Tirupati Memorial Hospital,Tirupati,918659704908,22,3.2,1999
+Dr. Tejaswi Varma,Cardiologist,Kakinada Super Speciality Hospital,Kakinada,916964824319,13,3.3,144
+Dr. Anusha Sarma,Cardiologist,Hyderabad Institute of Medical Sciences,Hyderabad,919649595613,5,3.9,1864
+Dr. Kiran Kumar,Cardiologist,Hyderabad Institute of Medical Sciences,Hyderabad,918990818727,25,4.0,549
+Dr. Soujanya Kumar,Cardiologist,Hyderabad Super Speciality Hospital,Hyderabad,916023814791,7,4.6,498
+Dr. Sirisha Murthy,Cardiologist,Hyderabad Trust Hospital,Hyderabad,917995226582,4,4.1,1928
+Dr. Sridevi Chowdary,Cardiologist,Secunderabad Medical Center,Secunderabad,919442058095,30,4.3,1194
+Dr. Rajesh Babu,Cardiologist,Kakinada Medical Center,Kakinada,919828645201,29,4.2,1523
+Dr. Padma Krishna,Cardiologist,Hyderabad Global Hospital,Hyderabad,919894911417,29,4.8,1573
+Dr. Sridevi Varma,Cardiologist,Tirupati Memorial Hospital,Tirupati,919228856718,16,4.7,617
+Dr. Anusha Acharya,Cardiologist,Vizianagaram City Hospital,Vizianagaram,917027553177,18,3.9,1511
+Dr. Ravi Varma,Cardiologist,Rajahmundry Super Speciality Hospital,Rajahmundry,917442454200,21,4.8,215
+Dr. Prasad Rao,Cardiologist,Hyderabad Memorial Hospital,Hyderabad,917645124051,10,4.4,181
+Dr. Padma Goud,Cardiologist,Guntur Global Hospital,Guntur,918330497115,30,3.8,473
+Dr. Lakshmi Prakash,Cardiologist,Guntur Global Hospital,Guntur,919306247679,2,4.7,1617
+Dr. Lakshmi Yadav,Cardiologist,Anantapur General Hospital,Anantapur,916025323460,23,3.6,848
+Dr. Deepika Kumar,Cardiologist,Guntur General Hospital,Guntur,919155229266,35,4.6,1888
+Dr. Anusha Rao,Cardiologist,Hyderabad City Hospital,Hyderabad,917172248246,28,4.0,846
+Dr. Tejaswi Acharya,Cardiologist,Vizianagaram Trust Hospital,Vizianagaram,919427995190,26,4.4,1771
+Dr. Prasad Sarma,Cardiologist,Visakhapatnam General Hospital,Visakhapatnam,918294043548,2,4.8,1262
+Dr. Tejaswi Reddy,Cardiologist,Anantapur Medical Center,Anantapur,916360551585,28,3.3,995
+Dr. Venkatesh Varma,Cardiologist,Hyderabad Trust Hospital,Hyderabad,917628238707,21,3.4,719
+Dr. Lakshmi Varma,Cardiologist,Ongole Care Hospital,Ongole,919229857594,27,3.5,217
+Dr. Srinivas Kumar,Cardiologist,Vijayawada Super Speciality Hospital,Vijayawada,918316787198,4,5.0,766
+Dr. Soujanya Naidu,Cardiologist,Hyderabad General Hospital,Hyderabad,919355370399,3,4.5,1994
+Dr. Kiran Krishna,Cardiologist,Hyderabad Trust Hospital,Hyderabad,916087531510,10,3.5,1019
+Dr. Madhavi Rao,Cardiologist,Secunderabad City Hospital,Secunderabad,917997305752,17,4.5,393
+Dr. Bhavani Kumar,Cardiologist,Hyderabad Care Hospital,Hyderabad,919085320828,8,4.6,385
+Dr. Suresh Sarma,Cardiologist,Rajahmundry Medical Center,Rajahmundry,916110287971,20,4.2,1909
+Dr. Lakshmi Kumar,Cardiologist,Visakhapatnam City Hospital,Visakhapatnam,916851819913,5,4.2,1751
+Dr. Suresh Kumar,Cardiologist,Ongole Trust Hospital,Ongole,919317780148,20,4.7,1279
+Dr. Madhavi Babu,Cardiologist,Anantapur Global Hospital,Anantapur,916176390590,23,4.1,1404
+Dr. Ramesh Murthy,Cardiologist,Vijayawada Memorial Hospital,Vijayawada,918781177100,22,3.0,910
+Dr. Suresh Raju,Cardiologist,Vijayawada Apollo Hospital,Vijayawada,917555585773,30,4.4,941
+Dr. Swathi Acharya,Cardiologist,Anantapur General Hospital,Anantapur,917159995046,35,4.5,1002
+Dr. Madhavi Varma,Cardiologist,Guntur Super Speciality Hospital,Guntur,917384287616,16,4.7,227
+Dr. Sridevi Rao,Cardiologist,Rajahmundry Apollo Hospital,Rajahmundry,919223271103,30,4.1,1418
+Dr. Rajesh Reddy,Cardiologist,Ongole Apollo Hospital,Ongole,918123030247,21,3.4,484
+Dr. Mahesh Goud,Cardiologist,Ongole General Hospital,Ongole,917201124041,18,4.1,1108
+Dr. Ramesh Rao,Cardiologist,Hyderabad Apollo Hospital,Hyderabad,919092697141,27,4.0,1602
+Dr. Sirisha Yadav,Cardiologist,Hyderabad Institute of Medical Sciences,Hyderabad,918774131811,32,3.9,85
+Dr. Anil Rao,Cardiologist,Tirupati Memorial Hospital,Tirupati,917736889606,16,3.6,1241
+Dr. Anusha Murthy,Cardiologist,Vijayawada Medical Center,Vijayawada,918280292341,23,3.9,1577
+Dr. Rajesh Goud,Cardiologist,Kurnool Institute of Medical Sciences,Kurnool,919018739003,30,3.5,564
+Dr. Suresh Kumar,Cardiologist,Hyderabad City Hospital,Hyderabad,916827143233,21,3.2,1147
+Dr. Kiran Rao,Cardiologist,Ongole Apollo Hospital,Ongole,919172282824,31,3.6,1257
+Dr. Bhavani Varma,Cardiologist,Kurnool Institute of Medical Sciences,Kurnool,916431756350,13,3.6,789
+Dr. Anil Reddy,Cardiologist,Hyderabad Medical Center,Hyderabad,919040916238,35,3.3,143
+Dr. Deepika Varma,Cardiologist,Hyderabad City Hospital,Hyderabad,918995384868,9,4.3,1591
+Dr. Suresh Krishna,Cardiologist,Kurnool Medical Center,Kurnool,916052679490,19,3.9,952
+Dr. Naresh Reddy,Cardiologist,Vijayawada Medical Center,Vijayawada,917084386400,31,3.2,183
+Dr. Anusha Naidu,Cardiologist,Guntur Institute of Medical Sciences,Guntur,918478286982,4,3.3,1711
+Dr. Anil Naidu,Cardiologist,Visakhapatnam Institute of Medical Sciences,Visakhapatnam,917065972034,8,4.1,902
+Dr. Bhavani Babu,Cardiologist,Tirupati Apollo Hospital,Tirupati,918656086594,15,4.6,829
+Dr. Sridevi Varma,Cardiologist,Vijayawada City Hospital,Vijayawada,919694387705,28,3.6,1321
+Dr. Bhavani Kumar,Cardiologist,Hyderabad Medical Center,Hyderabad,916426204934,14,4.3,591
+Dr. Naresh Rao,Cardiologist,Kurnool Institute of Medical Sciences,Kurnool,916746523513,5,3.3,886
+Dr. Sirisha Sarma,Cardiologist,Vijayawada Apollo Hospital,Vijayawada,918018258729,19,3.1,640
+Dr. Sirisha Krishna,Cardiologist,Ongole Institute of Medical Sciences,Ongole,917950049698,5,4.4,1942
+Dr. Soujanya Sarma,Cardiologist,Visakhapatnam Medical Center,Visakhapatnam,918839759520,13,3.9,1165
+Dr. Soujanya Chowdary,Cardiologist,Hyderabad Global Hospital,Hyderabad,919901597465,18,4.7,196
+Dr. Naresh Babu,Cardiologist,Hyderabad Apollo Hospital,Hyderabad,917321182659,19,3.9,1009
+Dr. Sirisha Raju,Cardiologist,Ongole Apollo Hospital,Ongole,917169288485,33,4.1,946
+Dr. Bhavani Reddy,Cardiologist,Secunderabad Memorial Hospital,Secunderabad,919820042236,28,4.5,1286
+Dr. Srinivas Naidu,Cardiologist,Visakhapatnam Medical Center,Visakhapatnam,916983222878,2,5.0,1426
+Dr. Madhavi Reddy,Cardiologist,Ongole Trust Hospital,Ongole,919277528204,12,3.9,1384
+Dr. Mahesh Chowdary,Cardiologist,Vijayawada Memorial Hospital,Vijayawada,918513971584,28,4.3,1057
+Dr. Anusha Goud,Cardiologist,Secunderabad Institute of Medical Sciences,Secunderabad,917753841726,22,3.6,264
+Dr. Rajesh Raju,Cardiologist,Kurnool City Hospital,Kurnool,918979305739,32,3.6,1985
+Dr. Deepika Reddy,Cardiologist,Guntur Global Hospital,Guntur,917953462417,6,3.6,712
+Dr. Lakshmi Krishna,Cardiologist,Vizianagaram Apollo Hospital,Vizianagaram,918210174072,1,4.3,1161
+Dr. Padma Reddy,Cardiologist,Vijayawada General Hospital,Vijayawada,916805660882,34,3.7,1599
+Dr. Soujanya Yadav,Cardiologist,Visakhapatnam Super Speciality Hospital,Visakhapatnam,919264134512,4,3.4,1174
+Dr. Anil Yadav,Cardiologist,Hyderabad Super Speciality Hospital,Hyderabad,919783207393,32,3.2,1340
+Dr. Ravi Kumar,Cardiologist,Vizianagaram Super Speciality Hospital,Vizianagaram,916680229045,20,4.1,1181
+Dr. Ramesh Rao,Cardiologist,Guntur Super Speciality Hospital,Guntur,919613809882,8,3.9,290
+Dr. Anusha Prakash,Cardiologist,Kakinada Trust Hospital,Kakinada,919077787850,19,4.0,609
+Dr. Anusha Yadav,Cardiologist,Tirupati Trust Hospital,Tirupati,917046816259,30,4.1,835
+Dr. Bhavani Murthy,Cardiologist,Hyderabad City Hospital,Hyderabad,919205302077,9,4.7,615
+Dr. Rajesh Prakash,Cardiologist,Guntur Apollo Hospital,Guntur,919383220511,33,3.5,55
+Dr. Anil Krishna,Cardiologist,Ongole Memorial Hospital,Ongole,918520878317,32,4.7,964
+Dr. Anusha Goud,Cardiologist,Hyderabad Medical Center,Hyderabad,917427818730,35,3.8,1960
+Dr. Kiran Kumar,Cardiologist,Anantapur Trust Hospital,Anantapur,917025662000,25,3.5,1638
+Dr. Venkatesh Goud,Cardiologist,Guntur Global Hospital,Guntur,919198484273,31,4.4,1711
+Dr. Lakshmi Acharya,Cardiologist,Anantapur Apollo Hospital,Anantapur,919403304832,10,4.0,125
+Dr. Swathi Sarma,Cardiologist,Kurnool Super Speciality Hospital,Kurnool,917425906387,7,4.7,951
+Dr. Swathi Prakash,Cardiologist,Anantapur Care Hospital,Anantapur,917962491159,1,4.4,889
+Dr. Ramesh Yadav,Cardiologist,Hyderabad Apollo Hospital,Hyderabad,919356625550,17,3.7,1468
+Dr. Soujanya Naidu,Cardiologist,Guntur Apollo Hospital,Guntur,919658304095,22,4.7,1809
+Dr. Lakshmi Goud,Cardiologist,Hyderabad Medical Center,Hyderabad,918692081959,32,4.7,123
+Dr. Ramesh Rao,Cardiologist,Hyderabad Super Speciality Hospital,Hyderabad,918710815922,19,5.0,1579
+Dr. Padma Naidu,Cardiologist,Secunderabad Care Hospital,Secunderabad,919265762953,7,3.9,1471
+Dr. Srinivas Reddy,Cardiologist,Rajahmundry Institute of Medical Sciences,Rajahmundry,917393178591,4,3.6,817
+Dr. Prasad Rao,Cardiologist,Guntur Memorial Hospital,Guntur,918281341978,27,4.1,1673
+Dr. Naresh Chowdary,Cardiologist,Hyderabad Medical Center,Hyderabad,916339166473,25,4.2,543
+Dr. Madhavi Chowdary,Cardiologist,Vijayawada Memorial Hospital,Vijayawada,916997241761,30,4.3,991
+Dr. Tejaswi Reddy,Cardiologist,Rajahmundry Institute of Medical Sciences,Rajahmundry,919860782736,30,4.8,1437
+Dr. Naresh Naidu,Cardiologist,Hyderabad Global Hospital,Hyderabad,917897214963,23,5.0,662
+Dr. Sirisha Varma,Cardiologist,Guntur Super Speciality Hospital,Guntur,917962094851,20,3.4,837
+Dr. Suresh Rao,Cardiologist,Vijayawada Trust Hospital,Vijayawada,917637947177,23,4.1,1482
+Dr. Srinivas Krishna,Cardiologist,Rajahmundry Super Speciality Hospital,Rajahmundry,918827075539,26,3.5,1209
+Dr. Bhavani Kumar,Cardiologist,Hyderabad Apollo Hospital,Hyderabad,918133427445,19,4.6,521
+Dr. Harish Rao,Cardiologist,Anantapur General Hospital,Anantapur,918734252963,13,4.2,1438
+Dr. Soujanya Naidu,Cardiologist,Hyderabad Care Hospital,Hyderabad,919880089348,3,3.6,952
+Dr. Madhavi Goud,Cardiologist,Hyderabad City Hospital,Hyderabad,919145461251,9,3.2,654
+Dr. Padma Chowdary,Cardiologist,Vijayawada Apollo Hospital,Vijayawada,916862407093,9,4.6,1844
+Dr. Swathi Murthy,Cardiologist,Vijayawada City Hospital,Vijayawada,919923396682,18,4.7,576
+Dr. Anil Kumar,Cardiologist,Vijayawada Institute of Medical Sciences,Vijayawada,919738326480,22,4.6,1009
+Dr. Prasad Babu,Cardiologist,Secunderabad Apollo Hospital,Secunderabad,916969007714,26,4.9,1697
+Dr. Harish Naidu,Cardiologist,Hyderabad Super Speciality Hospital,Hyderabad,919395953188,26,3.0,1148
+Dr. Sridevi Goud,Cardiologist,Kurnool General Hospital,Kurnool,918889775885,17,4.2,1734
+Dr. Suresh Acharya,Cardiologist,Vijayawada Care Hospital,Vijayawada,917004257438,31,3.1,1860
+Dr. Rajesh Prakash,Cardiologist,Hyderabad Apollo Hospital,Hyderabad,918620283102,15,4.3,1351
+Dr. Sirisha Varma,Cardiologist,Tirupati Care Hospital,Tirupati,918788462200,27,3.2,142
+Dr. Anil Yadav,Cardiologist,Hyderabad Memorial Hospital,Hyderabad,916498733671,7,3.5,1150
+Dr. Lakshmi Yadav,Cardiologist,Tirupati Care Hospital,Tirupati,917593482331,35,3.8,1570
+Dr. Padma Acharya,Cardiologist,Vizianagaram Apollo Hospital,Vizianagaram,916425294682,32,4.2,1973
+Dr. Venkatesh Kumar,Cardiologist,Rajahmundry Global Hospital,Rajahmundry,917591414076,14,3.9,1996
+Dr. Harish Naidu,Cardiologist,Hyderabad Medical Center,Hyderabad,918944974316,24,4.1,1370
+Dr. Venkatesh Raju,Cardiologist,Vijayawada Super Speciality Hospital,Vijayawada,917184901787,13,4.9,1993
+Dr. Ramesh Acharya,Cardiologist,Vijayawada Apollo Hospital,Vijayawada,916910987546,2,3.1,733
+Dr. Prasad Babu,Cardiologist,Hyderabad General Hospital,Hyderabad,918424843951,14,3.1,1617
+Dr. Kiran Sarma,Cardiologist,Kakinada Apollo Hospital,Kakinada,916927503999,15,3.7,352
+Dr. Srinivas Varma,Cardiologist,Hyderabad Trust Hospital,Hyderabad,919686826237,10,5.0,1156
+Dr. Naresh Naidu,Cardiologist,Ongole Apollo Hospital,Ongole,918839220941,2,3.3,783
+Dr. Madhavi Goud,Cardiologist,Kurnool Super Speciality Hospital,Kurnool,916067779246,12,3.5,309
+Dr. Swathi Naidu,Cardiologist,Tirupati City Hospital,Tirupati,919202607993,5,4.0,1643
+Dr. Swathi Sarma,Cardiologist,Vijayawada Global Hospital,Vijayawada,916468383404,29,4.0,1986
+Dr. Venkatesh Kumar,Cardiologist,Hyderabad Memorial Hospital,Hyderabad,919363934309,34,3.6,1367
+Dr. Venkatesh Yadav,Cardiologist,Hyderabad General Hospital,Hyderabad,919639119547,26,3.9,271
+Dr. Sirisha Prakash,Cardiologist,Ongole Memorial Hospital,Ongole,917905085701,5,4.8,709
+Dr. Prasad Naidu,Cardiologist,Hyderabad Trust Hospital,Hyderabad,916541988748,18,4.2,1248
+Dr. Sirisha Goud,Cardiologist,Hyderabad City Hospital,Hyderabad,917635971911,34,3.6,1085
+Dr. Padma Naidu,Cardiologist,Hyderabad Memorial Hospital,Hyderabad,919406321789,8,4.7,1383
+Dr. Kiran Raju,Cardiologist,Ongole Care Hospital,Ongole,917939413575,15,3.8,1744
+Dr. Lakshmi Raju,Cardiologist,Tirupati Super Speciality Hospital,Tirupati,919133661881,7,3.6,690
+Dr. Harish Chowdary,Cardiologist,Rajahmundry Global Hospital,Rajahmundry,918949873860,31,3.1,1753
+Dr. Ramesh Raju,Cardiologist,Secunderabad Memorial Hospital,Secunderabad,916414741061,24,4.6,1189
+Dr. Madhavi Murthy,Cardiologist,Hyderabad Global Hospital,Hyderabad,918412411754,22,4.3,891
+Dr. Tejaswi Babu,Cardiologist,Vijayawada Institute of Medical Sciences,Vijayawada,917816499958,4,4.9,1279
+Dr. Harish Naidu,Cardiologist,Rajahmundry Super Speciality Hospital,Rajahmundry,918482141132,33,3.4,1394
+Dr. Ravi Krishna,Cardiologist,Tirupati Global Hospital,Tirupati,916464794418,23,4.7,802
+Dr. Mahesh Sarma,Cardiologist,Ongole Institute of Medical Sciences,Ongole,916971345904,28,4.7,1621
+Dr. Bhavani Acharya,Cardiologist,Hyderabad Trust Hospital,Hyderabad,918760371883,2,4.2,1397
+Dr. Srinivas Chowdary,Cardiologist,Rajahmundry Super Speciality Hospital,Rajahmundry,917173687378,20,4.8,768
+Dr. Naresh Krishna,Cardiologist,Hyderabad Global Hospital,Hyderabad,916615260464,26,3.1,1567
+Dr. Ramesh Kumar,Cardiologist,Hyderabad City Hospital,Hyderabad,918278405793,14,3.8,979
+Dr. Naresh Goud,Cardiologist,Vijayawada Care Hospital,Vijayawada,917338472296,21,4.6,1212
+Dr. Ramesh Prakash,Cardiologist,Anantapur Medical Center,Anantapur,916225953184,10,3.3,1315
+Dr. Tejaswi Naidu,Cardiologist,Ongole Global Hospital,Ongole,917168672809,29,4.3,1044
+Dr. Sridevi Raju,Cardiologist,Hyderabad General Hospital,Hyderabad,917173242669,14,4.5,283
+Dr. Padma Naidu,Cardiologist,Vizianagaram Super Speciality Hospital,Vizianagaram,917216534332,32,4.1,681
+Dr. Ravi Raju,Cardiologist,Kurnool Super Speciality Hospital,Kurnool,918574081104,4,3.0,667
+Dr. Prasad Babu,Cardiologist,Hyderabad Apollo Hospital,Hyderabad,917097447932,19,3.7,65
+Dr. Padma Chowdary,Cardiologist,Tirupati General Hospital,Tirupati,916554848380,25,4.1,521
+Dr. Deepika Krishna,Cardiologist,Hyderabad Global Hospital,Hyderabad,918869245055,23,3.1,1814
+Dr. Padma Reddy,Cardiologist,Hyderabad Medical Center,Hyderabad,917974629461,5,4.7,1229
+Dr. Madhavi Raju,Cardiologist,Guntur Care Hospital,Guntur,919047274825,27,3.6,879
+Dr. Rajesh Chowdary,Cardiologist,Hyderabad Care Hospital,Hyderabad,919441652418,30,4.7,1933
+Dr. Ramesh Raju,Cardiologist,Vijayawada Trust Hospital,Vijayawada,919627032705,7,3.5,1256
+Dr. Swathi Naidu,Cardiologist,Guntur General Hospital,Guntur,917699805002,20,4.5,503
+Dr. Naresh Naidu,Cardiologist,Ongole Apollo Hospital,Ongole,918192509020,8,4.1,447
+Dr. Harish Kumar,Cardiologist,Vijayawada Trust Hospital,Vijayawada,919517357447,10,3.5,349
+Dr. Kiran Chowdary,Cardiologist,Tirupati Memorial Hospital,Tirupati,918587283948,10,4.5,1392
+Dr. Naresh Babu,Cardiologist,Visakhapatnam Memorial Hospital,Visakhapatnam,918697019445,32,3.9,1204
+Dr. Sridevi Acharya,Cardiologist,Hyderabad City Hospital,Hyderabad,919969212295,21,4.7,1334
+Dr. Prasad Yadav,Cardiologist,Vijayawada City Hospital,Vijayawada,916293287259,31,3.9,670
+Dr. Madhavi Reddy,Cardiologist,Rajahmundry Medical Center,Rajahmundry,917511580323,33,3.1,995
+Dr. Venkatesh Reddy,Cardiologist,Vijayawada City Hospital,Vijayawada,917583715924,19,3.2,1819
+Dr. Bhavani Sarma,Cardiologist,Secunderabad City Hospital,Secunderabad,918177839698,25,3.9,1185
+Dr. Sridevi Prakash,Neurologist,Hyderabad Memorial Hospital,Hyderabad,919478132873,13,3.6,1024
+Dr. Prasad Reddy,Neurologist,Kakinada Institute of Medical Sciences,Kakinada,917934982045,7,4.6,1764
+Dr. Sirisha Naidu,Neurologist,Kakinada General Hospital,Kakinada,918167021467,12,3.1,1499
+Dr. Sridevi Murthy,Neurologist,Vijayawada Institute of Medical Sciences,Vijayawada,918245185702,11,3.7,1929
+Dr. Lakshmi Raju,Neurologist,Rajahmundry Memorial Hospital,Rajahmundry,919326300928,22,4.4,157
+Dr. Ramesh Goud,Neurologist,Vijayawada Super Speciality Hospital,Vijayawada,916405899939,25,3.6,1532
+Dr. Prasad Goud,Neurologist,Hyderabad Institute of Medical Sciences,Hyderabad,916350048353,10,4.8,685
+Dr. Prasad Sarma,Neurologist,Kurnool Institute of Medical Sciences,Kurnool,919044418910,6,3.6,821
+Dr. Prasad Acharya,Neurologist,Vizianagaram Medical Center,Vizianagaram,919018635601,34,3.2,1423
+Dr. Swathi Goud,Neurologist,Guntur General Hospital,Guntur,916078299575,24,3.6,1997
+Dr. Rajesh Babu,Neurologist,Hyderabad City Hospital,Hyderabad,918088517710,13,3.5,331
+Dr. Ramesh Varma,Neurologist,Hyderabad Memorial Hospital,Hyderabad,919626792293,7,4.0,1155
+Dr. Venkatesh Acharya,Neurologist,Hyderabad Memorial Hospital,Hyderabad,917446391956,9,4.2,365
+Dr. Naresh Krishna,Neurologist,Hyderabad Apollo Hospital,Hyderabad,918975749366,11,4.4,139
+Dr. Harish Acharya,Neurologist,Guntur Institute of Medical Sciences,Guntur,919090596936,16,4.9,1300
+Dr. Sridevi Rao,Neurologist,Rajahmundry Global Hospital,Rajahmundry,918293560436,16,3.6,1706
+Dr. Kiran Goud,Neurologist,Vijayawada Global Hospital,Vijayawada,918913305623,29,3.9,627
+Dr. Swathi Murthy,Neurologist,Guntur Institute of Medical Sciences,Guntur,917798134537,11,4.6,1690
+Dr. Prasad Krishna,Neurologist,Anantapur Care Hospital,Anantapur,917073755632,4,4.3,1840
+Dr. Deepika Prakash,Neurologist,Vijayawada Memorial Hospital,Vijayawada,916440619526,34,4.7,633
+Dr. Naresh Varma,Neurologist,Secunderabad General Hospital,Secunderabad,917929811336,33,3.3,945
+Dr. Ravi Krishna,Neurologist,Secunderabad Apollo Hospital,Secunderabad,917937579958,23,4.9,899
+Dr. Lakshmi Murthy,Neurologist,Tirupati General Hospital,Tirupati,917606152369,16,3.8,217
+Dr. Ravi Reddy,Neurologist,Visakhapatnam Care Hospital,Visakhapatnam,917368741091,7,4.7,1381
+Dr. Prasad Chowdary,Neurologist,Vijayawada Medical Center,Vijayawada,916164510971,19,4.8,1017
+Dr. Sirisha Yadav,Neurologist,Hyderabad Care Hospital,Hyderabad,917926728669,1,4.8,88
+Dr. Kiran Krishna,Neurologist,Kakinada Memorial Hospital,Kakinada,916642181881,34,3.8,1639
+Dr. Ravi Varma,Neurologist,Kurnool Trust Hospital,Kurnool,916523334661,4,3.5,1358
+Dr. Sridevi Naidu,Neurologist,Hyderabad Super Speciality Hospital,Hyderabad,916476131010,32,4.2,83
+Dr. Madhavi Rao,Neurologist,Hyderabad Global Hospital,Hyderabad,919086124402,10,3.6,53
+Dr. Harish Rao,Neurologist,Tirupati Medical Center,Tirupati,918450982005,27,3.4,1418
+Dr. Swathi Goud,Neurologist,Secunderabad Institute of Medical Sciences,Secunderabad,916290680473,34,4.1,1660
+Dr. Deepika Reddy,Neurologist,Visakhapatnam Global Hospital,Visakhapatnam,917676986013,31,3.1,842
+Dr. Mahesh Kumar,Neurologist,Vizianagaram General Hospital,Vizianagaram,916069759864,23,4.6,756
+Dr. Tejaswi Acharya,Neurologist,Hyderabad Global Hospital,Hyderabad,916445232926,22,3.3,771
+Dr. Rajesh Krishna,Neurologist,Ongole Super Speciality Hospital,Ongole,918760786161,12,4.7,1452
+Dr. Sirisha Yadav,Neurologist,Tirupati Medical Center,Tirupati,918713284816,12,4.6,179
+Dr. Venkatesh Varma,Neurologist,Vijayawada Memorial Hospital,Vijayawada,916865826728,3,4.6,1864
+Dr. Rajesh Prakash,Neurologist,Hyderabad City Hospital,Hyderabad,917331765783,33,3.8,1719
+Dr. Anusha Varma,Neurologist,Anantapur Memorial Hospital,Anantapur,916157284993,13,3.6,1815
+Dr. Soujanya Goud,Neurologist,Hyderabad City Hospital,Hyderabad,917173456409,8,4.6,944
+Dr. Sridevi Prakash,Neurologist,Guntur Apollo Hospital,Guntur,917660626647,22,4.9,1066
+Dr. Harish Prakash,Neurologist,Vijayawada Trust Hospital,Vijayawada,919424338263,34,3.5,219
+Dr. Ramesh Raju,Neurologist,Kurnool Super Speciality Hospital,Kurnool,918587517187,12,4.1,707
+Dr. Ramesh Goud,Neurologist,Tirupati Trust Hospital,Tirupati,918838626452,19,3.6,1284
+Dr. Naresh Kumar,Neurologist,Guntur Care Hospital,Guntur,917906571986,23,3.9,1538
+Dr. Bhavani Raju,Neurologist,Vijayawada Memorial Hospital,Vijayawada,917179206294,4,3.2,1355
+Dr. Harish Murthy,Neurologist,Kurnool Apollo Hospital,Kurnool,919440681022,11,4.9,342
+Dr. Tejaswi Babu,Neurologist,Kurnool Apollo Hospital,Kurnool,917881937953,3,3.3,533
+Dr. Harish Raju,Neurologist,Vizianagaram Care Hospital,Vizianagaram,918436297208,3,4.2,1440
+Dr. Harish Goud,Neurologist,Vijayawada Super Speciality Hospital,Vijayawada,917906704716,5,4.1,1134
+Dr. Lakshmi Goud,Neurologist,Anantapur Trust Hospital,Anantapur,918789842140,18,3.5,282
+Dr. Naresh Yadav,Neurologist,Hyderabad Medical Center,Hyderabad,918223699008,25,4.8,291
+Dr. Mahesh Kumar,Neurologist,Rajahmundry Super Speciality Hospital,Rajahmundry,917916728422,14,5.0,634
+Dr. Kiran Naidu,Neurologist,Ongole Trust Hospital,Ongole,916582949109,5,3.9,1890
+Dr. Ramesh Babu,Neurologist,Vijayawada Apollo Hospital,Vijayawada,918928863857,21,4.3,1503
+Dr. Deepika Murthy,Neurologist,Secunderabad Memorial Hospital,Secunderabad,917247096480,20,4.7,1507
+Dr. Harish Murthy,Neurologist,Hyderabad General Hospital,Hyderabad,916963110410,8,5.0,1672
+Dr. Ravi Babu,Neurologist,Vizianagaram Memorial Hospital,Vizianagaram,918121808073,2,3.7,1222
+Dr. Sridevi Babu,Neurologist,Vijayawada Medical Center,Vijayawada,918369305560,9,4.2,226
+Dr. Anil Raju,Neurologist,Secunderabad Apollo Hospital,Secunderabad,919079206353,31,4.1,1625
+Dr. Madhavi Naidu,Neurologist,Visakhapatnam Super Speciality Hospital,Visakhapatnam,916538274418,21,4.3,971
+Dr. Tejaswi Murthy,Neurologist,Vijayawada Medical Center,Vijayawada,917479679716,9,4.8,1647
+Dr. Soujanya Sarma,Neurologist,Vizianagaram General Hospital,Vizianagaram,916781525718,9,3.9,1915
+Dr. Suresh Murthy,Neurologist,Visakhapatnam Global Hospital,Visakhapatnam,916657196424,20,3.3,710
+Dr. Harish Murthy,Neurologist,Hyderabad Medical Center,Hyderabad,919843677566,19,4.7,563
+Dr. Soujanya Murthy,Neurologist,Hyderabad Super Speciality Hospital,Hyderabad,917178758213,9,4.3,1308
+Dr. Ramesh Murthy,Neurologist,Kakinada Medical Center,Kakinada,918753020051,11,4.2,1239
+Dr. Naresh Acharya,Neurologist,Hyderabad Global Hospital,Hyderabad,918682117678,22,4.7,1204
+Dr. Srinivas Naidu,Neurologist,Anantapur General Hospital,Anantapur,916195256953,17,4.3,1620
+Dr. Padma Sarma,Neurologist,Tirupati Super Speciality Hospital,Tirupati,918744446292,2,4.0,1334
+Dr. Anil Acharya,Neurologist,Anantapur Trust Hospital,Anantapur,917297484349,31,3.5,1703
+Dr. Anil Yadav,Neurologist,Guntur General Hospital,Guntur,916313416738,4,3.3,901
+Dr. Sridevi Rao,Neurologist,Kurnool General Hospital,Kurnool,917461115950,10,3.6,1521
+Dr. Harish Raju,Neurologist,Kurnool Trust Hospital,Kurnool,916561636336,24,4.0,267
+Dr. Ravi Yadav,Neurologist,Vijayawada Medical Center,Vijayawada,916526227599,18,3.9,338
+Dr. Venkatesh Varma,Neurologist,Visakhapatnam Apollo Hospital,Visakhapatnam,917649910946,27,3.5,1822
+Dr. Rajesh Prakash,Neurologist,Hyderabad Institute of Medical Sciences,Hyderabad,918481146933,21,3.4,376
+Dr. Swathi Yadav,Neurologist,Vijayawada Institute of Medical Sciences,Vijayawada,918142156616,20,4.0,234
+Dr. Swathi Yadav,Neurologist,Kurnool City Hospital,Kurnool,917033921654,14,4.2,149
+Dr. Anil Yadav,Neurologist,Kakinada Memorial Hospital,Kakinada,918566323583,31,3.6,66
+Dr. Padma Chowdary,Neurologist,Anantapur General Hospital,Anantapur,919790118526,17,4.5,1614
+Dr. Harish Reddy,Neurologist,Guntur Memorial Hospital,Guntur,917720484983,4,4.1,448
+Dr. Deepika Varma,Neurologist,Kakinada Care Hospital,Kakinada,916315816454,25,4.0,1615
+Dr. Mahesh Krishna,Neurologist,Hyderabad Institute of Medical Sciences,Hyderabad,918676802207,8,3.3,248
+Dr. Harish Babu,Neurologist,Vizianagaram Institute of Medical Sciences,Vizianagaram,917456360258,24,4.5,457
+Dr. Swathi Raju,Neurologist,Hyderabad Memorial Hospital,Hyderabad,918147818256,3,3.1,330
+Dr. Anusha Murthy,Neurologist,Vijayawada Trust Hospital,Vijayawada,917962750929,10,4.2,1105
+Dr. Rajesh Prakash,Neurologist,Kakinada Global Hospital,Kakinada,918633107545,21,3.3,1312
+Dr. Madhavi Goud,Neurologist,Vizianagaram Apollo Hospital,Vizianagaram,918178901271,33,4.1,1501
+Dr. Anil Yadav,Neurologist,Vizianagaram Trust Hospital,Vizianagaram,919503614567,2,3.7,1429
+Dr. Padma Sarma,Neurologist,Kurnool Care Hospital,Kurnool,917321466224,2,4.2,593
+Dr. Madhavi Rao,Neurologist,Ongole Trust Hospital,Ongole,919098389895,4,4.2,399
+Dr. Soujanya Kumar,Neurologist,Hyderabad Super Speciality Hospital,Hyderabad,918661745020,25,3.3,1444
+Dr. Venkatesh Sarma,Neurologist,Hyderabad Apollo Hospital,Hyderabad,919008714405,8,3.4,953
+Dr. Padma Chowdary,Neurologist,Tirupati Trust Hospital,Tirupati,917773650170,14,3.8,1637
+Dr. Anusha Krishna,Neurologist,Hyderabad Institute of Medical Sciences,Hyderabad,919643751454,4,4.4,1112
+Dr. Deepika Goud,Neurologist,Hyderabad Care Hospital,Hyderabad,918844242456,31,4.1,692
+Dr. Sridevi Prakash,Neurologist,Visakhapatnam Medical Center,Visakhapatnam,918289763301,22,4.1,1434
+Dr. Bhavani Yadav,Neurologist,Rajahmundry Trust Hospital,Rajahmundry,916825768309,16,3.6,661
+Dr. Anil Babu,Neurologist,Hyderabad Care Hospital,Hyderabad,917241263320,14,4.4,1051
+Dr. Anusha Goud,Neurologist,Vijayawada Trust Hospital,Vijayawada,918407275865,18,3.6,1224
+Dr. Lakshmi Prakash,Neurologist,Hyderabad Institute of Medical Sciences,Hyderabad,917694503971,23,4.9,1697
+Dr. Anil Reddy,Neurologist,Kakinada Medical Center,Kakinada,917235362881,6,3.7,955
+Dr. Anusha Rao,Neurologist,Rajahmundry Apollo Hospital,Rajahmundry,916867875464,35,3.5,1201
+Dr. Prasad Naidu,Neurologist,Rajahmundry Apollo Hospital,Rajahmundry,918644312718,16,3.5,1421
+Dr. Ravi Acharya,Neurologist,Hyderabad City Hospital,Hyderabad,917000025413,4,3.2,726
+Dr. Suresh Acharya,Neurologist,Vijayawada Super Speciality Hospital,Vijayawada,919310415016,9,3.0,1177
+Dr. Padma Acharya,Neurologist,Hyderabad Care Hospital,Hyderabad,919782352003,31,4.0,458
+Dr. Rajesh Varma,Neurologist,Kurnool Medical Center,Kurnool,918774110439,4,4.8,233
+Dr. Ravi Murthy,Neurologist,Hyderabad General Hospital,Hyderabad,919172634443,3,4.8,408
+Dr. Naresh Prakash,Neurologist,Anantapur General Hospital,Anantapur,919949801453,3,5.0,863
+Dr. Naresh Prakash,Neurologist,Vijayawada Institute of Medical Sciences,Vijayawada,919216944250,19,4.8,68
+Dr. Madhavi Sarma,Neurologist,Vizianagaram Global Hospital,Vizianagaram,916460852958,22,3.6,1363
+Dr. Swathi Yadav,Neurologist,Hyderabad Institute of Medical Sciences,Hyderabad,919819342448,9,4.7,1008
+Dr. Kiran Babu,Neurologist,Rajahmundry General Hospital,Rajahmundry,916483814153,22,3.3,989
+Dr. Sirisha Chowdary,Neurologist,Rajahmundry Institute of Medical Sciences,Rajahmundry,916060491148,22,4.6,1212
+Dr. Naresh Sarma,Neurologist,Hyderabad Super Speciality Hospital,Hyderabad,919677121224,26,4.7,1105
+Dr. Ramesh Raju,Neurologist,Vijayawada General Hospital,Vijayawada,918874432021,7,3.4,337
+Dr. Rajesh Prakash,Neurologist,Vijayawada General Hospital,Vijayawada,917065354117,1,3.5,532
+Dr. Mahesh Goud,Neurologist,Vijayawada Apollo Hospital,Vijayawada,917296847488,1,3.5,786
+Dr. Venkatesh Acharya,Neurologist,Hyderabad Memorial Hospital,Hyderabad,916507771858,30,3.6,880
+Dr. Sirisha Babu,Neurologist,Visakhapatnam Medical Center,Visakhapatnam,917335640103,8,4.3,1976
+Dr. Harish Sarma,Neurologist,Rajahmundry Institute of Medical Sciences,Rajahmundry,916948540266,15,4.9,1029
+Dr. Sridevi Kumar,Neurologist,Hyderabad Super Speciality Hospital,Hyderabad,918601628976,24,3.8,1174
+Dr. Deepika Babu,Neurologist,Vijayawada Institute of Medical Sciences,Vijayawada,918852263888,14,4.5,1443
+Dr. Ramesh Murthy,Neurologist,Hyderabad Institute of Medical Sciences,Hyderabad,917918767949,34,4.4,209
+Dr. Suresh Reddy,Neurologist,Tirupati Super Speciality Hospital,Tirupati,919559557470,33,3.4,1149
+Dr. Naresh Goud,Neurologist,Hyderabad Global Hospital,Hyderabad,919669989454,34,3.9,1443
+Dr. Sirisha Sarma,Neurologist,Hyderabad Medical Center,Hyderabad,918099500153,6,4.8,962
+Dr. Sridevi Chowdary,Neurologist,Hyderabad City Hospital,Hyderabad,918204382691,27,3.9,168
+Dr. Sridevi Acharya,Neurologist,Vizianagaram Apollo Hospital,Vizianagaram,919465675062,20,4.4,860
+Dr. Srinivas Kumar,Neurologist,Vizianagaram General Hospital,Vizianagaram,916935878994,5,3.1,755
+Dr. Deepika Reddy,Neurologist,Vizianagaram Medical Center,Vizianagaram,919840638976,5,5.0,1016
+Dr. Anil Raju,Neurologist,Kakinada Care Hospital,Kakinada,916773013901,9,4.5,1543
+Dr. Harish Prakash,Neurologist,Guntur City Hospital,Guntur,917642737456,29,4.7,1907
+Dr. Lakshmi Naidu,Neurologist,Guntur Apollo Hospital,Guntur,918932304514,35,3.3,1811
+Dr. Suresh Chowdary,Neurologist,Vijayawada Care Hospital,Vijayawada,918307507627,26,4.1,1540
+Dr. Srinivas Babu,Neurologist,Tirupati Global Hospital,Tirupati,916097647459,20,3.9,1522
+Dr. Padma Murthy,Neurologist,Hyderabad Memorial Hospital,Hyderabad,917628980027,15,3.5,758
+Dr. Mahesh Rao,Neurologist,Hyderabad Super Speciality Hospital,Hyderabad,919758990493,8,3.1,1402
+Dr. Bhavani Babu,Neurologist,Guntur Medical Center,Guntur,919795705770,2,3.5,187
+Dr. Bhavani Reddy,Neurologist,Secunderabad Institute of Medical Sciences,Secunderabad,917917449772,4,3.5,140
+Dr. Sridevi Rao,Neurologist,Guntur City Hospital,Guntur,918318250726,14,4.5,1639
+Dr. Prasad Murthy,Neurologist,Hyderabad Apollo Hospital,Hyderabad,917242377075,15,4.6,1548
+Dr. Rajesh Sarma,Neurologist,Ongole Care Hospital,Ongole,918568036839,21,3.5,1844
+Dr. Tejaswi Murthy,Neurologist,Visakhapatnam General Hospital,Visakhapatnam,916949371357,27,3.6,174
+Dr. Madhavi Prakash,Neurologist,Hyderabad Care Hospital,Hyderabad,919157711961,12,4.3,924
+Dr. Anusha Reddy,Neurologist,Ongole Trust Hospital,Ongole,917479250414,25,4.6,702
+Dr. Padma Chowdary,Neurologist,Guntur Medical Center,Guntur,917288011277,25,3.4,1151
+Dr. Ravi Krishna,Neurologist,Vijayawada Memorial Hospital,Vijayawada,916967847466,20,4.7,345
+Dr. Venkatesh Murthy,Neurologist,Vijayawada Super Speciality Hospital,Vijayawada,917772436303,27,4.1,324
+Dr. Ravi Varma,Neurologist,Tirupati General Hospital,Tirupati,916873324617,22,4.3,1938
+Dr. Harish Naidu,Neurologist,Vijayawada Memorial Hospital,Vijayawada,918300537106,13,3.1,822
+Dr. Bhavani Reddy,Neurologist,Hyderabad Apollo Hospital,Hyderabad,919752171298,5,3.4,1609
+Dr. Tejaswi Murthy,Neurologist,Hyderabad Apollo Hospital,Hyderabad,916932078864,31,3.4,1907
+Dr. Anil Prakash,Neurologist,Vijayawada Care Hospital,Vijayawada,916065857791,14,4.9,1568
+Dr. Anusha Prakash,Neurologist,Secunderabad City Hospital,Secunderabad,917041929790,14,3.8,540
+Dr. Rajesh Babu,Neurologist,Hyderabad Institute of Medical Sciences,Hyderabad,917215730003,25,3.9,1378
+Dr. Anil Varma,Neurologist,Tirupati General Hospital,Tirupati,917544661869,33,4.8,1004
+Dr. Anusha Babu,Neurologist,Vizianagaram Care Hospital,Vizianagaram,919606617978,21,4.8,809
+Dr. Padma Reddy,Neurologist,Vizianagaram Trust Hospital,Vizianagaram,918416025300,15,4.5,83
+Dr. Deepika Prakash,Neurologist,Kakinada Super Speciality Hospital,Kakinada,918508397912,27,3.6,451
+Dr. Ravi Raju,Neurologist,Vijayawada Super Speciality Hospital,Vijayawada,918447227327,16,4.0,1390
+Dr. Mahesh Babu,Neurologist,Vijayawada General Hospital,Vijayawada,919528710502,32,4.9,1364
+Dr. Sridevi Chowdary,Neurologist,Vijayawada Global Hospital,Vijayawada,919147232770,23,3.3,1525
+Dr. Anusha Chowdary,Neurologist,Hyderabad Care Hospital,Hyderabad,919938052866,35,5.0,170
+Dr. Venkatesh Krishna,Neurologist,Hyderabad Memorial Hospital,Hyderabad,919636537575,5,4.9,1418
+Dr. Srinivas Raju,Neurologist,Ongole Care Hospital,Ongole,916590521614,15,3.1,359
+Dr. Kiran Murthy,Neurologist,Hyderabad Apollo Hospital,Hyderabad,917958546579,24,3.1,1356
+Dr. Anusha Acharya,Neurologist,Ongole City Hospital,Ongole,918095318649,2,3.0,1179
+Dr. Srinivas Reddy,Neurologist,Anantapur Memorial Hospital,Anantapur,918273831457,18,4.1,637
+Dr. Swathi Krishna,Neurologist,Hyderabad City Hospital,Hyderabad,918997281896,28,4.6,1913
+Dr. Suresh Prakash,Neurologist,Tirupati Apollo Hospital,Tirupati,916413665007,34,3.3,443
+Dr. Swathi Varma,Neurologist,Hyderabad General Hospital,Hyderabad,919501319147,23,3.5,862
+Dr. Harish Raju,Neurologist,Secunderabad Apollo Hospital,Secunderabad,917971380304,16,5.0,512
+Dr. Tejaswi Krishna,Neurologist,Rajahmundry Trust Hospital,Rajahmundry,919641561499,6,4.3,1807
+Dr. Ramesh Raju,Neurologist,Hyderabad Memorial Hospital,Hyderabad,917628926576,25,4.1,164
+Dr. Sirisha Chowdary,Neurologist,Hyderabad Care Hospital,Hyderabad,916355134188,32,4.7,1370
+Dr. Madhavi Krishna,Neurologist,Ongole Global Hospital,Ongole,916409575959,34,4.8,520
+Dr. Sirisha Prakash,Neurologist,Hyderabad Apollo Hospital,Hyderabad,918434319360,31,3.5,1942
+Dr. Tejaswi Prakash,Neurologist,Kurnool General Hospital,Kurnool,917204192904,35,4.1,117
+Dr. Rajesh Reddy,Neurologist,Hyderabad City Hospital,Hyderabad,916889737338,10,4.5,1509
+Dr. Ramesh Varma,Neurologist,Tirupati General Hospital,Tirupati,916697718498,16,4.1,1789
+Dr. Tejaswi Prakash,Neurologist,Kakinada Global Hospital,Kakinada,918321697981,22,3.8,1564
+Dr. Sirisha Kumar,Neurologist,Hyderabad General Hospital,Hyderabad,916336844365,33,4.5,758
+Dr. Suresh Raju,Neurologist,Hyderabad City Hospital,Hyderabad,916997050893,5,3.7,1624
+Dr. Bhavani Raju,Neurologist,Hyderabad Trust Hospital,Hyderabad,919322393065,21,3.1,609
+Dr. Anusha Rao,Neurologist,Vijayawada Global Hospital,Vijayawada,917528197464,25,3.9,1442
+Dr. Tejaswi Raju,Neurologist,Hyderabad Apollo Hospital,Hyderabad,916368053428,19,4.6,1510
+Dr. Ramesh Varma,Neurologist,Secunderabad Care Hospital,Secunderabad,916662373991,25,4.4,1348
+Dr. Lakshmi Goud,Neurologist,Hyderabad Institute of Medical Sciences,Hyderabad,917549195708,7,3.2,1981
+Dr. Sridevi Goud,Neurologist,Rajahmundry Institute of Medical Sciences,Rajahmundry,919269958296,18,3.2,228
+Dr. Padma Yadav,Neurologist,Tirupati Trust Hospital,Tirupati,918392232487,33,3.8,103
+Dr. Harish Murthy,Neurologist,Visakhapatnam City Hospital,Visakhapatnam,916399707954,21,4.7,75
+Dr. Padma Raju,Neurologist,Rajahmundry Super Speciality Hospital,Rajahmundry,919346505855,6,4.4,1195
+Dr. Madhavi Murthy,Neurologist,Hyderabad City Hospital,Hyderabad,916728353118,25,3.3,600
+Dr. Mahesh Yadav,Neurologist,Rajahmundry General Hospital,Rajahmundry,916626785308,5,3.3,615
+Dr. Anil Yadav,Neurologist,Tirupati Apollo Hospital,Tirupati,919361527572,5,3.7,1983
+Dr. Soujanya Yadav,Neurologist,Hyderabad Institute of Medical Sciences,Hyderabad,918550379054,13,3.9,327
+Dr. Srinivas Raju,Neurologist,Kurnool Super Speciality Hospital,Kurnool,917426862057,25,4.6,724
+Dr. Rajesh Raju,Neurologist,Visakhapatnam Care Hospital,Visakhapatnam,919502440472,9,3.6,1285
+Dr. Anusha Goud,Neurologist,Ongole Medical Center,Ongole,916762946257,26,4.9,646
+Dr. Madhavi Babu,Neurologist,Vijayawada Institute of Medical Sciences,Vijayawada,917041204430,21,3.8,1722
+Dr. Harish Naidu,Neurologist,Guntur Trust Hospital,Guntur,918421719519,13,4.2,1167
+Dr. Tejaswi Babu,Neurologist,Hyderabad City Hospital,Hyderabad,918362657890,2,4.9,995
+Dr. Sridevi Babu,Neurologist,Hyderabad Super Speciality Hospital,Hyderabad,917251258015,5,4.6,1679
+Dr. Tejaswi Yadav,Neurologist,Guntur City Hospital,Guntur,916597769760,20,3.5,1398
+Dr. Sirisha Raju,Neurologist,Tirupati Institute of Medical Sciences,Tirupati,919389058904,25,3.1,1274
+Dr. Madhavi Raju,Neurologist,Kakinada City Hospital,Kakinada,918295090505,33,4.8,1831
+Dr. Deepika Reddy,Neurologist,Vizianagaram Medical Center,Vizianagaram,919396120475,24,4.4,1713
+Dr. Bhavani Acharya,Neurologist,Vizianagaram Memorial Hospital,Vizianagaram,919927323476,6,3.2,558
+Dr. Naresh Acharya,Neurologist,Visakhapatnam General Hospital,Visakhapatnam,918631431563,3,4.1,1371
+Dr. Rajesh Babu,Neurologist,Kakinada City Hospital,Kakinada,917848792488,7,3.0,579
+Dr. Swathi Kumar,Neurologist,Hyderabad Memorial Hospital,Hyderabad,918228219449,15,3.9,851
+Dr. Tejaswi Sarma,Neurologist,Vizianagaram Super Speciality Hospital,Vizianagaram,918965405644,33,3.3,100
+Dr. Suresh Varma,Neurologist,Vijayawada City Hospital,Vijayawada,917786600854,6,3.2,1976
+Dr. Harish Varma,Neurologist,Anantapur Care Hospital,Anantapur,917473460179,30,4.6,1117
+Dr. Harish Yadav,Neurologist,Kakinada Institute of Medical Sciences,Kakinada,916419287737,29,4.4,976
+Dr. Ramesh Varma,Neurologist,Anantapur General Hospital,Anantapur,916191912243,8,3.0,752
+Dr. Tejaswi Babu,Neurologist,Kurnool Institute of Medical Sciences,Kurnool,916705895455,16,4.0,1180
+Dr. Rajesh Murthy,Neurologist,Kurnool Medical Center,Kurnool,917831242551,30,3.5,879
+Dr. Naresh Acharya,Neurologist,Tirupati Global Hospital,Tirupati,918823115971,28,3.8,1560
+Dr. Kiran Yadav,Neurologist,Visakhapatnam General Hospital,Visakhapatnam,918543493201,28,3.8,1493
+Dr. Kiran Varma,Neurologist,Hyderabad Apollo Hospital,Hyderabad,919231213392,5,4.2,1687
+Dr. Naresh Goud,Neurologist,Ongole Medical Center,Ongole,917400094541,13,3.9,587
+Dr. Swathi Acharya,Neurologist,Tirupati Medical Center,Tirupati,917346060408,25,4.2,1252
+Dr. Harish Goud,Neurologist,Secunderabad Apollo Hospital,Secunderabad,919631471321,30,4.2,1716
+Dr. Bhavani Sarma,Neurologist,Rajahmundry Institute of Medical Sciences,Rajahmundry,916364006941,9,3.6,538
+Dr. Suresh Chowdary,Neurologist,Rajahmundry General Hospital,Rajahmundry,917603337351,10,4.0,906
+Dr. Prasad Sarma,Neurologist,Hyderabad Trust Hospital,Hyderabad,917648021756,28,3.4,1351
+Dr. Sirisha Prakash,Neurologist,Anantapur Medical Center,Anantapur,918771370988,12,4.1,1052
+Dr. Prasad Chowdary,Neurologist,Rajahmundry Global Hospital,Rajahmundry,917351110867,29,4.2,1822
+Dr. Srinivas Yadav,Neurologist,Vijayawada Apollo Hospital,Vijayawada,916586412136,13,4.6,1200
+Dr. Soujanya Yadav,Neurologist,Kurnool Memorial Hospital,Kurnool,917757218651,32,3.8,1770
+Dr. Anusha Chowdary,Neurologist,Vizianagaram Trust Hospital,Vizianagaram,916355067637,2,4.6,501
+Dr. Venkatesh Varma,Neurologist,Kakinada City Hospital,Kakinada,916965695131,35,3.6,1648
+Dr. Madhavi Kumar,Neurologist,Visakhapatnam Medical Center,Visakhapatnam,919318066826,32,4.1,281
+Dr. Suresh Varma,Neurologist,Hyderabad Institute of Medical Sciences,Hyderabad,919329085107,35,4.6,801
+Dr. Venkatesh Babu,Neurologist,Hyderabad Apollo Hospital,Hyderabad,919087996613,29,4.1,920
+Dr. Soujanya Babu,Neurologist,Secunderabad Institute of Medical Sciences,Secunderabad,917063140236,20,4.7,116
+Dr. Mahesh Goud,Neurologist,Vijayawada Global Hospital,Vijayawada,919703119199,6,3.9,290
+Dr. Kiran Babu,Neurologist,Visakhapatnam Medical Center,Visakhapatnam,919168023631,23,4.7,1299
+Dr. Naresh Sarma,Neurologist,Guntur Care Hospital,Guntur,916598009614,14,4.6,1699
+Dr. Madhavi Goud,Neurologist,Hyderabad Super Speciality Hospital,Hyderabad,918286128610,18,4.2,394
+Dr. Sirisha Varma,Neurologist,Tirupati Super Speciality Hospital,Tirupati,917242676804,18,4.9,1103
+Dr. Prasad Babu,Neurologist,Secunderabad Trust Hospital,Secunderabad,919374517348,27,4.8,617
+Dr. Sirisha Krishna,Neurologist,Hyderabad Trust Hospital,Hyderabad,916569902893,16,3.3,709
+Dr. Tejaswi Raju,Neurologist,Vizianagaram Super Speciality Hospital,Vizianagaram,918102209245,10,4.2,600
+Dr. Lakshmi Yadav,Neurologist,Guntur Care Hospital,Guntur,916324339920,6,3.8,1585
+Dr. Sirisha Prakash,Orthopedic,Rajahmundry Trust Hospital,Rajahmundry,919768049371,24,3.9,1049
+Dr. Madhavi Reddy,Orthopedic,Vizianagaram Memorial Hospital,Vizianagaram,919731930416,6,4.5,988
+Dr. Ramesh Babu,Orthopedic,Visakhapatnam Medical Center,Visakhapatnam,918295335613,26,3.4,929
+Dr. Anusha Varma,Orthopedic,Tirupati Apollo Hospital,Tirupati,917386695233,19,3.7,1233
+Dr. Madhavi Krishna,Orthopedic,Vizianagaram Trust Hospital,Vizianagaram,918084510429,22,4.8,1611
+Dr. Venkatesh Naidu,Orthopedic,Kurnool Institute of Medical Sciences,Kurnool,918689420564,30,3.0,1953
+Dr. Sridevi Yadav,Orthopedic,Hyderabad Memorial Hospital,Hyderabad,916002903074,28,3.4,1460
+Dr. Soujanya Varma,Orthopedic,Hyderabad Memorial Hospital,Hyderabad,916682802977,18,3.2,788
+Dr. Ramesh Goud,Orthopedic,Ongole General Hospital,Ongole,918854043590,11,3.1,1331
+Dr. Sirisha Babu,Orthopedic,Rajahmundry Trust Hospital,Rajahmundry,917005640129,28,4.3,1491
+Dr. Srinivas Rao,Orthopedic,Visakhapatnam City Hospital,Visakhapatnam,918047869247,5,3.3,513
+Dr. Tejaswi Yadav,Orthopedic,Anantapur General Hospital,Anantapur,916039887139,1,4.4,1723
+Dr. Padma Kumar,Orthopedic,Secunderabad Care Hospital,Secunderabad,916567687951,31,3.1,834
+Dr. Suresh Naidu,Orthopedic,Visakhapatnam Care Hospital,Visakhapatnam,917345834347,24,4.8,330
+Dr. Prasad Acharya,Orthopedic,Vizianagaram Medical Center,Vizianagaram,918908281627,10,3.1,1203
+Dr. Bhavani Acharya,Orthopedic,Kurnool Super Speciality Hospital,Kurnool,916704875220,29,3.7,486
+Dr. Padma Sarma,Orthopedic,Visakhapatnam City Hospital,Visakhapatnam,918948779260,29,4.7,227
+Dr. Prasad Babu,Orthopedic,Secunderabad General Hospital,Secunderabad,916528956230,25,3.7,929
+Dr. Prasad Rao,Orthopedic,Vizianagaram Apollo Hospital,Vizianagaram,917189567020,6,3.5,1280
+Dr. Bhavani Varma,Orthopedic,Hyderabad General Hospital,Hyderabad,919345649167,2,4.7,1398
+Dr. Kiran Murthy,Orthopedic,Visakhapatnam Care Hospital,Visakhapatnam,918606731065,33,3.4,852
+Dr. Soujanya Reddy,Orthopedic,Visakhapatnam Memorial Hospital,Visakhapatnam,919366402219,16,4.0,280
+Dr. Anusha Acharya,Orthopedic,Anantapur Care Hospital,Anantapur,918550908958,5,4.1,74
+Dr. Rajesh Chowdary,Orthopedic,Vijayawada Medical Center,Vijayawada,917661457617,27,3.7,1448
+Dr. Anusha Babu,Orthopedic,Hyderabad Medical Center,Hyderabad,916313497572,2,4.2,78
+Dr. Kiran Reddy,Orthopedic,Rajahmundry Care Hospital,Rajahmundry,919962447893,4,4.9,865
+Dr. Anil Acharya,Orthopedic,Hyderabad Trust Hospital,Hyderabad,919060718580,33,4.5,917
+Dr. Ramesh Acharya,Orthopedic,Visakhapatnam Super Speciality Hospital,Visakhapatnam,918304528350,35,4.2,618
+Dr. Anil Naidu,Orthopedic,Tirupati General Hospital,Tirupati,918196036938,14,4.9,368
+Dr. Rajesh Raju,Orthopedic,Hyderabad Trust Hospital,Hyderabad,918518728422,5,3.6,945
+Dr. Venkatesh Rao,Orthopedic,Visakhapatnam Apollo Hospital,Visakhapatnam,916370281126,28,3.2,1303
+Dr. Venkatesh Varma,Orthopedic,Vizianagaram Care Hospital,Vizianagaram,918860790008,12,3.2,1499
+Dr. Sirisha Reddy,Orthopedic,Hyderabad Care Hospital,Hyderabad,916703655804,32,4.9,1121
+Dr. Mahesh Chowdary,Orthopedic,Hyderabad Super Speciality Hospital,Hyderabad,917597167064,9,4.5,1838
+Dr. Suresh Babu,Orthopedic,Kakinada Super Speciality Hospital,Kakinada,919865030023,2,3.7,929
+Dr. Swathi Naidu,Orthopedic,Tirupati City Hospital,Tirupati,917129360134,5,4.0,1096
+Dr. Venkatesh Yadav,Orthopedic,Tirupati City Hospital,Tirupati,919690922160,11,3.7,572
+Dr. Madhavi Acharya,Orthopedic,Secunderabad Institute of Medical Sciences,Secunderabad,919104309491,8,3.5,1092
+Dr. Venkatesh Krishna,Orthopedic,Hyderabad Apollo Hospital,Hyderabad,919706249669,1,3.5,1016
+Dr. Lakshmi Prakash,Orthopedic,Ongole Super Speciality Hospital,Ongole,916644608746,12,4.9,1806
+Dr. Deepika Babu,Orthopedic,Hyderabad Institute of Medical Sciences,Hyderabad,919925375344,27,3.4,558
+Dr. Rajesh Varma,Orthopedic,Vizianagaram Trust Hospital,Vizianagaram,919547630097,5,4.1,294
+Dr. Tejaswi Prakash,Orthopedic,Hyderabad Super Speciality Hospital,Hyderabad,916226225156,12,3.4,1106
+Dr. Lakshmi Naidu,Orthopedic,Hyderabad Care Hospital,Hyderabad,919766648694,30,4.7,1634
+Dr. Rajesh Naidu,Orthopedic,Rajahmundry Apollo Hospital,Rajahmundry,918375509447,30,3.0,460
+Dr. Madhavi Babu,Orthopedic,Anantapur Apollo Hospital,Anantapur,917305280521,16,3.9,1261
+Dr. Kiran Kumar,Orthopedic,Vijayawada General Hospital,Vijayawada,919867374499,35,4.5,552
+Dr. Srinivas Prakash,Orthopedic,Tirupati Super Speciality Hospital,Tirupati,917761091683,2,3.5,759
+Dr. Rajesh Reddy,Orthopedic,Hyderabad Medical Center,Hyderabad,919259575902,25,4.7,1539
+Dr. Suresh Rao,Orthopedic,Rajahmundry Memorial Hospital,Rajahmundry,918275535874,16,3.8,172
+Dr. Sirisha Varma,Orthopedic,Hyderabad Super Speciality Hospital,Hyderabad,916399546384,3,4.8,1887
+Dr. Padma Kumar,Orthopedic,Kakinada Institute of Medical Sciences,Kakinada,919846477959,24,3.9,1581
+Dr. Madhavi Naidu,Orthopedic,Kurnool Super Speciality Hospital,Kurnool,918170795726,9,4.3,857
+Dr. Madhavi Sarma,Orthopedic,Secunderabad Medical Center,Secunderabad,916267502879,28,4.3,317
+Dr. Anil Varma,Orthopedic,Hyderabad Apollo Hospital,Hyderabad,919654646530,21,4.9,854
+Dr. Rajesh Yadav,Orthopedic,Vijayawada General Hospital,Vijayawada,917168041588,15,3.1,465
+Dr. Madhavi Naidu,Orthopedic,Hyderabad Institute of Medical Sciences,Hyderabad,916667483244,7,3.3,1004
+Dr. Padma Naidu,Orthopedic,Vijayawada Care Hospital,Vijayawada,918301778419,23,4.9,475
+Dr. Anil Yadav,Orthopedic,Tirupati Care Hospital,Tirupati,917138200363,8,3.2,1703
+Dr. Sirisha Kumar,Orthopedic,Rajahmundry General Hospital,Rajahmundry,918591164476,3,3.4,1804
+Dr. Prasad Naidu,Orthopedic,Vizianagaram General Hospital,Vizianagaram,919054397788,16,4.9,861
+Dr. Venkatesh Acharya,Orthopedic,Hyderabad Care Hospital,Hyderabad,917283511098,17,4.6,406
+Dr. Lakshmi Krishna,Orthopedic,Hyderabad Memorial Hospital,Hyderabad,917942189222,16,3.2,258
+Dr. Suresh Reddy,Orthopedic,Visakhapatnam Memorial Hospital,Visakhapatnam,916264867118,15,3.3,1736
+Dr. Harish Acharya,Orthopedic,Guntur Super Speciality Hospital,Guntur,918707107352,6,4.2,580
+Dr. Srinivas Naidu,Orthopedic,Secunderabad Trust Hospital,Secunderabad,916849331223,29,4.6,238
+Dr. Suresh Reddy,Orthopedic,Vijayawada General Hospital,Vijayawada,917979958124,4,3.3,1225
+Dr. Lakshmi Yadav,Orthopedic,Vizianagaram Global Hospital,Vizianagaram,916126625486,25,4.4,403
+Dr. Kiran Prakash,Orthopedic,Vijayawada Medical Center,Vijayawada,916803807914,18,3.6,1859
+Dr. Venkatesh Sarma,Orthopedic,Visakhapatnam Institute of Medical Sciences,Visakhapatnam,918659343022,16,4.3,1071
+Dr. Deepika Yadav,Orthopedic,Anantapur Global Hospital,Anantapur,916261903104,6,3.6,331
+Dr. Kiran Acharya,Orthopedic,Guntur General Hospital,Guntur,919799553602,34,3.5,1692
+Dr. Srinivas Raju,Orthopedic,Hyderabad General Hospital,Hyderabad,919358302654,23,4.0,1650
+Dr. Harish Prakash,Orthopedic,Vijayawada Apollo Hospital,Vijayawada,918429453032,33,3.6,603
+Dr. Srinivas Goud,Orthopedic,Hyderabad General Hospital,Hyderabad,918564595211,15,3.1,1710
+Dr. Venkatesh Babu,Orthopedic,Visakhapatnam Super Speciality Hospital,Visakhapatnam,918025869016,34,3.7,1246
+Dr. Naresh Naidu,Orthopedic,Kakinada General Hospital,Kakinada,917064537936,16,3.5,1721
+Dr. Ravi Sarma,Orthopedic,Anantapur Super Speciality Hospital,Anantapur,919635711661,25,3.7,1768
+Dr. Naresh Rao,Orthopedic,Kakinada General Hospital,Kakinada,918544851934,21,4.6,1478
+Dr. Madhavi Reddy,Orthopedic,Vijayawada City Hospital,Vijayawada,919021307114,23,4.9,1204
+Dr. Madhavi Rao,Orthopedic,Hyderabad City Hospital,Hyderabad,919593585539,32,4.1,409
+Dr. Venkatesh Naidu,Orthopedic,Vijayawada Medical Center,Vijayawada,916241239647,15,4.2,90
+Dr. Anusha Reddy,Orthopedic,Visakhapatnam Medical Center,Visakhapatnam,917424786638,13,4.6,747
+Dr. Rajesh Reddy,Orthopedic,Ongole Super Speciality Hospital,Ongole,916094115188,10,4.2,1928
+Dr. Suresh Krishna,Orthopedic,Hyderabad General Hospital,Hyderabad,918260419271,24,4.9,815
+Dr. Madhavi Naidu,Orthopedic,Guntur Global Hospital,Guntur,917445518797,20,3.6,372
+Dr. Soujanya Yadav,Orthopedic,Guntur Medical Center,Guntur,918788208029,21,3.3,1200
+Dr. Harish Rao,Orthopedic,Hyderabad City Hospital,Hyderabad,918858436754,12,3.8,1553
+Dr. Prasad Chowdary,Orthopedic,Rajahmundry Super Speciality Hospital,Rajahmundry,919130305126,1,4.9,1992
+Dr. Lakshmi Krishna,Orthopedic,Hyderabad Care Hospital,Hyderabad,919310691309,3,3.4,701
+Dr. Ravi Acharya,Orthopedic,Hyderabad Medical Center,Hyderabad,918429019820,7,4.9,338
+Dr. Ramesh Rao,Orthopedic,Ongole Memorial Hospital,Ongole,917489538120,21,3.3,1863
+Dr. Sirisha Acharya,Orthopedic,Secunderabad General Hospital,Secunderabad,918744925141,22,3.9,593
+Dr. Ravi Kumar,Orthopedic,Kakinada Medical Center,Kakinada,916291176364,23,3.5,271
+Dr. Venkatesh Raju,Orthopedic,Hyderabad Institute of Medical Sciences,Hyderabad,917882141157,27,4.9,1861
+Dr. Anusha Prakash,Orthopedic,Kurnool Memorial Hospital,Kurnool,917626558140,23,4.1,257
+Dr. Madhavi Acharya,Orthopedic,Vijayawada General Hospital,Vijayawada,919256631219,15,3.3,200
+Dr. Anil Reddy,Orthopedic,Vizianagaram City Hospital,Vizianagaram,917368878709,17,4.9,201
+Dr. Naresh Prakash,Orthopedic,Visakhapatnam Trust Hospital,Visakhapatnam,917612579345,11,4.5,1170
+Dr. Rajesh Sarma,Orthopedic,Secunderabad Super Speciality Hospital,Secunderabad,918635584024,31,4.4,933
+Dr. Bhavani Prakash,Orthopedic,Kakinada Institute of Medical Sciences,Kakinada,917864876473,11,3.1,728
+Dr. Kiran Raju,Orthopedic,Hyderabad Care Hospital,Hyderabad,918994437044,35,3.5,626
+Dr. Ravi Naidu,Orthopedic,Rajahmundry Apollo Hospital,Rajahmundry,916213182609,26,4.1,1770
+Dr. Prasad Reddy,Orthopedic,Vijayawada Apollo Hospital,Vijayawada,917549748436,1,3.9,653
+Dr. Anusha Rao,Orthopedic,Visakhapatnam Global Hospital,Visakhapatnam,916416555576,2,3.4,1357
+Dr. Ramesh Yadav,Orthopedic,Rajahmundry Trust Hospital,Rajahmundry,919623960580,8,3.6,864
+Dr. Anusha Prakash,Orthopedic,Vijayawada Care Hospital,Vijayawada,918839145425,17,3.2,1164
+Dr. Naresh Goud,Orthopedic,Ongole General Hospital,Ongole,919803162153,25,3.7,962
+Dr. Mahesh Yadav,Orthopedic,Hyderabad Care Hospital,Hyderabad,917997408731,17,3.5,600
+Dr. Venkatesh Chowdary,Orthopedic,Hyderabad Institute of Medical Sciences,Hyderabad,919230825332,7,3.2,754
+Dr. Padma Babu,Orthopedic,Hyderabad Institute of Medical Sciences,Hyderabad,918532855799,15,4.1,1771
+Dr. Swathi Raju,Orthopedic,Guntur Memorial Hospital,Guntur,918300016872,31,4.1,532
+Dr. Anil Naidu,Orthopedic,Vijayawada Institute of Medical Sciences,Vijayawada,917695671834,3,4.0,1894
+Dr. Madhavi Acharya,Orthopedic,Kakinada Super Speciality Hospital,Kakinada,918664052763,10,3.2,1600
+Dr. Naresh Chowdary,Orthopedic,Vijayawada Trust Hospital,Vijayawada,916910061300,13,3.3,917
+Dr. Tejaswi Raju,Orthopedic,Secunderabad Apollo Hospital,Secunderabad,916867236691,10,4.7,578
+Dr. Ramesh Naidu,Orthopedic,Vijayawada Memorial Hospital,Vijayawada,917666873181,26,4.1,1804
+Dr. Swathi Yadav,Orthopedic,Vizianagaram Global Hospital,Vizianagaram,919939180397,1,4.6,1326
+Dr. Swathi Babu,Orthopedic,Visakhapatnam Medical Center,Visakhapatnam,917802141793,8,3.8,353
+Dr. Madhavi Sarma,Orthopedic,Hyderabad Care Hospital,Hyderabad,919257206064,7,4.8,1202
+Dr. Anil Krishna,Orthopedic,Secunderabad City Hospital,Secunderabad,918300528259,23,4.8,590
+Dr. Soujanya Yadav,Orthopedic,Kakinada Memorial Hospital,Kakinada,918456821088,31,3.1,614
+Dr. Prasad Sarma,Orthopedic,Guntur Medical Center,Guntur,918614154439,26,3.1,1871
+Dr. Sirisha Rao,Orthopedic,Kurnool Memorial Hospital,Kurnool,916211703120,31,4.8,1887
+Dr. Srinivas Goud,Orthopedic,Vijayawada Institute of Medical Sciences,Vijayawada,919510645808,20,3.6,1776
+Dr. Sirisha Acharya,Orthopedic,Vijayawada General Hospital,Vijayawada,916421840452,15,3.3,1573
+Dr. Rajesh Varma,Orthopedic,Visakhapatnam Global Hospital,Visakhapatnam,919130169646,27,4.2,232
+Dr. Sridevi Rao,Orthopedic,Hyderabad General Hospital,Hyderabad,919923164030,27,4.5,1605
+Dr. Harish Krishna,Orthopedic,Anantapur Medical Center,Anantapur,916241402174,33,4.6,184
+Dr. Sirisha Murthy,Orthopedic,Rajahmundry Medical Center,Rajahmundry,917732526008,9,4.6,1123
+Dr. Srinivas Chowdary,Orthopedic,Anantapur Trust Hospital,Anantapur,916827912699,13,4.7,560
+Dr. Sridevi Reddy,Orthopedic,Hyderabad Institute of Medical Sciences,Hyderabad,919942913436,24,4.4,611
+Dr. Sridevi Murthy,Orthopedic,Tirupati Super Speciality Hospital,Tirupati,917704854104,8,4.4,545
+Dr. Anusha Sarma,Orthopedic,Vizianagaram Medical Center,Vizianagaram,917915999663,12,4.9,1021
+Dr. Deepika Goud,Orthopedic,Hyderabad Trust Hospital,Hyderabad,917478538226,11,4.7,579
+Dr. Anil Reddy,Orthopedic,Secunderabad City Hospital,Secunderabad,917660286914,4,3.3,1221
+Dr. Ravi Acharya,Orthopedic,Hyderabad Medical Center,Hyderabad,916966848837,14,3.5,888
+Dr. Srinivas Krishna,Orthopedic,Tirupati Memorial Hospital,Tirupati,919351378715,1,3.9,320
+Dr. Bhavani Babu,Orthopedic,Hyderabad Super Speciality Hospital,Hyderabad,916036351450,15,3.5,1698
+Dr. Sirisha Kumar,Orthopedic,Kakinada Institute of Medical Sciences,Kakinada,918760548616,18,3.8,821
+Dr. Sridevi Varma,Orthopedic,Kurnool Medical Center,Kurnool,916937200760,30,3.6,1116
+Dr. Lakshmi Sarma,Orthopedic,Visakhapatnam Medical Center,Visakhapatnam,916439427140,1,4.0,1406
+Dr. Deepika Acharya,Orthopedic,Tirupati General Hospital,Tirupati,918550233647,19,3.6,271
+Dr. Ramesh Goud,Orthopedic,Anantapur Trust Hospital,Anantapur,917187486518,21,4.7,584
+Dr. Kiran Chowdary,Orthopedic,Vizianagaram Global Hospital,Vizianagaram,918221759035,16,4.8,1699
+Dr. Lakshmi Acharya,Orthopedic,Anantapur Trust Hospital,Anantapur,917372610291,9,4.4,1392
+Dr. Anil Varma,Orthopedic,Visakhapatnam Trust Hospital,Visakhapatnam,919895155510,27,3.8,1558
+Dr. Madhavi Kumar,Orthopedic,Tirupati Apollo Hospital,Tirupati,918456903534,13,3.7,1510
+Dr. Tejaswi Murthy,Orthopedic,Tirupati Memorial Hospital,Tirupati,918741535989,31,4.8,1425
+Dr. Swathi Varma,Orthopedic,Ongole Memorial Hospital,Ongole,919631048029,11,4.7,1845
+Dr. Naresh Varma,Orthopedic,Hyderabad City Hospital,Hyderabad,916419201975,31,3.3,579
+Dr. Naresh Acharya,Orthopedic,Hyderabad Medical Center,Hyderabad,919863714615,22,4.3,505
+Dr. Ravi Kumar,Orthopedic,Vijayawada General Hospital,Vijayawada,919742772931,20,3.8,1866
+Dr. Harish Varma,Orthopedic,Vijayawada Global Hospital,Vijayawada,918515006996,19,3.9,291
+Dr. Venkatesh Krishna,Orthopedic,Vijayawada Institute of Medical Sciences,Vijayawada,918724713263,5,3.9,448
+Dr. Suresh Krishna,Orthopedic,Hyderabad City Hospital,Hyderabad,918923574632,25,4.1,896
+Dr. Prasad Chowdary,Orthopedic,Kurnool Super Speciality Hospital,Kurnool,916860267314,22,3.8,1216
+Dr. Prasad Goud,Orthopedic,Vijayawada Memorial Hospital,Vijayawada,919703953781,12,4.6,1048
+Dr. Soujanya Chowdary,Orthopedic,Vijayawada Trust Hospital,Vijayawada,917346103176,4,3.0,610
+Dr. Naresh Sarma,Orthopedic,Hyderabad Super Speciality Hospital,Hyderabad,919283432667,11,4.0,1613
+Dr. Prasad Sarma,Orthopedic,Anantapur Memorial Hospital,Anantapur,917862776335,28,3.8,1027
+Dr. Srinivas Reddy,Orthopedic,Ongole Care Hospital,Ongole,918292578829,13,4.5,1995
+Dr. Rajesh Babu,Orthopedic,Hyderabad Trust Hospital,Hyderabad,919578689864,34,3.4,1435
+Dr. Soujanya Kumar,Orthopedic,Ongole Apollo Hospital,Ongole,917068687175,15,4.4,755
+Dr. Prasad Naidu,Orthopedic,Rajahmundry Medical Center,Rajahmundry,917647336743,33,4.2,392
+Dr. Venkatesh Varma,Orthopedic,Secunderabad Apollo Hospital,Secunderabad,917249095871,30,4.5,1271
+Dr. Rajesh Raju,Orthopedic,Hyderabad General Hospital,Hyderabad,919813819460,9,3.7,1896
+Dr. Harish Babu,Orthopedic,Visakhapatnam Global Hospital,Visakhapatnam,916809283659,11,4.9,1930
+Dr. Srinivas Rao,Orthopedic,Guntur General Hospital,Guntur,916963452923,9,3.4,94
+Dr. Swathi Chowdary,Orthopedic,Hyderabad City Hospital,Hyderabad,916528976690,24,4.4,1672
+Dr. Lakshmi Prakash,Orthopedic,Hyderabad City Hospital,Hyderabad,918750158124,17,4.5,1326
+Dr. Bhavani Reddy,Orthopedic,Tirupati Global Hospital,Tirupati,918843139149,7,4.3,90
+Dr. Sirisha Naidu,Orthopedic,Hyderabad City Hospital,Hyderabad,917790037430,29,3.8,1170
+Dr. Anusha Kumar,Orthopedic,Rajahmundry Memorial Hospital,Rajahmundry,916657675888,14,4.4,1340
+Dr. Anil Raju,Orthopedic,Hyderabad City Hospital,Hyderabad,918841827734,7,4.3,602
+Dr. Bhavani Kumar,Orthopedic,Hyderabad Care Hospital,Hyderabad,916589112843,27,4.7,264
+Dr. Bhavani Naidu,Orthopedic,Visakhapatnam Institute of Medical Sciences,Visakhapatnam,917214216328,8,4.6,1069
+Dr. Bhavani Rao,Orthopedic,Tirupati Care Hospital,Tirupati,919341308097,17,4.7,463
+Dr. Sirisha Raju,Orthopedic,Ongole Apollo Hospital,Ongole,917268523764,11,3.1,1066
+Dr. Sirisha Prakash,Orthopedic,Hyderabad Memorial Hospital,Hyderabad,918064435929,22,3.5,76
+Dr. Suresh Krishna,Orthopedic,Secunderabad Global Hospital,Secunderabad,918465967350,32,3.3,234
+Dr. Ramesh Kumar,Orthopedic,Hyderabad Memorial Hospital,Hyderabad,919107736331,7,4.8,1369
+Dr. Sridevi Varma,Orthopedic,Hyderabad Care Hospital,Hyderabad,917134408349,30,3.1,1715
+Dr. Venkatesh Krishna,Orthopedic,Anantapur Global Hospital,Anantapur,917247976542,24,4.6,690
+Dr. Suresh Naidu,Orthopedic,Tirupati Trust Hospital,Tirupati,919656073292,3,3.0,333
+Dr. Rajesh Goud,Orthopedic,Hyderabad Trust Hospital,Hyderabad,919841966874,29,4.9,599
+Dr. Harish Krishna,Orthopedic,Visakhapatnam Medical Center,Visakhapatnam,917471982906,12,3.2,869
+Dr. Mahesh Krishna,Orthopedic,Vijayawada Care Hospital,Vijayawada,917656635401,31,4.6,1378
+Dr. Suresh Chowdary,Orthopedic,Hyderabad Apollo Hospital,Hyderabad,918990026838,4,5.0,1779
+Dr. Suresh Raju,Orthopedic,Hyderabad Global Hospital,Hyderabad,919913689120,31,4.6,1439
+Dr. Naresh Sarma,Orthopedic,Vijayawada Memorial Hospital,Vijayawada,917631017155,23,4.2,1816
+Dr. Anusha Prakash,Orthopedic,Kurnool Apollo Hospital,Kurnool,918096471391,8,4.8,952
+Dr. Ramesh Varma,Orthopedic,Hyderabad Medical Center,Hyderabad,918813090060,21,3.0,1828
+Dr. Madhavi Kumar,Orthopedic,Hyderabad Institute of Medical Sciences,Hyderabad,918426709025,15,5.0,1421
+Dr. Swathi Murthy,Orthopedic,Vijayawada Global Hospital,Vijayawada,918955975343,7,3.9,1538
+Dr. Anusha Goud,Orthopedic,Hyderabad Super Speciality Hospital,Hyderabad,918850615512,25,3.3,1742
+Dr. Bhavani Reddy,Orthopedic,Hyderabad Institute of Medical Sciences,Hyderabad,916050014313,11,4.0,1011
+Dr. Naresh Naidu,Orthopedic,Vijayawada Memorial Hospital,Vijayawada,919227367284,32,3.6,727
+Dr. Venkatesh Murthy,Orthopedic,Rajahmundry City Hospital,Rajahmundry,916956517221,25,3.8,531
+Dr. Sridevi Yadav,Orthopedic,Tirupati General Hospital,Tirupati,919441391011,29,3.2,1070
+Dr. Rajesh Naidu,Orthopedic,Tirupati Memorial Hospital,Tirupati,918136202250,2,3.2,894
+Dr. Deepika Murthy,Orthopedic,Hyderabad Medical Center,Hyderabad,916000728926,6,4.6,1317
+Dr. Swathi Murthy,Orthopedic,Rajahmundry General Hospital,Rajahmundry,916888419332,30,4.9,794
+Dr. Ravi Krishna,Orthopedic,Hyderabad General Hospital,Hyderabad,917951890759,22,4.1,1319
+Dr. Anusha Kumar,Orthopedic,Ongole Care Hospital,Ongole,918822511659,24,4.4,283
+Dr. Tejaswi Rao,Orthopedic,Secunderabad Trust Hospital,Secunderabad,916009435833,22,3.7,1347
+Dr. Deepika Murthy,Orthopedic,Rajahmundry Trust Hospital,Rajahmundry,917605846862,7,3.1,386
+Dr. Prasad Krishna,Orthopedic,Vijayawada Institute of Medical Sciences,Vijayawada,919078873557,27,3.2,1301
+Dr. Kiran Naidu,Orthopedic,Hyderabad Institute of Medical Sciences,Hyderabad,919995248395,26,3.4,1738
+Dr. Sirisha Goud,Orthopedic,Hyderabad Trust Hospital,Hyderabad,916462850341,27,3.1,1346
+Dr. Suresh Babu,Orthopedic,Hyderabad City Hospital,Hyderabad,919830055793,29,3.9,1256
+Dr. Prasad Yadav,Orthopedic,Hyderabad Global Hospital,Hyderabad,916018629956,34,4.5,1183
+Dr. Madhavi Yadav,Orthopedic,Guntur Global Hospital,Guntur,919970142676,33,4.6,1914
+Dr. Sirisha Sarma,Orthopedic,Hyderabad General Hospital,Hyderabad,916745822208,9,3.2,1396
+Dr. Bhavani Prakash,Orthopedic,Hyderabad Trust Hospital,Hyderabad,917382308441,33,4.8,907
+Dr. Sirisha Babu,Orthopedic,Hyderabad Memorial Hospital,Hyderabad,917066177492,18,3.8,752
+Dr. Sridevi Babu,Orthopedic,Rajahmundry General Hospital,Rajahmundry,916572827654,9,3.8,1483
+Dr. Anil Krishna,Orthopedic,Hyderabad General Hospital,Hyderabad,919012895123,21,4.4,1965
+Dr. Soujanya Rao,Orthopedic,Tirupati Care Hospital,Tirupati,916862812038,14,4.2,645
+Dr. Tejaswi Chowdary,Orthopedic,Vijayawada City Hospital,Vijayawada,919051129498,12,4.0,1471
+Dr. Sirisha Naidu,Orthopedic,Vizianagaram Institute of Medical Sciences,Vizianagaram,919267503871,23,4.1,1243
+Dr. Tejaswi Kumar,Orthopedic,Vizianagaram Institute of Medical Sciences,Vizianagaram,917793054056,35,3.6,1785
+Dr. Srinivas Murthy,Orthopedic,Guntur Trust Hospital,Guntur,916457287198,2,3.8,158
+Dr. Kiran Varma,Orthopedic,Hyderabad Apollo Hospital,Hyderabad,919222020108,11,5.0,1449
+Dr. Prasad Krishna,Orthopedic,Rajahmundry Global Hospital,Rajahmundry,916266428954,19,3.4,1158
+Dr. Harish Krishna,Orthopedic,Hyderabad Care Hospital,Hyderabad,917943878598,7,4.2,1433
+Dr. Ravi Kumar,Orthopedic,Hyderabad Medical Center,Hyderabad,918779356860,25,3.5,1656
+Dr. Sirisha Acharya,Orthopedic,Rajahmundry Memorial Hospital,Rajahmundry,916201777040,25,3.8,1664
+Dr. Deepika Reddy,Orthopedic,Vijayawada Super Speciality Hospital,Vijayawada,916055685277,17,3.4,1829
+Dr. Ravi Prakash,Orthopedic,Vizianagaram Institute of Medical Sciences,Vizianagaram,918722100861,24,4.5,1169
+Dr. Kiran Babu,Orthopedic,Hyderabad Memorial Hospital,Hyderabad,919113484131,13,3.6,413
+Dr. Naresh Chowdary,Orthopedic,Anantapur Memorial Hospital,Anantapur,919157142361,33,3.2,133
+Dr. Mahesh Murthy,Orthopedic,Guntur Trust Hospital,Guntur,917134900434,9,3.3,1782
+Dr. Srinivas Goud,Orthopedic,Rajahmundry Super Speciality Hospital,Rajahmundry,918002877824,10,3.1,1951
+Dr. Bhavani Reddy,Orthopedic,Vijayawada Apollo Hospital,Vijayawada,919322848469,20,4.0,1222
+Dr. Harish Naidu,Orthopedic,Hyderabad City Hospital,Hyderabad,919367389408,21,4.1,426
+Dr. Ramesh Babu,Orthopedic,Vizianagaram Global Hospital,Vizianagaram,918169561289,11,3.8,1149
+Dr. Ramesh Goud,Orthopedic,Tirupati Memorial Hospital,Tirupati,916950038526,14,4.3,728
+Dr. Anil Rao,Orthopedic,Vijayawada Global Hospital,Vijayawada,919232631578,34,3.9,1199
+Dr. Suresh Acharya,Orthopedic,Hyderabad Institute of Medical Sciences,Hyderabad,917486090002,29,3.5,1365
+Dr. Bhavani Rao,Orthopedic,Hyderabad Care Hospital,Hyderabad,916171271484,21,3.8,1680
+Dr. Lakshmi Varma,Orthopedic,Secunderabad General Hospital,Secunderabad,918320301599,19,3.0,1108
+Dr. Swathi Babu,Orthopedic,Vijayawada Care Hospital,Vijayawada,918185002745,29,4.0,657
+Dr. Rajesh Murthy,Orthopedic,Hyderabad Global Hospital,Hyderabad,916353670997,7,3.3,1633
+Dr. Deepika Reddy,Orthopedic,Hyderabad Institute of Medical Sciences,Hyderabad,918692657073,5,3.4,1339
+Dr. Tejaswi Raju,Orthopedic,Vizianagaram City Hospital,Vizianagaram,919589154183,7,3.4,1747
+Dr. Soujanya Krishna,Orthopedic,Kurnool Apollo Hospital,Kurnool,916309755155,10,3.0,1518
+Dr. Venkatesh Naidu,Orthopedic,Kurnool Super Speciality Hospital,Kurnool,916314597900,4,3.4,565
+Dr. Ramesh Sarma,Orthopedic,Vizianagaram General Hospital,Vizianagaram,919528828126,15,4.8,884
+Dr. Sridevi Acharya,Orthopedic,Guntur Institute of Medical Sciences,Guntur,917737091024,28,3.6,847
+Dr. Deepika Reddy,Pediatrician,Secunderabad Medical Center,Secunderabad,918754889723,5,4.5,1249
+Dr. Sirisha Krishna,Pediatrician,Hyderabad Care Hospital,Hyderabad,916311769311,23,4.9,267
+Dr. Tejaswi Varma,Pediatrician,Rajahmundry General Hospital,Rajahmundry,918605180473,6,3.6,1947
+Dr. Lakshmi Raju,Pediatrician,Anantapur City Hospital,Anantapur,919530988694,2,3.9,1142
+Dr. Prasad Kumar,Pediatrician,Hyderabad General Hospital,Hyderabad,917679300279,35,3.6,1348
+Dr. Anil Acharya,Pediatrician,Hyderabad Global Hospital,Hyderabad,919809542002,24,4.9,72
+Dr. Deepika Chowdary,Pediatrician,Hyderabad Care Hospital,Hyderabad,916529290976,3,3.0,1271
+Dr. Deepika Murthy,Pediatrician,Guntur Apollo Hospital,Guntur,916365617071,20,3.4,1568
+Dr. Kiran Raju,Pediatrician,Vijayawada Care Hospital,Vijayawada,919889642781,33,3.3,426
+Dr. Bhavani Krishna,Pediatrician,Anantapur Trust Hospital,Anantapur,917085517692,13,3.2,1424
+Dr. Venkatesh Krishna,Pediatrician,Kurnool Apollo Hospital,Kurnool,919225700031,30,4.3,199
+Dr. Tejaswi Naidu,Pediatrician,Rajahmundry Super Speciality Hospital,Rajahmundry,917076695131,7,3.4,1239
+Dr. Rajesh Goud,Pediatrician,Vijayawada City Hospital,Vijayawada,916550679848,16,3.2,1318
+Dr. Kiran Goud,Pediatrician,Vizianagaram Apollo Hospital,Vizianagaram,918086758111,29,3.7,1400
+Dr. Sirisha Sarma,Pediatrician,Kakinada Trust Hospital,Kakinada,916654531367,24,4.6,927
+Dr. Srinivas Goud,Pediatrician,Hyderabad Super Speciality Hospital,Hyderabad,917057314172,15,4.4,1362
+Dr. Mahesh Krishna,Pediatrician,Guntur Memorial Hospital,Guntur,917543980627,9,4.4,729
+Dr. Sridevi Yadav,Pediatrician,Kurnool Memorial Hospital,Kurnool,917540783437,20,4.0,272
+Dr. Soujanya Sarma,Pediatrician,Hyderabad Super Speciality Hospital,Hyderabad,916352074333,18,4.7,336
+Dr. Kiran Varma,Pediatrician,Hyderabad Apollo Hospital,Hyderabad,919150550131,5,4.5,1877
+Dr. Swathi Acharya,Pediatrician,Hyderabad Medical Center,Hyderabad,916133978190,26,4.5,485
+Dr. Deepika Varma,Pediatrician,Hyderabad Apollo Hospital,Hyderabad,918334182974,35,3.9,1637
+Dr. Harish Raju,Pediatrician,Hyderabad Institute of Medical Sciences,Hyderabad,916959094724,19,3.3,1076
+Dr. Ramesh Raju,Pediatrician,Hyderabad Care Hospital,Hyderabad,917562790683,33,3.0,539
+Dr. Tejaswi Chowdary,Pediatrician,Hyderabad Trust Hospital,Hyderabad,919252175315,33,3.3,376
+Dr. Madhavi Sarma,Pediatrician,Hyderabad Apollo Hospital,Hyderabad,918832158562,10,4.5,1040
+Dr. Venkatesh Rao,Pediatrician,Vijayawada Global Hospital,Vijayawada,919270498955,32,3.5,591
+Dr. Ravi Reddy,Pediatrician,Vijayawada City Hospital,Vijayawada,918871553289,14,4.0,1670
+Dr. Lakshmi Yadav,Pediatrician,Ongole Apollo Hospital,Ongole,919942358816,30,4.8,131
+Dr. Suresh Kumar,Pediatrician,Vizianagaram Memorial Hospital,Vizianagaram,918239279558,18,4.7,589
+Dr. Deepika Sarma,Pediatrician,Hyderabad Super Speciality Hospital,Hyderabad,916746679280,25,4.3,798
+Dr. Soujanya Prakash,Pediatrician,Kakinada Global Hospital,Kakinada,919588312351,5,4.0,820
+Dr. Swathi Raju,Pediatrician,Anantapur Super Speciality Hospital,Anantapur,917515685383,23,4.0,1037
+Dr. Srinivas Murthy,Pediatrician,Hyderabad City Hospital,Hyderabad,919788308237,9,3.9,521
+Dr. Swathi Acharya,Pediatrician,Secunderabad Super Speciality Hospital,Secunderabad,917206067650,14,3.3,372
+Dr. Bhavani Kumar,Pediatrician,Vijayawada Medical Center,Vijayawada,919508795329,8,4.3,899
+Dr. Suresh Yadav,Pediatrician,Vijayawada City Hospital,Vijayawada,918900088306,31,4.0,1259
+Dr. Soujanya Krishna,Pediatrician,Hyderabad General Hospital,Hyderabad,917764798660,2,3.5,311
+Dr. Madhavi Chowdary,Pediatrician,Kurnool Institute of Medical Sciences,Kurnool,916578635360,33,3.1,1222
+Dr. Venkatesh Chowdary,Pediatrician,Hyderabad Global Hospital,Hyderabad,917109216714,12,4.0,880
+Dr. Madhavi Acharya,Pediatrician,Anantapur Memorial Hospital,Anantapur,916079972435,19,4.9,493
+Dr. Bhavani Yadav,Pediatrician,Vijayawada Apollo Hospital,Vijayawada,919725035441,31,3.3,1750
+Dr. Bhavani Chowdary,Pediatrician,Kurnool City Hospital,Kurnool,919412850018,12,4.2,1096
+Dr. Naresh Kumar,Pediatrician,Rajahmundry Care Hospital,Rajahmundry,918944591628,22,4.8,1271
+Dr. Ramesh Rao,Pediatrician,Hyderabad City Hospital,Hyderabad,917624405402,25,3.3,83
+Dr. Swathi Krishna,Pediatrician,Tirupati Super Speciality Hospital,Tirupati,919905582211,33,4.4,1742
+Dr. Bhavani Naidu,Pediatrician,Vizianagaram Memorial Hospital,Vizianagaram,916762022478,31,4.8,1278
+Dr. Deepika Murthy,Pediatrician,Hyderabad Trust Hospital,Hyderabad,919231461054,8,3.2,1400
+Dr. Bhavani Murthy,Pediatrician,Hyderabad Memorial Hospital,Hyderabad,919554178984,1,4.8,1636
+Dr. Swathi Raju,Pediatrician,Guntur Global Hospital,Guntur,917590759039,3,4.4,928
+Dr. Anusha Babu,Pediatrician,Hyderabad Medical Center,Hyderabad,919301419700,25,3.7,1697
+Dr. Suresh Raju,Pediatrician,Hyderabad Care Hospital,Hyderabad,916575023565,17,4.0,526
+Dr. Anil Sarma,Pediatrician,Secunderabad Memorial Hospital,Secunderabad,919765682640,35,3.8,437
+Dr. Sirisha Kumar,Pediatrician,Kakinada Care Hospital,Kakinada,919390543744,1,4.2,291
+Dr. Srinivas Raju,Pediatrician,Hyderabad Global Hospital,Hyderabad,918811254192,14,4.4,696
+Dr. Harish Naidu,Pediatrician,Tirupati Memorial Hospital,Tirupati,916664768939,28,4.3,569
+Dr. Deepika Raju,Pediatrician,Tirupati Super Speciality Hospital,Tirupati,918425240213,24,4.2,1443
+Dr. Kiran Raju,Pediatrician,Kakinada Institute of Medical Sciences,Kakinada,918371272694,31,3.4,1195
+Dr. Anusha Varma,Pediatrician,Hyderabad Care Hospital,Hyderabad,917317064971,23,4.5,865
+Dr. Tejaswi Naidu,Pediatrician,Kurnool City Hospital,Kurnool,919211837506,15,3.9,1482
+Dr. Suresh Rao,Pediatrician,Hyderabad Global Hospital,Hyderabad,918183318911,26,4.6,1690
+Dr. Bhavani Kumar,Pediatrician,Hyderabad Apollo Hospital,Hyderabad,918940181914,4,3.3,1352
+Dr. Ramesh Krishna,Pediatrician,Hyderabad General Hospital,Hyderabad,916624180869,31,4.9,941
+Dr. Ramesh Varma,Pediatrician,Tirupati Apollo Hospital,Tirupati,916952495966,24,3.2,127
+Dr. Lakshmi Sarma,Pediatrician,Guntur General Hospital,Guntur,918818251159,34,3.6,1273
+Dr. Naresh Acharya,Pediatrician,Hyderabad General Hospital,Hyderabad,918123296018,29,3.0,1791
+Dr. Anil Rao,Pediatrician,Hyderabad Medical Center,Hyderabad,916144351055,33,4.0,524
+Dr. Naresh Acharya,Pediatrician,Vizianagaram Medical Center,Vizianagaram,916154881394,24,3.5,50
+Dr. Ramesh Varma,Pediatrician,Hyderabad Memorial Hospital,Hyderabad,919348669509,26,3.7,859
+Dr. Madhavi Rao,Pediatrician,Guntur Apollo Hospital,Guntur,918223687972,1,4.5,190
+Dr. Deepika Varma,Pediatrician,Secunderabad Care Hospital,Secunderabad,919118741999,23,3.7,1720
+Dr. Ravi Sarma,Pediatrician,Rajahmundry Super Speciality Hospital,Rajahmundry,916835479352,30,4.9,1227
+Dr. Mahesh Chowdary,Pediatrician,Tirupati Memorial Hospital,Tirupati,917748629903,33,3.2,198
+Dr. Anil Goud,Pediatrician,Hyderabad Institute of Medical Sciences,Hyderabad,916502549822,33,4.9,1844
+Dr. Madhavi Varma,Pediatrician,Hyderabad City Hospital,Hyderabad,918981531341,29,4.9,1203
+Dr. Ravi Babu,Pediatrician,Vijayawada Medical Center,Vijayawada,917458831845,30,4.4,1886
+Dr. Srinivas Yadav,Pediatrician,Hyderabad General Hospital,Hyderabad,916499368558,17,3.1,1347
+Dr. Tejaswi Kumar,Pediatrician,Kakinada Institute of Medical Sciences,Kakinada,916987542412,21,3.8,773
+Dr. Deepika Reddy,Pediatrician,Hyderabad General Hospital,Hyderabad,919009992758,17,3.5,240
+Dr. Tejaswi Kumar,Pediatrician,Guntur Global Hospital,Guntur,919526488946,22,3.2,1957
+Dr. Anusha Goud,Pediatrician,Kurnool Apollo Hospital,Kurnool,917518433834,14,4.8,601
+Dr. Tejaswi Prakash,Pediatrician,Hyderabad Apollo Hospital,Hyderabad,919908108692,13,4.0,458
+Dr. Ravi Krishna,Pediatrician,Hyderabad Super Speciality Hospital,Hyderabad,917139907416,14,3.5,1759
+Dr. Bhavani Goud,Pediatrician,Hyderabad Medical Center,Hyderabad,916669995863,7,3.2,210
+Dr. Bhavani Reddy,Pediatrician,Visakhapatnam Medical Center,Visakhapatnam,919282403895,35,4.9,1786
+Dr. Harish Sarma,Pediatrician,Vijayawada City Hospital,Vijayawada,917354705301,32,4.8,1854
+Dr. Mahesh Yadav,Pediatrician,Anantapur Care Hospital,Anantapur,916785428658,33,3.6,504
+Dr. Prasad Reddy,Pediatrician,Hyderabad Care Hospital,Hyderabad,918258016513,28,4.0,1157
+Dr. Swathi Goud,Pediatrician,Hyderabad Global Hospital,Hyderabad,917691001287,12,3.9,296
+Dr. Sridevi Goud,Pediatrician,Visakhapatnam Super Speciality Hospital,Visakhapatnam,918960136787,1,3.0,481
+Dr. Madhavi Naidu,Pediatrician,Guntur General Hospital,Guntur,917397737837,24,4.2,581
+Dr. Deepika Varma,Pediatrician,Hyderabad Global Hospital,Hyderabad,917018504919,18,3.9,1305
+Dr. Harish Chowdary,Pediatrician,Vijayawada General Hospital,Vijayawada,918142200920,28,3.4,1485
+Dr. Harish Krishna,Pediatrician,Vijayawada Memorial Hospital,Vijayawada,917720532107,18,3.9,1220
+Dr. Madhavi Acharya,Pediatrician,Tirupati Global Hospital,Tirupati,916981686710,7,4.4,1696
+Dr. Deepika Raju,Pediatrician,Hyderabad General Hospital,Hyderabad,919677818023,25,3.4,1688
+Dr. Anusha Babu,Pediatrician,Hyderabad Memorial Hospital,Hyderabad,916041842844,12,3.8,325
+Dr. Deepika Kumar,Pediatrician,Anantapur Global Hospital,Anantapur,917356038189,32,3.6,1201
+Dr. Venkatesh Raju,Pediatrician,Anantapur Super Speciality Hospital,Anantapur,916425093520,11,3.1,1716
+Dr. Anusha Krishna,Pediatrician,Rajahmundry Apollo Hospital,Rajahmundry,918705237613,7,3.9,735
+Dr. Harish Goud,Pediatrician,Tirupati Global Hospital,Tirupati,918406685070,17,3.7,893
+Dr. Harish Krishna,Pediatrician,Secunderabad Super Speciality Hospital,Secunderabad,918918798987,13,4.2,1380
+Dr. Naresh Babu,Pediatrician,Hyderabad Memorial Hospital,Hyderabad,917222385190,23,3.7,1095
+Dr. Sridevi Prakash,Pediatrician,Vijayawada Care Hospital,Vijayawada,916336757755,25,4.2,999
+Dr. Naresh Acharya,Pediatrician,Hyderabad Memorial Hospital,Hyderabad,919469118718,22,3.8,1304
+Dr. Lakshmi Krishna,Pediatrician,Hyderabad General Hospital,Hyderabad,919895849088,5,3.2,753
+Dr. Rajesh Goud,Pediatrician,Hyderabad Apollo Hospital,Hyderabad,918804669917,19,4.4,1289
+Dr. Mahesh Prakash,Pediatrician,Guntur General Hospital,Guntur,917910824002,24,4.5,1116
+Dr. Padma Chowdary,Pediatrician,Vijayawada Institute of Medical Sciences,Vijayawada,916789785197,2,3.3,530
+Dr. Sirisha Kumar,Pediatrician,Tirupati Memorial Hospital,Tirupati,916343875431,14,3.3,260
+Dr. Ramesh Prakash,Pediatrician,Kurnool Global Hospital,Kurnool,919773949004,31,4.1,103
+Dr. Swathi Babu,Pediatrician,Tirupati Trust Hospital,Tirupati,916357561213,7,3.5,368
+Dr. Soujanya Prakash,Pediatrician,Secunderabad Institute of Medical Sciences,Secunderabad,919803070343,25,3.6,556
+Dr. Sridevi Acharya,Pediatrician,Kakinada City Hospital,Kakinada,916542934161,9,4.1,399
+Dr. Venkatesh Acharya,Pediatrician,Hyderabad Apollo Hospital,Hyderabad,917532621454,21,4.7,1006
+Dr. Mahesh Murthy,Pediatrician,Visakhapatnam City Hospital,Visakhapatnam,917910594463,9,4.9,1478
+Dr. Naresh Sarma,Pediatrician,Kurnool General Hospital,Kurnool,918566604583,30,4.3,1352
+Dr. Padma Murthy,Pediatrician,Vizianagaram Global Hospital,Vizianagaram,918747862122,35,3.6,761
+Dr. Deepika Rao,Pediatrician,Vijayawada Super Speciality Hospital,Vijayawada,919456193555,6,3.9,799
+Dr. Mahesh Chowdary,Pediatrician,Guntur Care Hospital,Guntur,917303835765,1,3.0,1719
+Dr. Harish Varma,Pediatrician,Hyderabad General Hospital,Hyderabad,918015189868,35,3.0,1938
+Dr. Anusha Varma,Pediatrician,Vijayawada Apollo Hospital,Vijayawada,916039224201,28,4.6,1272
+Dr. Srinivas Murthy,Pediatrician,Visakhapatnam Trust Hospital,Visakhapatnam,917604788242,13,3.8,1198
+Dr. Lakshmi Rao,Pediatrician,Guntur Super Speciality Hospital,Guntur,916701237129,25,4.7,501
+Dr. Ramesh Raju,Pediatrician,Kakinada Care Hospital,Kakinada,918685741915,16,4.0,1688
+Dr. Sirisha Acharya,Pediatrician,Hyderabad Memorial Hospital,Hyderabad,917167651784,19,4.3,1139
+Dr. Padma Rao,Pediatrician,Rajahmundry City Hospital,Rajahmundry,919665677395,5,3.4,643
+Dr. Soujanya Yadav,Pediatrician,Vizianagaram Global Hospital,Vizianagaram,918653127632,29,3.5,1325
+Dr. Kiran Goud,Pediatrician,Anantapur City Hospital,Anantapur,916083302600,10,3.1,1145
+Dr. Naresh Naidu,Pediatrician,Hyderabad City Hospital,Hyderabad,917211672712,18,3.3,947
+Dr. Ravi Naidu,Pediatrician,Hyderabad Super Speciality Hospital,Hyderabad,916647181551,1,4.0,750
+Dr. Anil Babu,Pediatrician,Visakhapatnam Global Hospital,Visakhapatnam,919433664649,32,5.0,999
+Dr. Rajesh Naidu,Pediatrician,Anantapur General Hospital,Anantapur,919623003768,10,3.1,1638
+Dr. Ramesh Murthy,Pediatrician,Anantapur General Hospital,Anantapur,918019265031,12,3.4,1773
+Dr. Lakshmi Krishna,Pediatrician,Rajahmundry Apollo Hospital,Rajahmundry,916054183126,8,4.9,1513
+Dr. Lakshmi Babu,Pediatrician,Hyderabad General Hospital,Hyderabad,917902502763,16,4.5,118
+Dr. Sridevi Kumar,Pediatrician,Hyderabad Institute of Medical Sciences,Hyderabad,919311402472,7,4.0,476
+Dr. Lakshmi Acharya,Pediatrician,Anantapur Apollo Hospital,Anantapur,917340499510,21,3.3,1541
+Dr. Deepika Murthy,Pediatrician,Kakinada Global Hospital,Kakinada,916524593800,17,4.0,661
+Dr. Harish Prakash,Pediatrician,Hyderabad Institute of Medical Sciences,Hyderabad,916223714148,14,4.9,533
+Dr. Rajesh Reddy,Pediatrician,Visakhapatnam Apollo Hospital,Visakhapatnam,916718807242,18,4.2,860
+Dr. Srinivas Reddy,Pediatrician,Kakinada Global Hospital,Kakinada,918495706809,31,4.4,367
+Dr. Ramesh Rao,Pediatrician,Vijayawada Care Hospital,Vijayawada,916677309706,32,3.2,1316
+Dr. Soujanya Reddy,Pediatrician,Vijayawada Super Speciality Hospital,Vijayawada,916256732224,23,4.3,1486
+Dr. Suresh Chowdary,Pediatrician,Hyderabad Memorial Hospital,Hyderabad,918095269219,15,3.6,1193
+Dr. Sridevi Kumar,Pediatrician,Vijayawada General Hospital,Vijayawada,916828779668,2,4.4,783
+Dr. Mahesh Prakash,Pediatrician,Kakinada Apollo Hospital,Kakinada,916169602003,32,4.4,1194
+Dr. Deepika Kumar,Pediatrician,Visakhapatnam Trust Hospital,Visakhapatnam,918104929112,13,4.1,1163
+Dr. Rajesh Kumar,Pediatrician,Anantapur Memorial Hospital,Anantapur,918011740002,18,4.7,1276
+Dr. Naresh Naidu,Pediatrician,Hyderabad Institute of Medical Sciences,Hyderabad,918281217890,10,3.9,1728
+Dr. Deepika Goud,Pediatrician,Ongole Care Hospital,Ongole,917950254385,1,4.6,1086
+Dr. Naresh Prakash,Pediatrician,Guntur Apollo Hospital,Guntur,916080401162,24,4.6,539
+Dr. Ramesh Acharya,Pediatrician,Vijayawada Trust Hospital,Vijayawada,918314800617,25,3.4,1449
+Dr. Deepika Chowdary,Pediatrician,Vijayawada Trust Hospital,Vijayawada,918632983517,19,3.6,1362
+Dr. Suresh Naidu,Pediatrician,Vijayawada City Hospital,Vijayawada,918247129194,5,3.1,1970
+Dr. Naresh Krishna,Pediatrician,Hyderabad Global Hospital,Hyderabad,916134319747,13,3.2,442
+Dr. Venkatesh Sarma,Pediatrician,Secunderabad Memorial Hospital,Secunderabad,918756302415,25,4.3,1126
+Dr. Sirisha Sarma,Pediatrician,Hyderabad Care Hospital,Hyderabad,917099247629,4,3.7,1290
+Dr. Srinivas Prakash,Pediatrician,Ongole Medical Center,Ongole,919955816119,14,4.3,1951
+Dr. Sridevi Babu,Pediatrician,Secunderabad City Hospital,Secunderabad,918744126400,4,3.7,1572
+Dr. Harish Babu,Pediatrician,Visakhapatnam General Hospital,Visakhapatnam,919042699946,4,4.6,594
+Dr. Venkatesh Kumar,Pediatrician,Tirupati City Hospital,Tirupati,916302314710,20,3.2,492
+Dr. Suresh Naidu,Pediatrician,Hyderabad Apollo Hospital,Hyderabad,919114589739,15,4.1,438
+Dr. Swathi Acharya,Pediatrician,Hyderabad Institute of Medical Sciences,Hyderabad,917068429057,12,4.1,1193
+Dr. Suresh Babu,Pediatrician,Visakhapatnam Global Hospital,Visakhapatnam,918742870469,23,4.3,1488
+Dr. Suresh Chowdary,Pediatrician,Guntur Medical Center,Guntur,919403596665,12,4.1,1083
+Dr. Tejaswi Chowdary,Pediatrician,Visakhapatnam Memorial Hospital,Visakhapatnam,918293085064,29,4.9,1898
+Dr. Deepika Goud,Pediatrician,Vijayawada City Hospital,Vijayawada,919628620372,24,3.8,1346
+Dr. Rajesh Sarma,Pediatrician,Kurnool Institute of Medical Sciences,Kurnool,917033895513,35,3.4,1618
+Dr. Mahesh Goud,Pediatrician,Vizianagaram Apollo Hospital,Vizianagaram,917943058119,29,4.9,50
+Dr. Anil Sarma,Pediatrician,Vizianagaram Institute of Medical Sciences,Vizianagaram,916070018477,34,3.3,1873
+Dr. Srinivas Varma,Pediatrician,Vizianagaram Apollo Hospital,Vizianagaram,916952996130,14,4.7,94
+Dr. Deepika Murthy,Pediatrician,Visakhapatnam Memorial Hospital,Visakhapatnam,918389389445,10,3.2,992
+Dr. Prasad Chowdary,Pediatrician,Vijayawada Apollo Hospital,Vijayawada,917138115565,24,4.8,561
+Dr. Mahesh Babu,Pediatrician,Tirupati Medical Center,Tirupati,917289789131,6,4.1,1215
+Dr. Ramesh Kumar,Pediatrician,Vizianagaram Trust Hospital,Vizianagaram,917394541743,31,3.3,1741
+Dr. Suresh Sarma,Pediatrician,Hyderabad Care Hospital,Hyderabad,918758462618,20,3.1,1705
+Dr. Lakshmi Naidu,Pediatrician,Anantapur General Hospital,Anantapur,919350598093,4,4.8,734
+Dr. Padma Raju,Pediatrician,Vijayawada Trust Hospital,Vijayawada,919995376498,8,4.7,514
+Dr. Srinivas Acharya,Pediatrician,Kurnool Memorial Hospital,Kurnool,919338987534,25,3.1,1123
+Dr. Rajesh Murthy,Pediatrician,Anantapur Trust Hospital,Anantapur,918426282426,10,3.7,1479
+Dr. Prasad Reddy,Pediatrician,Hyderabad General Hospital,Hyderabad,918893241312,26,4.9,1591
+Dr. Madhavi Murthy,Pediatrician,Hyderabad General Hospital,Hyderabad,916386903346,15,3.9,1660
+Dr. Prasad Chowdary,Pediatrician,Guntur Global Hospital,Guntur,917443831341,6,4.0,1576
+Dr. Deepika Raju,Pediatrician,Kakinada Trust Hospital,Kakinada,917127677925,6,3.8,939
+Dr. Prasad Yadav,Pediatrician,Tirupati Care Hospital,Tirupati,918402158803,13,4.0,1385
+Dr. Kiran Murthy,Pediatrician,Anantapur Trust Hospital,Anantapur,918645686265,34,3.5,196
+Dr. Padma Goud,Pediatrician,Rajahmundry Global Hospital,Rajahmundry,918940927197,6,3.2,897
+Dr. Harish Goud,Pediatrician,Guntur Super Speciality Hospital,Guntur,916818147210,21,3.7,1392
+Dr. Anil Chowdary,Pediatrician,Visakhapatnam City Hospital,Visakhapatnam,917502020490,29,4.2,952
+Dr. Ravi Rao,Pediatrician,Ongole Global Hospital,Ongole,918943595471,24,3.3,1541
+Dr. Suresh Kumar,Pediatrician,Secunderabad Medical Center,Secunderabad,916234238999,16,4.9,1947
+Dr. Anil Reddy,Pediatrician,Vizianagaram Super Speciality Hospital,Vizianagaram,917474339313,8,3.6,1014
+Dr. Rajesh Rao,Pediatrician,Visakhapatnam Care Hospital,Visakhapatnam,919178331555,35,3.4,1169
+Dr. Mahesh Murthy,Pediatrician,Hyderabad Care Hospital,Hyderabad,918074582277,10,4.4,1418
+Dr. Lakshmi Sarma,Pediatrician,Hyderabad Institute of Medical Sciences,Hyderabad,919891413386,34,3.1,398
+Dr. Anil Rao,Pediatrician,Hyderabad Memorial Hospital,Hyderabad,919389538782,18,3.1,1390
+Dr. Ramesh Raju,Pediatrician,Hyderabad Apollo Hospital,Hyderabad,918836279709,18,4.3,1919
+Dr. Suresh Reddy,Pediatrician,Vijayawada Apollo Hospital,Vijayawada,917256258938,25,3.5,829
+Dr. Sirisha Naidu,Pediatrician,Hyderabad General Hospital,Hyderabad,919882100932,21,4.0,1272
+Dr. Ramesh Chowdary,Pediatrician,Kurnool Super Speciality Hospital,Kurnool,916854162477,33,4.9,1198
+Dr. Venkatesh Rao,Pediatrician,Ongole Institute of Medical Sciences,Ongole,919961119979,34,3.6,1053
+Dr. Naresh Reddy,Pediatrician,Visakhapatnam Trust Hospital,Visakhapatnam,917489408344,23,3.7,669
+Dr. Swathi Varma,Pediatrician,Hyderabad City Hospital,Hyderabad,919487053308,4,4.3,1849
+Dr. Srinivas Murthy,Pediatrician,Guntur City Hospital,Guntur,917203423402,15,3.3,1887
+Dr. Tejaswi Chowdary,Pediatrician,Guntur Super Speciality Hospital,Guntur,916377076704,25,4.0,1438
+Dr. Soujanya Acharya,Pediatrician,Hyderabad Care Hospital,Hyderabad,916976795716,27,3.5,362
+Dr. Anil Prakash,Pediatrician,Ongole City Hospital,Ongole,918600039571,22,3.9,319
+Dr. Soujanya Chowdary,Pediatrician,Hyderabad Memorial Hospital,Hyderabad,918495507871,35,4.4,464
+Dr. Anil Kumar,Pediatrician,Visakhapatnam Care Hospital,Visakhapatnam,919028537698,34,4.8,930
+Dr. Soujanya Prakash,Pediatrician,Tirupati Apollo Hospital,Tirupati,918425987715,11,3.6,1191
+Dr. Suresh Chowdary,Pediatrician,Vizianagaram Apollo Hospital,Vizianagaram,917364071251,10,4.5,1617
+Dr. Padma Raju,Pediatrician,Anantapur Global Hospital,Anantapur,917302870199,29,4.5,1732
+Dr. Prasad Babu,Pediatrician,Visakhapatnam General Hospital,Visakhapatnam,916807168703,7,3.3,103
+Dr. Bhavani Varma,Pediatrician,Hyderabad Trust Hospital,Hyderabad,918601051560,15,4.2,522
+Dr. Harish Naidu,Pediatrician,Hyderabad Apollo Hospital,Hyderabad,918955544302,31,3.3,1782
+Dr. Anusha Kumar,Pediatrician,Kurnool General Hospital,Kurnool,918789875688,24,3.4,843
+Dr. Anusha Chowdary,Pediatrician,Vijayawada Global Hospital,Vijayawada,916703457120,13,3.5,886
+Dr. Mahesh Raju,Pediatrician,Ongole Memorial Hospital,Ongole,916955863041,13,4.5,185
+Dr. Sridevi Krishna,Pediatrician,Tirupati Global Hospital,Tirupati,918650249767,32,4.4,1825
+Dr. Ravi Raju,Pediatrician,Vijayawada Memorial Hospital,Vijayawada,917738889526,3,4.2,1738
+Dr. Rajesh Raju,Pediatrician,Kurnool Super Speciality Hospital,Kurnool,918626393424,35,4.1,1843
+Dr. Swathi Naidu,Pediatrician,Hyderabad Medical Center,Hyderabad,917939648421,30,4.7,136
+Dr. Swathi Murthy,Pediatrician,Hyderabad General Hospital,Hyderabad,917699137133,3,4.1,1107
+Dr. Kiran Varma,Pediatrician,Hyderabad Super Speciality Hospital,Hyderabad,917887869509,26,4.8,1634
+Dr. Sridevi Chowdary,Pediatrician,Rajahmundry Institute of Medical Sciences,Rajahmundry,917814461270,19,4.2,161
+Dr. Prasad Yadav,Pediatrician,Hyderabad City Hospital,Hyderabad,919564365447,29,3.2,1075
+Dr. Naresh Babu,Pediatrician,Visakhapatnam General Hospital,Visakhapatnam,918514478795,35,3.3,896
+Dr. Sridevi Reddy,Pediatrician,Kurnool Super Speciality Hospital,Kurnool,916768277634,30,4.2,1509
+Dr. Sridevi Naidu,Pediatrician,Anantapur Global Hospital,Anantapur,917074095288,21,4.4,1907
+Dr. Sirisha Kumar,Pediatrician,Hyderabad Apollo Hospital,Hyderabad,916530618370,6,3.2,970
+Dr. Ramesh Murthy,Pediatrician,Ongole Care Hospital,Ongole,919037740700,25,4.5,1097
+Dr. Naresh Raju,Pediatrician,Kurnool City Hospital,Kurnool,918363717591,25,3.1,399
+Dr. Madhavi Krishna,Pediatrician,Vijayawada Medical Center,Vijayawada,918832661238,10,3.3,346
+Dr. Sirisha Reddy,Pediatrician,Kakinada Trust Hospital,Kakinada,917802089646,20,3.6,1624
+Dr. Anil Acharya,Pediatrician,Vijayawada Institute of Medical Sciences,Vijayawada,916776083520,8,4.8,465
+Dr. Bhavani Babu,Pediatrician,Visakhapatnam Super Speciality Hospital,Visakhapatnam,917087103368,1,3.9,1801
+Dr. Deepika Babu,Pediatrician,Anantapur Trust Hospital,Anantapur,916024698406,32,3.5,1255
+Dr. Sridevi Raju,Pediatrician,Vijayawada Trust Hospital,Vijayawada,917897840239,6,4.2,63
+Dr. Deepika Varma,Pediatrician,Hyderabad Medical Center,Hyderabad,918661874865,14,3.1,353
+Dr. Soujanya Goud,Pediatrician,Hyderabad Trust Hospital,Hyderabad,916157715720,10,4.7,1416
+Dr. Bhavani Varma,Pediatrician,Kurnool Care Hospital,Kurnool,917422111278,6,3.1,903
+Dr. Naresh Acharya,Pediatrician,Hyderabad Memorial Hospital,Hyderabad,917221405125,12,4.9,1584
+Dr. Harish Prakash,Pediatrician,Hyderabad Global Hospital,Hyderabad,916153931824,6,4.5,711
+Dr. Lakshmi Krishna,Pediatrician,Vijayawada Super Speciality Hospital,Vijayawada,916290626163,28,4.7,182
+Dr. Anusha Chowdary,Pediatrician,Rajahmundry Memorial Hospital,Rajahmundry,916524085789,18,3.7,897
+Dr. Kiran Kumar,Pediatrician,Hyderabad Global Hospital,Hyderabad,916897867121,4,3.2,1544
+Dr. Ramesh Yadav,Pediatrician,Kakinada General Hospital,Kakinada,919109874733,19,3.9,1786
+Dr. Mahesh Murthy,Pediatrician,Kurnool Super Speciality Hospital,Kurnool,918470219008,23,4.9,1308
+Dr. Anusha Murthy,Pediatrician,Ongole Memorial Hospital,Ongole,919131824626,32,4.0,418
+Dr. Ravi Kumar,Dermatologist,Anantapur Apollo Hospital,Anantapur,917247636714,13,3.0,99
+Dr. Soujanya Babu,Dermatologist,Vijayawada Care Hospital,Vijayawada,916506487119,14,4.6,899
+Dr. Venkatesh Goud,Dermatologist,Guntur City Hospital,Guntur,917501735492,14,3.0,462
+Dr. Mahesh Babu,Dermatologist,Rajahmundry Apollo Hospital,Rajahmundry,916291353679,20,3.6,1176
+Dr. Srinivas Naidu,Dermatologist,Vijayawada Global Hospital,Vijayawada,918945642274,22,3.7,1533
+Dr. Bhavani Reddy,Dermatologist,Anantapur Trust Hospital,Anantapur,919573596487,12,3.4,1757
+Dr. Tejaswi Yadav,Dermatologist,Vijayawada Trust Hospital,Vijayawada,919934890361,31,4.6,1372
+Dr. Anusha Chowdary,Dermatologist,Tirupati Global Hospital,Tirupati,918693805581,30,4.8,1149
+Dr. Sridevi Babu,Dermatologist,Vijayawada Medical Center,Vijayawada,919496819011,27,4.9,164
+Dr. Anil Sarma,Dermatologist,Anantapur Memorial Hospital,Anantapur,919113697316,21,4.1,88
+Dr. Madhavi Acharya,Dermatologist,Hyderabad Global Hospital,Hyderabad,917424723488,23,3.1,355
+Dr. Srinivas Goud,Dermatologist,Rajahmundry Memorial Hospital,Rajahmundry,917611646876,35,4.7,1219
+Dr. Lakshmi Chowdary,Dermatologist,Hyderabad Trust Hospital,Hyderabad,918556329609,8,4.7,1589
+Dr. Sirisha Krishna,Dermatologist,Rajahmundry Institute of Medical Sciences,Rajahmundry,917350764609,3,3.5,227
+Dr. Ravi Goud,Dermatologist,Vijayawada Global Hospital,Vijayawada,917940922893,20,3.4,669
+Dr. Suresh Goud,Dermatologist,Vizianagaram Global Hospital,Vizianagaram,919371308737,3,4.6,1920
+Dr. Sridevi Murthy,Dermatologist,Secunderabad Care Hospital,Secunderabad,916107094028,31,4.8,365
+Dr. Rajesh Prakash,Dermatologist,Hyderabad Apollo Hospital,Hyderabad,918076496184,34,3.6,720
+Dr. Suresh Krishna,Dermatologist,Ongole Global Hospital,Ongole,918216832856,9,3.4,124
+Dr. Lakshmi Kumar,Dermatologist,Vijayawada Memorial Hospital,Vijayawada,919714331527,34,3.2,686
+Dr. Tejaswi Krishna,Dermatologist,Hyderabad Care Hospital,Hyderabad,918552445702,6,3.7,1871
+Dr. Suresh Murthy,Dermatologist,Anantapur Memorial Hospital,Anantapur,919290718839,20,3.0,1603
+Dr. Soujanya Prakash,Dermatologist,Kurnool Super Speciality Hospital,Kurnool,916901280364,21,3.4,636
+Dr. Deepika Goud,Dermatologist,Rajahmundry General Hospital,Rajahmundry,919319095318,29,4.3,608
+Dr. Naresh Varma,Dermatologist,Vizianagaram Institute of Medical Sciences,Vizianagaram,916491603670,1,4.9,1196
+Dr. Suresh Rao,Dermatologist,Hyderabad Trust Hospital,Hyderabad,918330143102,23,4.1,605
+Dr. Sirisha Babu,Dermatologist,Hyderabad General Hospital,Hyderabad,917216625499,16,3.3,687
+Dr. Rajesh Murthy,Dermatologist,Visakhapatnam Apollo Hospital,Visakhapatnam,917905452099,4,3.3,1014
+Dr. Suresh Raju,Dermatologist,Kakinada Medical Center,Kakinada,916231068718,6,3.9,416
+Dr. Madhavi Acharya,Dermatologist,Hyderabad Medical Center,Hyderabad,919591341696,29,4.2,689
+Dr. Kiran Kumar,Dermatologist,Anantapur Institute of Medical Sciences,Anantapur,919257314131,35,3.2,1939
+Dr. Madhavi Chowdary,Dermatologist,Vijayawada Trust Hospital,Vijayawada,916399071914,30,3.2,685
+Dr. Anusha Rao,Dermatologist,Vijayawada Institute of Medical Sciences,Vijayawada,916961189885,10,4.7,1313
+Dr. Harish Raju,Dermatologist,Rajahmundry Apollo Hospital,Rajahmundry,916787495451,22,4.6,1857
+Dr. Sridevi Yadav,Dermatologist,Ongole Medical Center,Ongole,916129983470,5,4.0,769
+Dr. Sridevi Krishna,Dermatologist,Visakhapatnam Super Speciality Hospital,Visakhapatnam,916733587041,19,4.5,1287
+Dr. Prasad Murthy,Dermatologist,Hyderabad Trust Hospital,Hyderabad,916442090475,26,4.6,1681
+Dr. Rajesh Murthy,Dermatologist,Secunderabad Super Speciality Hospital,Secunderabad,918789372578,5,4.6,1141
+Dr. Lakshmi Sarma,Dermatologist,Vijayawada City Hospital,Vijayawada,917775719463,16,4.2,1172
+Dr. Anusha Raju,Dermatologist,Tirupati Institute of Medical Sciences,Tirupati,916283725262,22,3.4,1471
+Dr. Padma Babu,Dermatologist,Hyderabad General Hospital,Hyderabad,917869829947,22,4.1,533
+Dr. Tejaswi Acharya,Dermatologist,Tirupati Memorial Hospital,Tirupati,916334553919,32,3.2,1270
+Dr. Rajesh Murthy,Dermatologist,Visakhapatnam Medical Center,Visakhapatnam,916419420333,29,3.4,881
+Dr. Bhavani Naidu,Dermatologist,Secunderabad General Hospital,Secunderabad,918944237345,25,3.7,1370
+Dr. Ramesh Rao,Dermatologist,Hyderabad General Hospital,Hyderabad,919509132563,9,4.8,1899
+Dr. Prasad Acharya,Dermatologist,Ongole General Hospital,Ongole,916640879683,29,4.1,848
+Dr. Madhavi Yadav,Dermatologist,Kakinada Institute of Medical Sciences,Kakinada,916840381733,14,4.4,698
+Dr. Madhavi Babu,Dermatologist,Rajahmundry Medical Center,Rajahmundry,919922182458,20,4.8,1968
+Dr. Sirisha Prakash,Dermatologist,Ongole Institute of Medical Sciences,Ongole,917478605304,6,4.2,1302
+Dr. Lakshmi Krishna,Dermatologist,Hyderabad Global Hospital,Hyderabad,916547847544,19,3.1,1895
+Dr. Venkatesh Reddy,Dermatologist,Hyderabad City Hospital,Hyderabad,919020882958,23,3.2,627
+Dr. Ravi Raju,Dermatologist,Hyderabad Apollo Hospital,Hyderabad,919016020016,26,4.3,1507
+Dr. Lakshmi Raju,Dermatologist,Guntur City Hospital,Guntur,917869127013,35,3.4,405
+Dr. Prasad Rao,Dermatologist,Vijayawada Trust Hospital,Vijayawada,918385517516,25,4.7,787
+Dr. Prasad Varma,Dermatologist,Guntur Medical Center,Guntur,919748371263,9,3.3,196
+Dr. Prasad Kumar,Dermatologist,Hyderabad Trust Hospital,Hyderabad,919800567965,32,4.3,328
+Dr. Prasad Acharya,Dermatologist,Secunderabad City Hospital,Secunderabad,919461492893,27,4.7,1880
+Dr. Padma Sarma,Dermatologist,Hyderabad Memorial Hospital,Hyderabad,916772223853,30,4.0,1180
+Dr. Lakshmi Goud,Dermatologist,Ongole Trust Hospital,Ongole,916969549862,12,3.8,65
+Dr. Anusha Krishna,Dermatologist,Hyderabad City Hospital,Hyderabad,919139249064,16,4.4,601
+Dr. Deepika Sarma,Dermatologist,Tirupati Care Hospital,Tirupati,917576124271,3,5.0,1213
+Dr. Sirisha Goud,Dermatologist,Vijayawada Apollo Hospital,Vijayawada,916486037259,31,4.9,213
+Dr. Swathi Krishna,Dermatologist,Hyderabad General Hospital,Hyderabad,919223726033,18,3.9,210
+Dr. Bhavani Naidu,Dermatologist,Tirupati Global Hospital,Tirupati,917053260431,31,4.3,1409
+Dr. Tejaswi Acharya,Dermatologist,Secunderabad Trust Hospital,Secunderabad,918315834382,20,4.2,1900
+Dr. Deepika Babu,Dermatologist,Vijayawada General Hospital,Vijayawada,916046314343,31,3.9,1905
+Dr. Madhavi Kumar,Dermatologist,Vijayawada Trust Hospital,Vijayawada,917423841741,27,3.7,1684
+Dr. Anil Chowdary,Dermatologist,Rajahmundry Medical Center,Rajahmundry,916151725037,20,4.5,1204
+Dr. Venkatesh Acharya,Dermatologist,Rajahmundry Global Hospital,Rajahmundry,918032209020,11,4.1,1394
+Dr. Bhavani Reddy,Dermatologist,Rajahmundry Trust Hospital,Rajahmundry,917231863866,32,3.2,1085
+Dr. Mahesh Varma,Dermatologist,Secunderabad Super Speciality Hospital,Secunderabad,916569249644,18,3.6,576
+Dr. Suresh Sarma,Dermatologist,Hyderabad Apollo Hospital,Hyderabad,916749960739,10,4.3,807
+Dr. Mahesh Babu,Dermatologist,Hyderabad Trust Hospital,Hyderabad,919009805180,16,4.0,1687
+Dr. Venkatesh Goud,Dermatologist,Visakhapatnam Care Hospital,Visakhapatnam,916362501515,10,4.2,1732
+Dr. Anusha Babu,Dermatologist,Hyderabad Global Hospital,Hyderabad,917773597623,25,3.5,951
+Dr. Kiran Sarma,Dermatologist,Hyderabad Care Hospital,Hyderabad,919154056937,23,3.1,591
+Dr. Venkatesh Chowdary,Dermatologist,Secunderabad General Hospital,Secunderabad,917992928946,26,4.0,1025
+Dr. Ravi Raju,Dermatologist,Hyderabad Apollo Hospital,Hyderabad,918935652923,25,3.9,347
+Dr. Padma Reddy,Dermatologist,Vizianagaram Memorial Hospital,Vizianagaram,917240353129,29,3.8,696
+Dr. Tejaswi Reddy,Dermatologist,Ongole Global Hospital,Ongole,916418176555,35,4.3,1779
+Dr. Bhavani Prakash,Dermatologist,Tirupati City Hospital,Tirupati,918800601821,18,3.7,596
+Dr. Mahesh Acharya,Dermatologist,Secunderabad Medical Center,Secunderabad,918509020413,26,3.9,1432
+Dr. Tejaswi Sarma,Dermatologist,Hyderabad General Hospital,Hyderabad,919309260670,13,4.0,1437
+Dr. Rajesh Murthy,Dermatologist,Vizianagaram Institute of Medical Sciences,Vizianagaram,916045432125,1,4.7,74
+Dr. Suresh Murthy,Dermatologist,Tirupati City Hospital,Tirupati,916446278368,29,3.7,1535
+Dr. Mahesh Rao,Dermatologist,Rajahmundry General Hospital,Rajahmundry,916146208285,2,4.2,166
+Dr. Tejaswi Prakash,Dermatologist,Tirupati General Hospital,Tirupati,919588269668,14,4.9,1356
+Dr. Sirisha Naidu,Dermatologist,Secunderabad Trust Hospital,Secunderabad,916371026639,9,3.8,1614
+Dr. Naresh Prakash,Dermatologist,Hyderabad Global Hospital,Hyderabad,916476076030,12,3.5,1006
+Dr. Soujanya Yadav,Dermatologist,Tirupati Medical Center,Tirupati,919962946526,18,4.5,1467
+Dr. Mahesh Chowdary,Dermatologist,Vijayawada Memorial Hospital,Vijayawada,919353215401,5,3.6,177
+Dr. Lakshmi Goud,Dermatologist,Vizianagaram Medical Center,Vizianagaram,916257949939,17,4.9,592
+Dr. Sridevi Naidu,Dermatologist,Kakinada Care Hospital,Kakinada,918111928965,13,4.2,415
+Dr. Suresh Chowdary,Dermatologist,Visakhapatnam Trust Hospital,Visakhapatnam,918321997415,28,3.4,1367
+Dr. Sridevi Kumar,Dermatologist,Secunderabad Memorial Hospital,Secunderabad,917112380464,7,3.1,194
+Dr. Mahesh Babu,Dermatologist,Hyderabad Trust Hospital,Hyderabad,917915048861,2,4.8,354
+Dr. Venkatesh Acharya,Dermatologist,Hyderabad Memorial Hospital,Hyderabad,917677115255,18,3.3,725
+Dr. Madhavi Reddy,Dermatologist,Visakhapatnam Global Hospital,Visakhapatnam,918213553149,32,4.0,877
+Dr. Deepika Rao,Dermatologist,Secunderabad Global Hospital,Secunderabad,916014204998,25,4.9,1725
+Dr. Suresh Sarma,Dermatologist,Vizianagaram Apollo Hospital,Vizianagaram,918299113475,23,3.7,670
+Dr. Venkatesh Acharya,Dermatologist,Guntur Medical Center,Guntur,918779163450,6,3.7,1797
+Dr. Ramesh Krishna,Dermatologist,Vijayawada Memorial Hospital,Vijayawada,917974135984,19,4.3,411
+Dr. Venkatesh Raju,Dermatologist,Hyderabad City Hospital,Hyderabad,918837831301,13,3.6,848
+Dr. Soujanya Kumar,Dermatologist,Secunderabad Medical Center,Secunderabad,917543014759,32,3.2,1345
+Dr. Kiran Chowdary,Dermatologist,Vijayawada Global Hospital,Vijayawada,916153323006,13,3.1,1264
+Dr. Anusha Raju,Dermatologist,Hyderabad Care Hospital,Hyderabad,916270551270,35,4.3,1073
+Dr. Sridevi Reddy,Dermatologist,Hyderabad Trust Hospital,Hyderabad,916159097113,22,3.1,1663
+Dr. Lakshmi Naidu,Dermatologist,Hyderabad General Hospital,Hyderabad,916909150816,34,3.9,1438
+Dr. Prasad Kumar,Dermatologist,Hyderabad Memorial Hospital,Hyderabad,918488270884,15,4.8,125
+Dr. Anusha Acharya,Dermatologist,Hyderabad Institute of Medical Sciences,Hyderabad,916081874986,31,4.8,1316
+Dr. Ravi Kumar,Dermatologist,Kurnool Trust Hospital,Kurnool,918786516452,9,3.0,1345
+Dr. Anil Krishna,Dermatologist,Tirupati Trust Hospital,Tirupati,919408903107,7,3.9,399
+Dr. Ramesh Krishna,Dermatologist,Hyderabad Apollo Hospital,Hyderabad,919511008639,7,3.2,1268
+Dr. Ravi Naidu,Dermatologist,Hyderabad Memorial Hospital,Hyderabad,919455101626,13,3.9,1711
+Dr. Rajesh Naidu,Dermatologist,Guntur Super Speciality Hospital,Guntur,918938137245,35,3.3,1763
+Dr. Venkatesh Sarma,Dermatologist,Hyderabad Apollo Hospital,Hyderabad,916744951997,22,3.1,610
+Dr. Padma Chowdary,Dermatologist,Visakhapatnam City Hospital,Visakhapatnam,918990567626,24,4.1,948
+Dr. Madhavi Reddy,Dermatologist,Hyderabad Super Speciality Hospital,Hyderabad,916572823571,7,4.6,1344
+Dr. Lakshmi Babu,Dermatologist,Kurnool Trust Hospital,Kurnool,916677546830,2,4.8,215
+Dr. Srinivas Chowdary,Dermatologist,Hyderabad Super Speciality Hospital,Hyderabad,919977727965,6,4.4,1265
+Dr. Padma Kumar,Dermatologist,Anantapur Institute of Medical Sciences,Anantapur,919467807282,31,4.4,472
+Dr. Soujanya Varma,Dermatologist,Ongole Apollo Hospital,Ongole,918246640975,29,3.8,1971
+Dr. Bhavani Kumar,Dermatologist,Tirupati Memorial Hospital,Tirupati,916161581876,12,4.4,1303
+Dr. Soujanya Krishna,Dermatologist,Secunderabad Super Speciality Hospital,Secunderabad,919361168522,20,3.7,59
+Dr. Ravi Rao,Dermatologist,Vizianagaram Institute of Medical Sciences,Vizianagaram,916504692228,34,5.0,1317
+Dr. Deepika Murthy,Dermatologist,Vijayawada Super Speciality Hospital,Vijayawada,916941783821,30,4.5,1400
+Dr. Mahesh Reddy,Dermatologist,Hyderabad Medical Center,Hyderabad,916832016743,8,4.6,1453
+Dr. Anusha Chowdary,Dermatologist,Vijayawada Memorial Hospital,Vijayawada,916686162224,3,3.1,795
+Dr. Kiran Raju,Dermatologist,Rajahmundry Apollo Hospital,Rajahmundry,917079676542,22,4.2,1872
+Dr. Venkatesh Naidu,Dermatologist,Vijayawada Institute of Medical Sciences,Vijayawada,919180066307,4,4.8,410
+Dr. Srinivas Yadav,Dermatologist,Hyderabad Medical Center,Hyderabad,918211494631,8,3.1,531
+Dr. Madhavi Sarma,Dermatologist,Tirupati Super Speciality Hospital,Tirupati,917400040429,27,3.4,1436
+Dr. Ravi Babu,Dermatologist,Vijayawada Global Hospital,Vijayawada,916473017075,21,3.5,535
+Dr. Kiran Raju,Dermatologist,Tirupati General Hospital,Tirupati,919828384170,15,3.1,1248
+Dr. Venkatesh Prakash,Dermatologist,Tirupati Institute of Medical Sciences,Tirupati,917872026192,10,3.4,1298
+Dr. Naresh Raju,Dermatologist,Kakinada Global Hospital,Kakinada,917604106208,9,3.9,447
+Dr. Mahesh Rao,Dermatologist,Vijayawada City Hospital,Vijayawada,917442642321,9,3.1,1214
+Dr. Mahesh Chowdary,Dermatologist,Kurnool Apollo Hospital,Kurnool,916477210657,30,3.9,400
+Dr. Ravi Prakash,Dermatologist,Kurnool Apollo Hospital,Kurnool,917267709045,11,4.6,1356
+Dr. Naresh Sarma,Dermatologist,Vizianagaram Super Speciality Hospital,Vizianagaram,918374067376,15,3.2,1805
+Dr. Anusha Krishna,Dermatologist,Hyderabad Super Speciality Hospital,Hyderabad,916929613915,31,4.7,621
+Dr. Padma Kumar,Dermatologist,Tirupati Institute of Medical Sciences,Tirupati,919747781900,16,3.5,939
+Dr. Ravi Prakash,Dermatologist,Kakinada City Hospital,Kakinada,919983494883,10,4.8,1889
+Dr. Padma Reddy,Dermatologist,Anantapur City Hospital,Anantapur,916172050713,31,4.5,1082
+Dr. Padma Murthy,Dermatologist,Hyderabad General Hospital,Hyderabad,917693592188,31,4.6,1476
+Dr. Sridevi Yadav,Dermatologist,Secunderabad Trust Hospital,Secunderabad,917032989010,6,4.1,75
+Dr. Kiran Chowdary,Dermatologist,Guntur Care Hospital,Guntur,917539340680,19,3.5,235
+Dr. Anusha Acharya,Dermatologist,Hyderabad Care Hospital,Hyderabad,917309263254,11,4.4,1807
+Dr. Madhavi Reddy,Dermatologist,Anantapur Apollo Hospital,Anantapur,917953526348,30,4.5,1840
+Dr. Naresh Babu,Dermatologist,Guntur Institute of Medical Sciences,Guntur,919743286475,24,4.3,1491
+Dr. Soujanya Naidu,Dermatologist,Visakhapatnam General Hospital,Visakhapatnam,917653043870,22,4.1,657
+Dr. Mahesh Kumar,Dermatologist,Kurnool Trust Hospital,Kurnool,918630672799,35,4.2,474
+Dr. Bhavani Prakash,Dermatologist,Secunderabad General Hospital,Secunderabad,917441797632,4,4.0,1913
+Dr. Venkatesh Naidu,Dermatologist,Vizianagaram Memorial Hospital,Vizianagaram,917644779176,24,3.9,133
+Dr. Harish Chowdary,Dermatologist,Vijayawada Trust Hospital,Vijayawada,918783880354,5,4.1,1634
+Dr. Prasad Goud,Dermatologist,Hyderabad Care Hospital,Hyderabad,917024919673,35,3.2,1029
+Dr. Sirisha Rao,Dermatologist,Vizianagaram Care Hospital,Vizianagaram,919234855539,15,3.6,1888
+Dr. Swathi Acharya,Dermatologist,Rajahmundry Institute of Medical Sciences,Rajahmundry,917816466752,18,3.1,813
+Dr. Sridevi Yadav,Dermatologist,Vijayawada Trust Hospital,Vijayawada,918153711762,34,4.7,1012
+Dr. Tejaswi Krishna,Dermatologist,Hyderabad Trust Hospital,Hyderabad,918288596778,19,3.9,803
+Dr. Kiran Prakash,Dermatologist,Secunderabad General Hospital,Secunderabad,919796660811,30,3.2,850
+Dr. Anil Naidu,Dermatologist,Hyderabad Memorial Hospital,Hyderabad,916469718772,11,3.6,1477
+Dr. Anusha Chowdary,Dermatologist,Visakhapatnam Apollo Hospital,Visakhapatnam,919758066922,14,4.0,1334
+Dr. Anil Raju,Dermatologist,Hyderabad Super Speciality Hospital,Hyderabad,918930900179,35,4.9,1020
+Dr. Padma Yadav,Dermatologist,Ongole Trust Hospital,Ongole,919168437087,2,3.6,178
+Dr. Ravi Krishna,Dermatologist,Visakhapatnam Apollo Hospital,Visakhapatnam,918231752989,22,3.8,752
+Dr. Anusha Sarma,Dermatologist,Vijayawada Trust Hospital,Vijayawada,918859826923,34,4.7,961
+Dr. Anil Sarma,Dermatologist,Kurnool Memorial Hospital,Kurnool,916566739190,20,3.3,582
+Dr. Anusha Goud,Dermatologist,Vizianagaram Memorial Hospital,Vizianagaram,917237578891,4,3.3,632
+Dr. Naresh Sarma,Dermatologist,Vijayawada Apollo Hospital,Vijayawada,919969115197,11,4.4,634
+Dr. Naresh Krishna,Dermatologist,Hyderabad Care Hospital,Hyderabad,919041314240,10,3.3,289
+Dr. Rajesh Sarma,Dermatologist,Hyderabad Institute of Medical Sciences,Hyderabad,916543199610,29,3.5,427
+Dr. Deepika Kumar,Dermatologist,Visakhapatnam General Hospital,Visakhapatnam,916148988494,21,5.0,352
+Dr. Sridevi Murthy,Dermatologist,Vijayawada Medical Center,Vijayawada,916698351408,35,3.6,1935
+Dr. Lakshmi Prakash,Dermatologist,Hyderabad Institute of Medical Sciences,Hyderabad,918144979311,10,4.9,1950
+Dr. Prasad Reddy,Dermatologist,Vijayawada Medical Center,Vijayawada,919171811790,35,5.0,728
+Dr. Anusha Prakash,Dermatologist,Rajahmundry Super Speciality Hospital,Rajahmundry,917244798250,10,4.6,1542
+Dr. Rajesh Kumar,Dermatologist,Vijayawada Memorial Hospital,Vijayawada,916482391908,31,4.8,335
+Dr. Suresh Varma,Dermatologist,Kakinada Institute of Medical Sciences,Kakinada,916106496266,26,4.2,501
+Dr. Harish Naidu,Dermatologist,Vijayawada Global Hospital,Vijayawada,917401733322,4,4.2,449
+Dr. Swathi Rao,Dermatologist,Hyderabad Global Hospital,Hyderabad,919355586446,18,3.4,221
+Dr. Sridevi Acharya,Dermatologist,Visakhapatnam City Hospital,Visakhapatnam,918884318673,6,5.0,857
+Dr. Anusha Goud,Dermatologist,Hyderabad Institute of Medical Sciences,Hyderabad,918590603471,33,4.9,1910
+Dr. Lakshmi Chowdary,Dermatologist,Vijayawada City Hospital,Vijayawada,919075040971,28,3.7,813
+Dr. Anil Goud,Dermatologist,Kakinada Trust Hospital,Kakinada,917509058380,20,5.0,1840
+Dr. Ramesh Rao,Dermatologist,Vizianagaram Apollo Hospital,Vizianagaram,919126106365,29,4.5,901
+Dr. Anil Chowdary,Dermatologist,Ongole Institute of Medical Sciences,Ongole,919460338250,28,4.5,898
+Dr. Madhavi Sarma,Dermatologist,Hyderabad Care Hospital,Hyderabad,916369702097,10,3.4,1022
+Dr. Rajesh Naidu,Dermatologist,Anantapur City Hospital,Anantapur,918536946511,25,3.2,888
+Dr. Padma Chowdary,Dermatologist,Rajahmundry Trust Hospital,Rajahmundry,918387202297,30,4.4,1596
+Dr. Kiran Chowdary,Dermatologist,Kurnool Medical Center,Kurnool,919574631360,25,3.6,1054
+Dr. Anil Krishna,Dermatologist,Hyderabad Medical Center,Hyderabad,918513450309,20,4.0,1565
+Dr. Ravi Reddy,Dermatologist,Visakhapatnam City Hospital,Visakhapatnam,919398262106,1,3.3,664
+Dr. Suresh Acharya,Dermatologist,Vijayawada Global Hospital,Vijayawada,918860076519,19,3.8,1057
+Dr. Srinivas Naidu,Dermatologist,Hyderabad Trust Hospital,Hyderabad,919284440326,18,4.0,186
+Dr. Harish Sarma,Dermatologist,Visakhapatnam Care Hospital,Visakhapatnam,918063671261,28,4.7,1336
+Dr. Sirisha Krishna,Dermatologist,Kakinada Care Hospital,Kakinada,916513608027,24,4.0,1228
+Dr. Mahesh Chowdary,Dermatologist,Ongole Global Hospital,Ongole,918498187046,4,3.3,994
+Dr. Harish Chowdary,Dermatologist,Tirupati Trust Hospital,Tirupati,916227153651,18,3.7,1353
+Dr. Venkatesh Varma,Dermatologist,Kurnool Care Hospital,Kurnool,917252687769,34,4.3,207
+Dr. Kiran Babu,Dermatologist,Vizianagaram Memorial Hospital,Vizianagaram,918697368099,12,4.5,1276
+Dr. Deepika Goud,Dermatologist,Hyderabad Medical Center,Hyderabad,919747114751,21,4.7,1452
+Dr. Mahesh Acharya,Dermatologist,Rajahmundry Super Speciality Hospital,Rajahmundry,918997747622,24,3.2,1237
+Dr. Prasad Reddy,Dermatologist,Vijayawada General Hospital,Vijayawada,916588193385,34,3.6,1644
+Dr. Padma Goud,Dermatologist,Anantapur Trust Hospital,Anantapur,919955267061,11,3.2,366
+Dr. Ravi Krishna,Dermatologist,Kurnool Super Speciality Hospital,Kurnool,916809243907,34,4.7,1509
+Dr. Sirisha Babu,Dermatologist,Kakinada Trust Hospital,Kakinada,919447056094,8,3.8,1926
+Dr. Suresh Krishna,Dermatologist,Anantapur Medical Center,Anantapur,916563637820,2,4.0,688
+Dr. Prasad Krishna,Dermatologist,Kurnool Apollo Hospital,Kurnool,917898108832,34,4.5,750
+Dr. Sirisha Varma,Dermatologist,Hyderabad Care Hospital,Hyderabad,916123521259,8,3.4,1804
+Dr. Sirisha Rao,Dermatologist,Hyderabad Medical Center,Hyderabad,917320394595,9,3.4,210
+Dr. Sirisha Babu,Dermatologist,Kakinada General Hospital,Kakinada,919367382040,8,3.2,1636
+Dr. Padma Reddy,Dermatologist,Vijayawada Global Hospital,Vijayawada,916843321095,7,3.1,1401
+Dr. Madhavi Reddy,Dermatologist,Tirupati Institute of Medical Sciences,Tirupati,918014693343,8,4.8,138
+Dr. Anil Acharya,Dermatologist,Secunderabad Care Hospital,Secunderabad,916044119593,7,4.6,1934
+Dr. Kiran Sarma,Dermatologist,Visakhapatnam Institute of Medical Sciences,Visakhapatnam,919870516577,13,3.4,769
+Dr. Ramesh Chowdary,Dermatologist,Hyderabad Super Speciality Hospital,Hyderabad,919632947579,18,4.9,762
+Dr. Naresh Krishna,Dermatologist,Vijayawada Memorial Hospital,Vijayawada,918150208433,16,4.0,189
+Dr. Madhavi Babu,Dermatologist,Secunderabad General Hospital,Secunderabad,916060062145,34,3.4,442
+Dr. Naresh Prakash,Dermatologist,Rajahmundry Care Hospital,Rajahmundry,919238482108,35,3.0,1535
+Dr. Kiran Prakash,Dermatologist,Secunderabad Global Hospital,Secunderabad,918165502207,31,3.7,1257
+Dr. Sridevi Acharya,Dermatologist,Vizianagaram Memorial Hospital,Vizianagaram,916460955243,12,4.7,827
+Dr. Kiran Murthy,Dermatologist,Guntur Memorial Hospital,Guntur,916977337913,27,3.2,693
+Dr. Sridevi Naidu,Dermatologist,Secunderabad Memorial Hospital,Secunderabad,918232212989,9,4.0,789
+Dr. Deepika Kumar,Dermatologist,Rajahmundry Memorial Hospital,Rajahmundry,916174412453,6,3.7,286
+Dr. Anil Yadav,Dermatologist,Guntur Super Speciality Hospital,Guntur,918578653296,20,4.4,1772
+Dr. Ravi Murthy,Dermatologist,Kakinada Care Hospital,Kakinada,917749263811,19,5.0,926
+Dr. Ramesh Prakash,Dermatologist,Anantapur Care Hospital,Anantapur,919612317764,31,4.9,802
+Dr. Srinivas Acharya,Dermatologist,Visakhapatnam Care Hospital,Visakhapatnam,918111613686,7,3.8,1120
+Dr. Suresh Chowdary,Dermatologist,Secunderabad Memorial Hospital,Secunderabad,917695702318,26,4.4,258
+Dr. Ramesh Goud,Dermatologist,Hyderabad Apollo Hospital,Hyderabad,916855069520,22,3.4,1778
+Dr. Suresh Rao,Dermatologist,Tirupati City Hospital,Tirupati,919599651312,28,4.5,620
+Dr. Madhavi Varma,Dermatologist,Kakinada Super Speciality Hospital,Kakinada,919248296389,26,3.7,1415
+Dr. Lakshmi Yadav,Dermatologist,Anantapur Trust Hospital,Anantapur,918196508611,18,3.3,981
+Dr. Suresh Varma,Dermatologist,Visakhapatnam General Hospital,Visakhapatnam,918101705225,32,3.5,1980
+Dr. Srinivas Naidu,Dermatologist,Hyderabad Memorial Hospital,Hyderabad,919168819811,4,4.7,1070
+Dr. Naresh Raju,Dermatologist,Tirupati Trust Hospital,Tirupati,918596668166,21,3.3,1323
+Dr. Suresh Babu,Dermatologist,Hyderabad General Hospital,Hyderabad,916328639113,34,4.5,1673
+Dr. Kiran Varma,Dermatologist,Vijayawada Institute of Medical Sciences,Vijayawada,918843668785,32,4.0,585
+Dr. Rajesh Babu,Dermatologist,Hyderabad Care Hospital,Hyderabad,919692264452,35,4.1,2000
+Dr. Padma Prakash,Dermatologist,Hyderabad General Hospital,Hyderabad,919929633791,8,3.8,694
+Dr. Sridevi Yadav,Dermatologist,Tirupati Super Speciality Hospital,Tirupati,916154537730,3,3.4,1400
+Dr. Sirisha Chowdary,Dermatologist,Tirupati Care Hospital,Tirupati,918110888847,28,3.3,1515
+Dr. Anusha Babu,Dermatologist,Guntur Institute of Medical Sciences,Guntur,916469792084,32,4.3,1453
+Dr. Madhavi Yadav,Dermatologist,Hyderabad Care Hospital,Hyderabad,918044022431,11,4.0,851
+Dr. Anusha Sarma,Dermatologist,Rajahmundry Medical Center,Rajahmundry,917622628777,23,4.5,632
+Dr. Venkatesh Reddy,Dermatologist,Tirupati Institute of Medical Sciences,Tirupati,918536021086,3,3.3,800
+Dr. Madhavi Reddy,Dermatologist,Kurnool Apollo Hospital,Kurnool,919286483272,22,3.8,926
+Dr. Harish Raju,Dermatologist,Kurnool Global Hospital,Kurnool,917508689990,4,4.3,557
+Dr. Soujanya Varma,Dermatologist,Hyderabad General Hospital,Hyderabad,918544904142,6,4.8,184
+Dr. Suresh Goud,General Physician,Anantapur Medical Center,Anantapur,916729196312,2,4.1,126
+Dr. Tejaswi Krishna,General Physician,Kurnool Memorial Hospital,Kurnool,917814507883,33,4.8,596
+Dr. Sirisha Yadav,General Physician,Kakinada City Hospital,Kakinada,918525394550,2,5.0,823
+Dr. Lakshmi Goud,General Physician,Visakhapatnam Trust Hospital,Visakhapatnam,918459034771,7,4.6,254
+Dr. Rajesh Yadav,General Physician,Hyderabad Care Hospital,Hyderabad,918159374355,22,3.3,663
+Dr. Padma Rao,General Physician,Vijayawada Memorial Hospital,Vijayawada,918134391358,5,4.7,1147
+Dr. Anil Varma,General Physician,Ongole Institute of Medical Sciences,Ongole,916204145636,20,5.0,873
+Dr. Bhavani Kumar,General Physician,Hyderabad Care Hospital,Hyderabad,916394955891,7,4.2,609
+Dr. Madhavi Babu,General Physician,Anantapur Care Hospital,Anantapur,918280901028,31,3.9,761
+Dr. Soujanya Krishna,General Physician,Secunderabad Trust Hospital,Secunderabad,917296423045,33,4.6,936
+Dr. Rajesh Rao,General Physician,Visakhapatnam Institute of Medical Sciences,Visakhapatnam,917779466167,26,3.5,1105
+Dr. Tejaswi Babu,General Physician,Kurnool Trust Hospital,Kurnool,918351762983,12,4.8,1335
+Dr. Naresh Sarma,General Physician,Tirupati Trust Hospital,Tirupati,918144063281,14,4.3,1737
+Dr. Mahesh Prakash,General Physician,Vijayawada General Hospital,Vijayawada,918739872850,35,4.6,1796
+Dr. Madhavi Kumar,General Physician,Guntur Institute of Medical Sciences,Guntur,918691907159,4,4.0,796
+Dr. Prasad Rao,General Physician,Kurnool Care Hospital,Kurnool,916646275116,20,4.7,890
+Dr. Ramesh Acharya,General Physician,Vijayawada Institute of Medical Sciences,Vijayawada,916874275114,27,3.5,637
+Dr. Mahesh Acharya,General Physician,Hyderabad Care Hospital,Hyderabad,918582272957,16,3.8,282
+Dr. Kiran Reddy,General Physician,Kurnool Institute of Medical Sciences,Kurnool,917054786446,20,3.9,1196
+Dr. Padma Acharya,General Physician,Guntur City Hospital,Guntur,919889761307,3,3.4,608
+Dr. Srinivas Varma,General Physician,Visakhapatnam General Hospital,Visakhapatnam,919391606121,18,4.3,410
+Dr. Anusha Babu,General Physician,Vizianagaram Care Hospital,Vizianagaram,916085507405,4,4.7,221
+Dr. Bhavani Varma,General Physician,Tirupati City Hospital,Tirupati,919724474441,5,4.8,883
+Dr. Tejaswi Acharya,General Physician,Kakinada General Hospital,Kakinada,919804135649,6,3.8,1769
+Dr. Ravi Naidu,General Physician,Kurnool City Hospital,Kurnool,918452311986,33,4.9,1118
+Dr. Swathi Varma,General Physician,Hyderabad Institute of Medical Sciences,Hyderabad,918132241237,6,3.5,300
+Dr. Rajesh Krishna,General Physician,Vijayawada Trust Hospital,Vijayawada,918509661989,25,4.6,1573
+Dr. Padma Rao,General Physician,Hyderabad Global Hospital,Hyderabad,916619668903,7,3.4,612
+Dr. Padma Varma,General Physician,Vizianagaram Memorial Hospital,Vizianagaram,919706126985,4,4.0,817
+Dr. Rajesh Murthy,General Physician,Secunderabad Apollo Hospital,Secunderabad,917820126903,31,4.4,618
+Dr. Harish Yadav,General Physician,Hyderabad Medical Center,Hyderabad,919073784537,24,4.6,93
+Dr. Venkatesh Krishna,General Physician,Anantapur Global Hospital,Anantapur,919175912332,4,4.4,1665
+Dr. Mahesh Murthy,General Physician,Hyderabad Global Hospital,Hyderabad,917652231901,20,4.3,1484
+Dr. Tejaswi Naidu,General Physician,Kurnool Super Speciality Hospital,Kurnool,918297423915,16,4.7,845
+Dr. Lakshmi Prakash,General Physician,Hyderabad Institute of Medical Sciences,Hyderabad,919942465147,17,3.6,1967
+Dr. Anil Rao,General Physician,Hyderabad City Hospital,Hyderabad,919691166761,11,4.8,1343
+Dr. Soujanya Raju,General Physician,Vijayawada Global Hospital,Vijayawada,919390092441,3,3.5,214
+Dr. Anusha Kumar,General Physician,Vijayawada Apollo Hospital,Vijayawada,917773655347,22,4.4,1845
+Dr. Naresh Kumar,General Physician,Anantapur Memorial Hospital,Anantapur,917120857921,33,3.1,911
+Dr. Deepika Kumar,General Physician,Hyderabad Memorial Hospital,Hyderabad,917403459353,30,4.4,1610
+Dr. Soujanya Acharya,General Physician,Hyderabad Global Hospital,Hyderabad,916789155661,29,4.6,328
+Dr. Lakshmi Rao,General Physician,Hyderabad Care Hospital,Hyderabad,918698511953,20,3.6,218
+Dr. Naresh Rao,General Physician,Secunderabad Apollo Hospital,Secunderabad,918217774604,9,4.7,1454
+Dr. Rajesh Yadav,General Physician,Kurnool Memorial Hospital,Kurnool,918054564070,9,3.5,1457
+Dr. Rajesh Babu,General Physician,Hyderabad Care Hospital,Hyderabad,917210310334,13,3.2,802
+Dr. Lakshmi Prakash,General Physician,Hyderabad Care Hospital,Hyderabad,917620577172,15,3.0,97
+Dr. Soujanya Sarma,General Physician,Tirupati Global Hospital,Tirupati,918691344010,15,4.8,997
+Dr. Mahesh Kumar,General Physician,Hyderabad Global Hospital,Hyderabad,919658585732,11,3.1,1315
+Dr. Bhavani Varma,General Physician,Visakhapatnam Care Hospital,Visakhapatnam,916641029050,6,4.9,398
+Dr. Suresh Reddy,General Physician,Visakhapatnam Trust Hospital,Visakhapatnam,919086292314,34,3.9,1934
+Dr. Tejaswi Yadav,General Physician,Vijayawada Trust Hospital,Vijayawada,916509006662,15,4.4,440
+Dr. Anil Kumar,General Physician,Rajahmundry General Hospital,Rajahmundry,918122436090,25,3.3,1803
+Dr. Bhavani Rao,General Physician,Hyderabad Trust Hospital,Hyderabad,919539434845,19,4.5,437
+Dr. Naresh Raju,General Physician,Vizianagaram Medical Center,Vizianagaram,919403604972,10,3.1,586
+Dr. Bhavani Yadav,General Physician,Hyderabad General Hospital,Hyderabad,919896945119,16,3.7,1451
+Dr. Ramesh Reddy,General Physician,Ongole Memorial Hospital,Ongole,918013831172,9,4.7,1469
+Dr. Tejaswi Rao,General Physician,Tirupati General Hospital,Tirupati,919063754568,25,4.4,1557
+Dr. Mahesh Naidu,General Physician,Hyderabad Memorial Hospital,Hyderabad,916409221994,4,3.1,1956
+Dr. Anusha Prakash,General Physician,Hyderabad Apollo Hospital,Hyderabad,917521714121,3,3.0,1083
+Dr. Lakshmi Varma,General Physician,Ongole Medical Center,Ongole,917695209898,24,3.3,1877
+Dr. Venkatesh Sarma,General Physician,Hyderabad Institute of Medical Sciences,Hyderabad,916770397831,17,3.3,1059
+Dr. Sridevi Chowdary,General Physician,Vijayawada Trust Hospital,Vijayawada,916385035155,21,4.4,936
+Dr. Mahesh Naidu,General Physician,Hyderabad City Hospital,Hyderabad,917345482726,3,5.0,1072
+Dr. Harish Prakash,General Physician,Kakinada City Hospital,Kakinada,917847205403,19,4.8,589
+Dr. Mahesh Murthy,General Physician,Hyderabad Care Hospital,Hyderabad,917344369085,28,4.8,696
+Dr. Prasad Murthy,General Physician,Vizianagaram Super Speciality Hospital,Vizianagaram,919663751667,29,3.1,354
+Dr. Ravi Chowdary,General Physician,Hyderabad Care Hospital,Hyderabad,916154027191,31,3.5,1495
+Dr. Padma Naidu,General Physician,Vijayawada Trust Hospital,Vijayawada,919844748262,32,3.1,780
+Dr. Anusha Yadav,General Physician,Tirupati General Hospital,Tirupati,918117369705,8,4.7,1825
+Dr. Suresh Goud,General Physician,Hyderabad Memorial Hospital,Hyderabad,916401913949,14,4.7,419
+Dr. Swathi Krishna,General Physician,Hyderabad Institute of Medical Sciences,Hyderabad,917171630795,14,4.2,58
+Dr. Madhavi Chowdary,General Physician,Hyderabad Care Hospital,Hyderabad,917788505931,5,3.5,1070
+Dr. Rajesh Reddy,General Physician,Vizianagaram Super Speciality Hospital,Vizianagaram,917220978669,8,3.8,1259
+Dr. Rajesh Chowdary,General Physician,Secunderabad Institute of Medical Sciences,Secunderabad,916124015059,6,3.9,1499
+Dr. Sridevi Acharya,General Physician,Kurnool City Hospital,Kurnool,917156713879,1,3.7,139
+Dr. Sridevi Goud,General Physician,Kurnool Super Speciality Hospital,Kurnool,919141962771,9,3.4,149
+Dr. Rajesh Babu,General Physician,Ongole Global Hospital,Ongole,916238521095,5,4.1,1283
+Dr. Ramesh Raju,General Physician,Guntur Institute of Medical Sciences,Guntur,917095920639,12,3.5,1628
+Dr. Ramesh Reddy,General Physician,Anantapur City Hospital,Anantapur,919660797484,14,3.3,1646
+Dr. Anil Acharya,General Physician,Guntur Super Speciality Hospital,Guntur,919232214428,10,3.2,1055
+Dr. Anil Prakash,General Physician,Kurnool Medical Center,Kurnool,918941889126,9,3.7,246
+Dr. Swathi Rao,General Physician,Kakinada City Hospital,Kakinada,918102914921,29,4.8,1025
+Dr. Madhavi Sarma,General Physician,Rajahmundry Apollo Hospital,Rajahmundry,917817074316,6,4.5,1710
+Dr. Bhavani Chowdary,General Physician,Kakinada Apollo Hospital,Kakinada,917864470731,28,3.2,1101
+Dr. Sridevi Acharya,General Physician,Visakhapatnam Trust Hospital,Visakhapatnam,916963061418,10,4.9,1129
+Dr. Ramesh Varma,General Physician,Tirupati Care Hospital,Tirupati,918010986027,28,3.2,1691
+Dr. Anil Chowdary,General Physician,Visakhapatnam Trust Hospital,Visakhapatnam,916548852796,20,4.7,1121
+Dr. Anil Sarma,General Physician,Visakhapatnam Trust Hospital,Visakhapatnam,916204991360,5,4.8,1101
+Dr. Swathi Raju,General Physician,Secunderabad Institute of Medical Sciences,Secunderabad,917773904836,7,3.9,1525
+Dr. Mahesh Goud,General Physician,Kurnool Care Hospital,Kurnool,917094616253,6,4.5,83
+Dr. Tejaswi Yadav,General Physician,Secunderabad General Hospital,Secunderabad,916771170784,12,4.7,142
+Dr. Padma Prakash,General Physician,Secunderabad Memorial Hospital,Secunderabad,919025282872,20,3.6,1532
+Dr. Tejaswi Yadav,General Physician,Kakinada Trust Hospital,Kakinada,918679245233,17,3.7,1930
+Dr. Kiran Chowdary,General Physician,Hyderabad Super Speciality Hospital,Hyderabad,916335954600,17,4.7,267
+Dr. Deepika Reddy,General Physician,Ongole Super Speciality Hospital,Ongole,916025112991,26,3.2,401
+Dr. Sridevi Kumar,General Physician,Vijayawada Global Hospital,Vijayawada,917739855136,32,3.6,1715
+Dr. Harish Kumar,General Physician,Hyderabad City Hospital,Hyderabad,918893962438,26,4.6,229
+Dr. Prasad Reddy,General Physician,Hyderabad General Hospital,Hyderabad,916819488717,8,4.6,1475
+Dr. Srinivas Rao,General Physician,Hyderabad Institute of Medical Sciences,Hyderabad,918066382608,10,4.3,942
+Dr. Kiran Naidu,General Physician,Hyderabad Global Hospital,Hyderabad,917292432406,30,3.3,914
+Dr. Suresh Chowdary,General Physician,Hyderabad Memorial Hospital,Hyderabad,919875844373,10,4.5,961
+Dr. Anusha Reddy,General Physician,Vijayawada Super Speciality Hospital,Vijayawada,919692797617,29,4.2,462
+Dr. Madhavi Krishna,General Physician,Rajahmundry Care Hospital,Rajahmundry,919581309239,26,3.1,66
+Dr. Soujanya Krishna,General Physician,Secunderabad Memorial Hospital,Secunderabad,919062710327,28,5.0,1787
+Dr. Madhavi Sarma,General Physician,Tirupati Institute of Medical Sciences,Tirupati,919139958460,19,3.1,868
+Dr. Swathi Sarma,General Physician,Vijayawada Apollo Hospital,Vijayawada,919112194214,32,3.5,174
+Dr. Srinivas Raju,General Physician,Hyderabad Global Hospital,Hyderabad,918475633552,21,4.1,598
+Dr. Anusha Naidu,General Physician,Guntur Care Hospital,Guntur,918125101713,23,3.9,943
+Dr. Naresh Varma,General Physician,Vizianagaram Trust Hospital,Vizianagaram,919119044481,13,3.9,947
+Dr. Swathi Rao,General Physician,Visakhapatnam General Hospital,Visakhapatnam,918523974937,22,4.8,1797
+Dr. Prasad Prakash,General Physician,Anantapur Memorial Hospital,Anantapur,917260117819,25,4.9,1756
+Dr. Anusha Babu,General Physician,Vijayawada Medical Center,Vijayawada,919627234243,11,4.2,628
+Dr. Tejaswi Yadav,General Physician,Secunderabad Global Hospital,Secunderabad,916554465497,12,3.4,1290
+Dr. Suresh Babu,General Physician,Vijayawada City Hospital,Vijayawada,917786639225,32,3.6,478
+Dr. Venkatesh Reddy,General Physician,Anantapur City Hospital,Anantapur,917540977351,17,3.7,374
+Dr. Swathi Reddy,General Physician,Hyderabad Medical Center,Hyderabad,919465246370,5,3.7,283
+Dr. Ravi Naidu,General Physician,Hyderabad Apollo Hospital,Hyderabad,918413691946,15,4.0,746
+Dr. Venkatesh Babu,General Physician,Vijayawada Medical Center,Vijayawada,919769751394,18,4.8,1797
+Dr. Bhavani Acharya,General Physician,Tirupati Super Speciality Hospital,Tirupati,916447286566,4,4.9,946
+Dr. Suresh Naidu,General Physician,Vizianagaram Institute of Medical Sciences,Vizianagaram,919357171471,7,4.6,135
+Dr. Suresh Chowdary,General Physician,Hyderabad Care Hospital,Hyderabad,918705512079,8,4.7,1915
+Dr. Naresh Kumar,General Physician,Visakhapatnam Global Hospital,Visakhapatnam,917254658686,29,4.5,1070
+Dr. Prasad Acharya,General Physician,Kakinada Memorial Hospital,Kakinada,917562238135,22,4.6,301
+Dr. Sridevi Raju,General Physician,Hyderabad Global Hospital,Hyderabad,919303771741,1,3.5,1707
+Dr. Rajesh Varma,General Physician,Vijayawada Memorial Hospital,Vijayawada,918169056122,11,3.2,812
+Dr. Harish Acharya,General Physician,Guntur Institute of Medical Sciences,Guntur,918856132881,16,3.3,1593
+Dr. Padma Babu,General Physician,Kurnool Care Hospital,Kurnool,916980034265,9,4.6,896
+Dr. Sridevi Krishna,General Physician,Guntur Global Hospital,Guntur,918216870095,24,4.9,956
+Dr. Srinivas Kumar,General Physician,Visakhapatnam Memorial Hospital,Visakhapatnam,919462803915,34,4.9,223
+Dr. Rajesh Raju,General Physician,Visakhapatnam Care Hospital,Visakhapatnam,919317315247,11,3.9,855
+Dr. Tejaswi Prakash,General Physician,Hyderabad City Hospital,Hyderabad,918755074460,10,4.8,168
+Dr. Anil Raju,General Physician,Kakinada Care Hospital,Kakinada,917726588942,20,4.4,692
+Dr. Srinivas Krishna,General Physician,Tirupati Super Speciality Hospital,Tirupati,917201649139,34,4.2,350
+Dr. Sridevi Acharya,General Physician,Guntur Super Speciality Hospital,Guntur,916881041979,35,4.2,1316
+Dr. Sirisha Goud,General Physician,Tirupati Care Hospital,Tirupati,919812534646,26,4.6,1854
+Dr. Ramesh Reddy,General Physician,Kurnool Medical Center,Kurnool,918308259281,22,3.8,1522
+Dr. Swathi Murthy,General Physician,Kakinada Medical Center,Kakinada,917219460880,14,3.2,1180
+Dr. Swathi Goud,General Physician,Rajahmundry General Hospital,Rajahmundry,919251489188,11,3.0,1873
+Dr. Madhavi Varma,General Physician,Hyderabad Medical Center,Hyderabad,917036546460,20,4.5,1084
+Dr. Venkatesh Krishna,General Physician,Tirupati Memorial Hospital,Tirupati,917601932032,17,4.3,775
+Dr. Venkatesh Babu,General Physician,Visakhapatnam Super Speciality Hospital,Visakhapatnam,918795862282,8,3.9,1222
+Dr. Sridevi Goud,General Physician,Hyderabad General Hospital,Hyderabad,917014030282,35,4.7,528
+Dr. Anil Varma,General Physician,Vijayawada Medical Center,Vijayawada,918864409772,9,4.4,1114
+Dr. Suresh Goud,General Physician,Ongole Global Hospital,Ongole,918218143687,13,4.6,789
+Dr. Suresh Chowdary,General Physician,Ongole Super Speciality Hospital,Ongole,919056472330,28,4.7,217
+Dr. Venkatesh Raju,General Physician,Visakhapatnam Global Hospital,Visakhapatnam,919816118375,9,4.0,963
+Dr. Harish Acharya,General Physician,Secunderabad Memorial Hospital,Secunderabad,918260250607,26,4.2,1112
+Dr. Mahesh Sarma,General Physician,Guntur Memorial Hospital,Guntur,918142446952,28,5.0,1461
+Dr. Padma Krishna,General Physician,Vijayawada Care Hospital,Vijayawada,916699404386,10,4.0,1042
+Dr. Prasad Kumar,General Physician,Visakhapatnam Trust Hospital,Visakhapatnam,918204114869,34,3.2,485
+Dr. Anusha Reddy,General Physician,Tirupati Trust Hospital,Tirupati,919206177239,11,4.9,806
+Dr. Bhavani Krishna,General Physician,Secunderabad Apollo Hospital,Secunderabad,917755008946,8,3.2,1220
+Dr. Venkatesh Murthy,General Physician,Rajahmundry Apollo Hospital,Rajahmundry,916658437876,8,3.7,816
+Dr. Anil Yadav,General Physician,Rajahmundry Medical Center,Rajahmundry,916120163655,10,3.3,1257
+Dr. Venkatesh Prakash,General Physician,Guntur General Hospital,Guntur,919840787093,20,4.8,491
+Dr. Anusha Reddy,General Physician,Hyderabad Apollo Hospital,Hyderabad,916525394346,23,3.1,141
+Dr. Anusha Sarma,General Physician,Guntur Global Hospital,Guntur,917330159429,29,4.8,1650
+Dr. Anusha Krishna,General Physician,Guntur Super Speciality Hospital,Guntur,919092520298,9,4.5,1083
+Dr. Sridevi Acharya,General Physician,Vijayawada Trust Hospital,Vijayawada,917928761313,10,4.7,716
+Dr. Bhavani Acharya,General Physician,Ongole General Hospital,Ongole,918678296395,27,3.8,1893
+Dr. Rajesh Murthy,General Physician,Guntur Memorial Hospital,Guntur,916196794154,29,4.5,1372
+Dr. Naresh Kumar,General Physician,Ongole Care Hospital,Ongole,916106532739,20,4.1,303
+Dr. Ramesh Rao,General Physician,Hyderabad Super Speciality Hospital,Hyderabad,918657313676,35,4.2,158
+Dr. Swathi Rao,General Physician,Ongole Super Speciality Hospital,Ongole,919223624529,31,4.0,88
+Dr. Tejaswi Prakash,General Physician,Secunderabad Institute of Medical Sciences,Secunderabad,918284318901,12,4.9,613
+Dr. Ravi Krishna,General Physician,Tirupati Care Hospital,Tirupati,919030604949,29,3.2,1142
+Dr. Rajesh Raju,General Physician,Tirupati City Hospital,Tirupati,918529276291,3,4.0,1962
+Dr. Rajesh Raju,General Physician,Hyderabad Institute of Medical Sciences,Hyderabad,916775275976,27,3.0,1131
+Dr. Lakshmi Varma,General Physician,Vijayawada Medical Center,Vijayawada,916390949767,8,5.0,1159
+Dr. Anil Chowdary,General Physician,Hyderabad Memorial Hospital,Hyderabad,916784557073,17,4.5,365
+Dr. Padma Acharya,General Physician,Rajahmundry Super Speciality Hospital,Rajahmundry,916726670039,4,4.2,716
+Dr. Srinivas Kumar,General Physician,Hyderabad Global Hospital,Hyderabad,916251263235,20,3.8,705
+Dr. Padma Prakash,General Physician,Ongole City Hospital,Ongole,917392504821,17,3.8,1745
+Dr. Venkatesh Rao,General Physician,Secunderabad Institute of Medical Sciences,Secunderabad,917029172775,16,4.0,1590
+Dr. Lakshmi Naidu,General Physician,Tirupati General Hospital,Tirupati,917156581143,4,3.6,1182
+Dr. Ramesh Yadav,General Physician,Guntur Global Hospital,Guntur,916124152223,27,4.3,1921
+Dr. Mahesh Murthy,General Physician,Tirupati Institute of Medical Sciences,Tirupati,918517592572,7,3.5,1186
+Dr. Anil Sarma,General Physician,Hyderabad City Hospital,Hyderabad,917746960421,29,3.2,1352
+Dr. Kiran Babu,General Physician,Hyderabad Care Hospital,Hyderabad,916611461750,24,4.1,394
+Dr. Deepika Raju,General Physician,Hyderabad Global Hospital,Hyderabad,919914831482,29,3.1,1714
+Dr. Bhavani Varma,General Physician,Vijayawada Care Hospital,Vijayawada,918804866399,11,3.0,1961
+Dr. Mahesh Sarma,General Physician,Kurnool Global Hospital,Kurnool,917077559866,25,5.0,1775
+Dr. Madhavi Krishna,General Physician,Hyderabad Apollo Hospital,Hyderabad,918191843886,19,3.1,1563
+Dr. Madhavi Naidu,General Physician,Hyderabad Medical Center,Hyderabad,917291231895,6,3.8,301
+Dr. Deepika Varma,General Physician,Hyderabad Medical Center,Hyderabad,919772180841,28,3.4,1083
+Dr. Tejaswi Goud,General Physician,Vijayawada Apollo Hospital,Vijayawada,918728033887,17,5.0,1499
+Dr. Mahesh Rao,General Physician,Vijayawada Medical Center,Vijayawada,918844458160,21,3.7,991
+Dr. Rajesh Reddy,General Physician,Hyderabad Institute of Medical Sciences,Hyderabad,919925678450,9,4.3,54
+Dr. Anusha Reddy,General Physician,Hyderabad Care Hospital,Hyderabad,919871676777,1,4.3,896
+Dr. Sirisha Kumar,General Physician,Kurnool Global Hospital,Kurnool,918100138984,26,4.1,1662
+Dr. Deepika Reddy,General Physician,Secunderabad Institute of Medical Sciences,Secunderabad,919833568382,29,4.3,772
+Dr. Bhavani Goud,General Physician,Guntur Memorial Hospital,Guntur,917661083050,12,4.7,1712
+Dr. Suresh Yadav,General Physician,Anantapur General Hospital,Anantapur,917591202214,13,3.9,503
+Dr. Mahesh Acharya,General Physician,Hyderabad Medical Center,Hyderabad,919957377217,23,3.4,1721
+Dr. Soujanya Varma,General Physician,Hyderabad Memorial Hospital,Hyderabad,919472113816,15,3.5,1061
+Dr. Venkatesh Varma,General Physician,Vizianagaram Institute of Medical Sciences,Vizianagaram,918116722547,14,3.0,1731
+Dr. Suresh Krishna,General Physician,Kakinada Apollo Hospital,Kakinada,917191198671,33,4.0,1180
+Dr. Tejaswi Kumar,General Physician,Hyderabad Global Hospital,Hyderabad,918429693268,12,3.1,312
+Dr. Prasad Varma,General Physician,Anantapur Institute of Medical Sciences,Anantapur,918447715974,15,4.8,1542
+Dr. Kiran Krishna,General Physician,Rajahmundry General Hospital,Rajahmundry,918911896416,2,5.0,1469
+Dr. Bhavani Varma,General Physician,Hyderabad City Hospital,Hyderabad,918923499861,30,3.0,924
+Dr. Rajesh Raju,General Physician,Hyderabad Trust Hospital,Hyderabad,919626419350,27,3.5,1442
+Dr. Sridevi Yadav,General Physician,Tirupati City Hospital,Tirupati,917552509738,34,4.5,1860
+Dr. Venkatesh Varma,General Physician,Hyderabad Care Hospital,Hyderabad,919944461439,27,4.1,697
+Dr. Lakshmi Rao,General Physician,Hyderabad Trust Hospital,Hyderabad,917437550554,6,4.8,1704
+Dr. Ravi Kumar,General Physician,Visakhapatnam City Hospital,Visakhapatnam,917820294127,5,4.8,453
+Dr. Rajesh Varma,General Physician,Kakinada Apollo Hospital,Kakinada,916269913445,7,3.1,934
+Dr. Madhavi Babu,General Physician,Anantapur Institute of Medical Sciences,Anantapur,918689925587,22,4.7,556
+Dr. Anusha Rao,General Physician,Ongole Institute of Medical Sciences,Ongole,917463733306,4,4.6,1114
+Dr. Ramesh Babu,General Physician,Kakinada Medical Center,Kakinada,918576828779,29,4.5,1330
+Dr. Madhavi Naidu,General Physician,Visakhapatnam Institute of Medical Sciences,Visakhapatnam,916367368719,4,4.8,822
+Dr. Sirisha Naidu,General Physician,Vijayawada Medical Center,Vijayawada,919361440027,9,3.1,1693
+Dr. Venkatesh Varma,General Physician,Kurnool Trust Hospital,Kurnool,918623102467,28,3.1,1437
+Dr. Deepika Reddy,General Physician,Ongole Apollo Hospital,Ongole,917266657868,25,3.8,1314
+Dr. Ravi Krishna,General Physician,Anantapur City Hospital,Anantapur,918575158682,1,3.9,1000
+Dr. Bhavani Sarma,General Physician,Guntur Care Hospital,Guntur,916434985381,22,4.3,1433
+Dr. Sridevi Murthy,General Physician,Hyderabad General Hospital,Hyderabad,917409581085,13,3.2,75
+Dr. Sirisha Naidu,General Physician,Visakhapatnam Apollo Hospital,Visakhapatnam,918546428118,13,4.8,308
+Dr. Mahesh Goud,General Physician,Vizianagaram Apollo Hospital,Vizianagaram,917808211327,31,4.4,960
+Dr. Ravi Chowdary,General Physician,Hyderabad Super Speciality Hospital,Hyderabad,919423198820,3,3.1,688
+Dr. Padma Murthy,General Physician,Ongole Medical Center,Ongole,918799051568,23,3.6,1862
+Dr. Prasad Chowdary,General Physician,Tirupati Apollo Hospital,Tirupati,918016589212,20,4.2,646
+Dr. Srinivas Murthy,General Physician,Kurnool General Hospital,Kurnool,918518740244,10,3.1,1088
+Dr. Venkatesh Raju,General Physician,Vizianagaram General Hospital,Vizianagaram,917476678923,13,5.0,1361
+Dr. Ramesh Goud,General Physician,Ongole Care Hospital,Ongole,916813275990,31,4.4,1007
+Dr. Sirisha Goud,General Physician,Visakhapatnam Apollo Hospital,Visakhapatnam,919659349419,22,4.2,907
+Dr. Naresh Naidu,General Physician,Vijayawada Medical Center,Vijayawada,917951212610,3,4.0,1934
+Dr. Soujanya Rao,General Physician,Hyderabad General Hospital,Hyderabad,918977359647,15,3.9,486
+Dr. Anusha Kumar,General Physician,Hyderabad Apollo Hospital,Hyderabad,919300031265,22,4.6,819
+Dr. Lakshmi Chowdary,General Physician,Hyderabad Institute of Medical Sciences,Hyderabad,919548005130,1,3.7,201
+Dr. Srinivas Murthy,General Physician,Kurnool Care Hospital,Kurnool,916494734259,10,3.6,448
+Dr. Harish Reddy,General Physician,Kurnool General Hospital,Kurnool,916127498560,13,3.4,406
+Dr. Mahesh Kumar,General Physician,Anantapur City Hospital,Anantapur,916748546314,22,4.7,553
+Dr. Kiran Reddy,General Physician,Tirupati Medical Center,Tirupati,916756246771,17,4.8,92
+Dr. Lakshmi Acharya,General Physician,Visakhapatnam Medical Center,Visakhapatnam,919381917721,8,3.7,480
+Dr. Sridevi Rao,General Physician,Rajahmundry Trust Hospital,Rajahmundry,917587594499,24,4.3,1977
+Dr. Bhavani Prakash,General Physician,Hyderabad Care Hospital,Hyderabad,917862804888,5,3.2,1857
+Dr. Kiran Rao,General Physician,Visakhapatnam General Hospital,Visakhapatnam,918287305085,25,4.4,701
+Dr. Padma Acharya,General Physician,Kurnool Apollo Hospital,Kurnool,917050332690,3,4.5,1252
+Dr. Deepika Varma,General Physician,Tirupati Memorial Hospital,Tirupati,919391253758,10,3.7,159
+Dr. Prasad Krishna,General Physician,Rajahmundry City Hospital,Rajahmundry,918183000783,32,3.4,216
+Dr. Tejaswi Sarma,General Physician,Vijayawada Super Speciality Hospital,Vijayawada,916278627610,11,4.0,1588
+Dr. Harish Yadav,General Physician,Anantapur Care Hospital,Anantapur,918228625736,30,3.4,1509
+Dr. Swathi Kumar,General Physician,Vizianagaram City Hospital,Vizianagaram,918075745031,32,3.9,1240
+Dr. Soujanya Prakash,General Physician,Anantapur Global Hospital,Anantapur,919395706278,3,3.4,1882
+Dr. Sridevi Krishna,General Physician,Hyderabad Care Hospital,Hyderabad,917006674160,26,3.4,920
+Dr. Madhavi Chowdary,General Physician,Kakinada Memorial Hospital,Kakinada,919618216170,24,3.5,223
+Dr. Ramesh Varma,General Physician,Hyderabad General Hospital,Hyderabad,917909135795,34,3.7,1245
+Dr. Sridevi Murthy,General Physician,Hyderabad City Hospital,Hyderabad,918667715097,22,3.9,1007
+Dr. Padma Goud,General Physician,Guntur Super Speciality Hospital,Guntur,919455320375,32,3.6,833
+Dr. Naresh Yadav,Gynecologist,Hyderabad General Hospital,Hyderabad,917004122133,17,4.3,785
+Dr. Anil Krishna,Gynecologist,Secunderabad Super Speciality Hospital,Secunderabad,918155063910,33,4.1,210
+Dr. Ravi Naidu,Gynecologist,Kurnool Memorial Hospital,Kurnool,916509331083,5,3.7,1168
+Dr. Rajesh Rao,Gynecologist,Hyderabad Global Hospital,Hyderabad,918899563887,22,3.5,1576
+Dr. Kiran Kumar,Gynecologist,Rajahmundry Institute of Medical Sciences,Rajahmundry,918594306443,9,5.0,1590
+Dr. Mahesh Reddy,Gynecologist,Hyderabad Super Speciality Hospital,Hyderabad,919307451625,20,3.6,759
+Dr. Lakshmi Krishna,Gynecologist,Kurnool Memorial Hospital,Kurnool,918490882519,1,3.9,1099
+Dr. Lakshmi Rao,Gynecologist,Hyderabad Institute of Medical Sciences,Hyderabad,916974641050,14,3.9,1106
+Dr. Deepika Babu,Gynecologist,Tirupati City Hospital,Tirupati,918013215793,30,3.7,225
+Dr. Kiran Raju,Gynecologist,Vizianagaram Institute of Medical Sciences,Vizianagaram,919307687733,27,3.4,971
+Dr. Srinivas Goud,Gynecologist,Hyderabad Global Hospital,Hyderabad,916596786676,9,3.6,1561
+Dr. Anusha Babu,Gynecologist,Tirupati Institute of Medical Sciences,Tirupati,918829731150,23,3.7,908
+Dr. Tejaswi Babu,Gynecologist,Guntur Institute of Medical Sciences,Guntur,917732455428,35,3.6,1252
+Dr. Madhavi Babu,Gynecologist,Hyderabad Medical Center,Hyderabad,916138336549,9,3.3,726
+Dr. Soujanya Babu,Gynecologist,Hyderabad Memorial Hospital,Hyderabad,918589877237,26,5.0,468
+Dr. Ramesh Murthy,Gynecologist,Kurnool Trust Hospital,Kurnool,917659720707,13,3.9,723
+Dr. Sridevi Acharya,Gynecologist,Hyderabad Medical Center,Hyderabad,919842895333,20,3.2,263
+Dr. Naresh Reddy,Gynecologist,Hyderabad General Hospital,Hyderabad,919549682349,32,3.1,457
+Dr. Lakshmi Varma,Gynecologist,Tirupati Super Speciality Hospital,Tirupati,916884300678,15,3.6,1123
+Dr. Sridevi Reddy,Gynecologist,Secunderabad Trust Hospital,Secunderabad,917583349418,34,3.0,719
+Dr. Lakshmi Chowdary,Gynecologist,Guntur Medical Center,Guntur,916475641654,9,4.1,1029
+Dr. Lakshmi Prakash,Gynecologist,Secunderabad Trust Hospital,Secunderabad,919718151021,14,3.3,471
+Dr. Padma Krishna,Gynecologist,Anantapur Super Speciality Hospital,Anantapur,919048016373,31,3.3,1227
+Dr. Madhavi Rao,Gynecologist,Kakinada Super Speciality Hospital,Kakinada,918158113763,30,3.6,65
+Dr. Sridevi Naidu,Gynecologist,Hyderabad Institute of Medical Sciences,Hyderabad,919541555401,26,4.2,555
+Dr. Rajesh Prakash,Gynecologist,Vizianagaram General Hospital,Vizianagaram,918444820231,32,3.9,1229
+Dr. Ramesh Varma,Gynecologist,Hyderabad Trust Hospital,Hyderabad,918775833648,30,3.7,1775
+Dr. Lakshmi Sarma,Gynecologist,Vizianagaram Apollo Hospital,Vizianagaram,919536603219,12,3.8,417
+Dr. Padma Yadav,Gynecologist,Kurnool General Hospital,Kurnool,917652123555,12,4.4,245
+Dr. Sirisha Reddy,Gynecologist,Guntur City Hospital,Guntur,917029483278,11,3.5,1336
+Dr. Anil Acharya,Gynecologist,Tirupati Institute of Medical Sciences,Tirupati,919935462811,5,4.4,1529
+Dr. Anusha Raju,Gynecologist,Tirupati Institute of Medical Sciences,Tirupati,919272167208,8,5.0,206
+Dr. Swathi Babu,Gynecologist,Secunderabad Institute of Medical Sciences,Secunderabad,919347972722,21,3.8,387
+Dr. Kiran Murthy,Gynecologist,Vizianagaram Institute of Medical Sciences,Vizianagaram,916191706583,30,3.1,1358
+Dr. Lakshmi Goud,Gynecologist,Kakinada Institute of Medical Sciences,Kakinada,919203862794,26,4.7,862
+Dr. Srinivas Varma,Gynecologist,Hyderabad Apollo Hospital,Hyderabad,916492558512,9,3.7,1583
+Dr. Anusha Yadav,Gynecologist,Vijayawada Memorial Hospital,Vijayawada,916293076437,6,4.1,546
+Dr. Prasad Yadav,Gynecologist,Vijayawada Global Hospital,Vijayawada,919523705796,18,4.7,399
+Dr. Bhavani Naidu,Gynecologist,Hyderabad Super Speciality Hospital,Hyderabad,916761225433,19,3.2,1568
+Dr. Naresh Naidu,Gynecologist,Guntur Global Hospital,Guntur,918883607330,1,4.4,364
+Dr. Harish Chowdary,Gynecologist,Visakhapatnam Institute of Medical Sciences,Visakhapatnam,916930600995,3,4.8,1140
+Dr. Sridevi Kumar,Gynecologist,Hyderabad City Hospital,Hyderabad,916205110542,34,4.3,1517
+Dr. Lakshmi Kumar,Gynecologist,Secunderabad Super Speciality Hospital,Secunderabad,917324242560,29,3.1,59
+Dr. Lakshmi Babu,Gynecologist,Kakinada Global Hospital,Kakinada,916866458310,16,3.7,538
+Dr. Ramesh Reddy,Gynecologist,Tirupati Medical Center,Tirupati,917811113558,2,5.0,740
+Dr. Tejaswi Acharya,Gynecologist,Kurnool Apollo Hospital,Kurnool,916271319459,15,4.9,247
+Dr. Naresh Reddy,Gynecologist,Hyderabad Institute of Medical Sciences,Hyderabad,917785332041,33,3.2,719
+Dr. Deepika Acharya,Gynecologist,Tirupati Apollo Hospital,Tirupati,916814100451,14,4.9,859
+Dr. Suresh Rao,Gynecologist,Anantapur Memorial Hospital,Anantapur,916918178072,7,3.7,405
+Dr. Lakshmi Acharya,Gynecologist,Hyderabad General Hospital,Hyderabad,917358241431,1,3.8,989
+Dr. Ramesh Acharya,Gynecologist,Visakhapatnam Medical Center,Visakhapatnam,919500762967,18,4.3,805
+Dr. Ramesh Prakash,Gynecologist,Hyderabad Memorial Hospital,Hyderabad,916938711724,27,3.6,1276
+Dr. Suresh Kumar,Gynecologist,Vijayawada Care Hospital,Vijayawada,918302882127,11,3.5,244
+Dr. Rajesh Acharya,Gynecologist,Anantapur Memorial Hospital,Anantapur,918990651739,25,4.4,1629
+Dr. Rajesh Chowdary,Gynecologist,Visakhapatnam Global Hospital,Visakhapatnam,918728822298,21,5.0,1414
+Dr. Ramesh Goud,Gynecologist,Vijayawada Apollo Hospital,Vijayawada,916075801011,29,3.8,1361
+Dr. Swathi Sarma,Gynecologist,Hyderabad Apollo Hospital,Hyderabad,919026359071,1,3.5,1312
+Dr. Anil Rao,Gynecologist,Secunderabad Medical Center,Secunderabad,919169313432,28,4.5,1319
+Dr. Venkatesh Chowdary,Gynecologist,Kurnool Trust Hospital,Kurnool,917608566723,32,3.6,360
+Dr. Kiran Acharya,Gynecologist,Anantapur Super Speciality Hospital,Anantapur,916162808124,16,4.8,1274
+Dr. Rajesh Chowdary,Gynecologist,Ongole Care Hospital,Ongole,917194543987,21,4.3,1607
+Dr. Swathi Babu,Gynecologist,Anantapur Global Hospital,Anantapur,917781953573,19,4.5,519
+Dr. Rajesh Rao,Gynecologist,Vijayawada Trust Hospital,Vijayawada,916883979150,35,3.1,1929
+Dr. Tejaswi Kumar,Gynecologist,Hyderabad Memorial Hospital,Hyderabad,919090238502,15,4.2,831
+Dr. Rajesh Chowdary,Gynecologist,Hyderabad Care Hospital,Hyderabad,917899925557,1,3.1,1056
+Dr. Kiran Reddy,Gynecologist,Secunderabad Global Hospital,Secunderabad,918724585317,10,4.9,307
+Dr. Naresh Sarma,Gynecologist,Secunderabad General Hospital,Secunderabad,918357280339,14,3.5,210
+Dr. Sridevi Varma,Gynecologist,Guntur Care Hospital,Guntur,916705056722,13,3.5,411
+Dr. Ravi Varma,Gynecologist,Hyderabad Memorial Hospital,Hyderabad,917225581333,29,4.9,462
+Dr. Anusha Naidu,Gynecologist,Rajahmundry General Hospital,Rajahmundry,917544392652,26,3.8,1014
+Dr. Padma Murthy,Gynecologist,Vijayawada Institute of Medical Sciences,Vijayawada,918617328226,28,4.5,1728
+Dr. Srinivas Babu,Gynecologist,Ongole Memorial Hospital,Ongole,917638183472,28,4.7,1604
+Dr. Bhavani Murthy,Gynecologist,Kurnool Memorial Hospital,Kurnool,916656265457,12,3.5,999
+Dr. Sridevi Varma,Gynecologist,Rajahmundry City Hospital,Rajahmundry,917611243610,31,3.1,329
+Dr. Kiran Chowdary,Gynecologist,Vijayawada Trust Hospital,Vijayawada,919934756709,13,3.0,1814
+Dr. Harish Yadav,Gynecologist,Anantapur Medical Center,Anantapur,917737551584,27,4.9,1570
+Dr. Lakshmi Yadav,Gynecologist,Ongole Care Hospital,Ongole,917322037419,5,3.8,129
+Dr. Lakshmi Prakash,Gynecologist,Secunderabad Apollo Hospital,Secunderabad,918429270402,11,3.4,943
+Dr. Harish Murthy,Gynecologist,Rajahmundry City Hospital,Rajahmundry,919045683582,32,4.3,804
+Dr. Soujanya Raju,Gynecologist,Anantapur Global Hospital,Anantapur,919979367766,28,4.5,546
+Dr. Venkatesh Prakash,Gynecologist,Vijayawada General Hospital,Vijayawada,919492351339,24,4.3,1435
+Dr. Sirisha Acharya,Gynecologist,Hyderabad Apollo Hospital,Hyderabad,918771686437,10,3.5,982
+Dr. Mahesh Rao,Gynecologist,Kurnool Institute of Medical Sciences,Kurnool,918586211674,11,3.0,1628
+Dr. Soujanya Kumar,Gynecologist,Secunderabad Apollo Hospital,Secunderabad,919937981886,25,3.8,1250
+Dr. Swathi Prakash,Gynecologist,Secunderabad City Hospital,Secunderabad,916810989695,28,3.3,924
+Dr. Sirisha Varma,Gynecologist,Rajahmundry Care Hospital,Rajahmundry,918150261708,35,4.3,833
+Dr. Anil Kumar,Gynecologist,Hyderabad Care Hospital,Hyderabad,917767847167,6,3.2,1222
+Dr. Prasad Varma,Gynecologist,Ongole Memorial Hospital,Ongole,919215771198,14,4.9,865
+Dr. Srinivas Chowdary,Gynecologist,Rajahmundry Institute of Medical Sciences,Rajahmundry,919506365681,32,3.0,193
+Dr. Swathi Raju,Gynecologist,Kurnool Institute of Medical Sciences,Kurnool,918811147132,19,4.5,399
+Dr. Harish Chowdary,Gynecologist,Tirupati Memorial Hospital,Tirupati,919023859695,9,3.4,422
+Dr. Suresh Yadav,Gynecologist,Hyderabad General Hospital,Hyderabad,918435642146,14,3.4,170
+Dr. Kiran Varma,Gynecologist,Hyderabad Super Speciality Hospital,Hyderabad,919875234259,27,3.9,1919
+Dr. Suresh Krishna,Gynecologist,Hyderabad Super Speciality Hospital,Hyderabad,918733461689,11,3.2,225
+Dr. Suresh Varma,Gynecologist,Tirupati City Hospital,Tirupati,916276005067,22,3.1,530
+Dr. Anusha Acharya,Gynecologist,Vijayawada Apollo Hospital,Vijayawada,919266466941,7,3.0,594
+Dr. Tejaswi Sarma,Gynecologist,Hyderabad Super Speciality Hospital,Hyderabad,919389618967,3,3.2,1119
+Dr. Lakshmi Sarma,Gynecologist,Kurnool Trust Hospital,Kurnool,918233701335,18,4.9,1019
+Dr. Bhavani Raju,Gynecologist,Vijayawada Medical Center,Vijayawada,917445472104,24,4.4,752
+Dr. Ravi Goud,Gynecologist,Vijayawada Trust Hospital,Vijayawada,918856489475,26,3.8,167
+Dr. Rajesh Babu,Gynecologist,Vijayawada Apollo Hospital,Vijayawada,916430258498,1,3.9,1480
+Dr. Prasad Reddy,Gynecologist,Anantapur Memorial Hospital,Anantapur,918585180243,8,4.7,622
+Dr. Harish Yadav,Gynecologist,Hyderabad Care Hospital,Hyderabad,918655800295,31,4.0,1402
+Dr. Srinivas Acharya,Gynecologist,Hyderabad Institute of Medical Sciences,Hyderabad,919490172225,21,3.0,787
+Dr. Rajesh Acharya,Gynecologist,Hyderabad Global Hospital,Hyderabad,917908280434,15,4.2,869
+Dr. Ramesh Goud,Gynecologist,Hyderabad Trust Hospital,Hyderabad,917837886403,31,5.0,1805
+Dr. Lakshmi Varma,Gynecologist,Secunderabad City Hospital,Secunderabad,918607791648,13,4.4,1831
+Dr. Madhavi Babu,Gynecologist,Hyderabad City Hospital,Hyderabad,919679939199,33,3.1,1069
+Dr. Anil Krishna,Gynecologist,Anantapur Memorial Hospital,Anantapur,918890779955,30,3.3,963
+Dr. Anusha Acharya,Gynecologist,Secunderabad Memorial Hospital,Secunderabad,918322150992,16,3.5,399
+Dr. Suresh Raju,Gynecologist,Secunderabad General Hospital,Secunderabad,919074187947,2,3.3,1952
+Dr. Lakshmi Babu,Gynecologist,Vijayawada Apollo Hospital,Vijayawada,917204127801,15,4.4,1413
+Dr. Tejaswi Naidu,Gynecologist,Vijayawada City Hospital,Vijayawada,918858199245,9,4.8,1347
+Dr. Ramesh Babu,Gynecologist,Tirupati City Hospital,Tirupati,918971192022,22,4.7,1958
+Dr. Bhavani Naidu,Gynecologist,Hyderabad Apollo Hospital,Hyderabad,918765901134,22,3.8,1519
+Dr. Soujanya Acharya,Gynecologist,Guntur Institute of Medical Sciences,Guntur,919371901008,28,4.6,507
+Dr. Suresh Varma,Gynecologist,Rajahmundry General Hospital,Rajahmundry,916376584206,8,3.2,1566
+Dr. Kiran Kumar,Gynecologist,Hyderabad Institute of Medical Sciences,Hyderabad,916498672432,24,3.3,691
+Dr. Madhavi Kumar,Gynecologist,Guntur Apollo Hospital,Guntur,916007209072,20,3.1,1146
+Dr. Lakshmi Raju,Gynecologist,Anantapur City Hospital,Anantapur,917372856178,24,4.6,1962
+Dr. Swathi Acharya,Gynecologist,Tirupati Institute of Medical Sciences,Tirupati,918583928070,15,3.2,68
+Dr. Sridevi Goud,Gynecologist,Anantapur Global Hospital,Anantapur,916621485146,19,4.7,1073
+Dr. Prasad Sarma,Gynecologist,Vijayawada Apollo Hospital,Vijayawada,917217162916,10,4.5,1789
+Dr. Bhavani Goud,Gynecologist,Hyderabad Super Speciality Hospital,Hyderabad,917326678587,33,5.0,302
+Dr. Sirisha Sarma,Gynecologist,Rajahmundry Apollo Hospital,Rajahmundry,918054208760,14,4.0,1492
+Dr. Venkatesh Babu,Gynecologist,Ongole Super Speciality Hospital,Ongole,917430844947,10,4.7,481
+Dr. Sirisha Kumar,Gynecologist,Kurnool Medical Center,Kurnool,916225770552,12,4.7,1539
+Dr. Anil Krishna,Gynecologist,Guntur Care Hospital,Guntur,918831458506,11,5.0,1172
+Dr. Rajesh Raju,Gynecologist,Kakinada Memorial Hospital,Kakinada,918911552700,31,5.0,1601
+Dr. Lakshmi Naidu,Gynecologist,Guntur City Hospital,Guntur,918267074575,19,3.6,1940
+Dr. Sirisha Krishna,Gynecologist,Hyderabad Apollo Hospital,Hyderabad,918353685178,26,3.2,712
+Dr. Venkatesh Krishna,Gynecologist,Ongole Trust Hospital,Ongole,919047655254,20,3.9,385
+Dr. Prasad Yadav,Gynecologist,Hyderabad Institute of Medical Sciences,Hyderabad,918989106216,31,3.6,346
+Dr. Kiran Babu,Gynecologist,Hyderabad City Hospital,Hyderabad,919214278451,13,4.5,68
+Dr. Madhavi Naidu,Gynecologist,Vijayawada Medical Center,Vijayawada,918913352779,10,3.8,924
+Dr. Venkatesh Naidu,Gynecologist,Hyderabad Care Hospital,Hyderabad,917527221009,31,3.4,157
+Dr. Swathi Acharya,Gynecologist,Secunderabad Apollo Hospital,Secunderabad,917453785515,28,4.9,1334
+Dr. Ravi Reddy,Gynecologist,Visakhapatnam Apollo Hospital,Visakhapatnam,916510253039,16,3.8,669
+Dr. Naresh Acharya,Gynecologist,Hyderabad Apollo Hospital,Hyderabad,919200610652,25,4.6,1678
+Dr. Sridevi Krishna,Gynecologist,Secunderabad Memorial Hospital,Secunderabad,919514121425,25,3.6,1387
+Dr. Harish Reddy,Gynecologist,Vijayawada Trust Hospital,Vijayawada,916515397731,8,3.2,1051
+Dr. Ravi Reddy,Gynecologist,Anantapur Apollo Hospital,Anantapur,918520503652,31,3.5,1576
+Dr. Madhavi Chowdary,Gynecologist,Anantapur Care Hospital,Anantapur,917649095127,31,5.0,1489
+Dr. Anil Sarma,Gynecologist,Visakhapatnam Medical Center,Visakhapatnam,916537886416,7,3.7,1511
+Dr. Naresh Raju,Gynecologist,Hyderabad Global Hospital,Hyderabad,919491241190,2,3.8,1724
+Dr. Swathi Yadav,Gynecologist,Hyderabad Apollo Hospital,Hyderabad,916274584412,34,4.7,1153
+Dr. Kiran Acharya,Gynecologist,Secunderabad General Hospital,Secunderabad,919855172529,8,3.4,1276
+Dr. Srinivas Murthy,Gynecologist,Hyderabad City Hospital,Hyderabad,917920850564,21,3.2,313
+Dr. Kiran Acharya,Gynecologist,Vizianagaram Global Hospital,Vizianagaram,916692392816,6,4.1,1793
+Dr. Ramesh Naidu,Gynecologist,Hyderabad Medical Center,Hyderabad,918173890447,20,3.7,1164
+Dr. Padma Acharya,Gynecologist,Tirupati Medical Center,Tirupati,916000367517,16,3.6,1987
+Dr. Anil Acharya,Gynecologist,Kurnool Global Hospital,Kurnool,918293952330,29,3.3,1054
+Dr. Swathi Prakash,Gynecologist,Vijayawada City Hospital,Vijayawada,917512331549,35,4.0,1458
+Dr. Tejaswi Krishna,Gynecologist,Secunderabad Medical Center,Secunderabad,916192137756,16,3.1,340
+Dr. Kiran Chowdary,Gynecologist,Rajahmundry Super Speciality Hospital,Rajahmundry,918586190457,14,4.2,618
+Dr. Bhavani Raju,Gynecologist,Kurnool Trust Hospital,Kurnool,916319372311,17,3.5,1380
+Dr. Lakshmi Yadav,Gynecologist,Hyderabad Institute of Medical Sciences,Hyderabad,916357573520,17,4.4,1975
+Dr. Deepika Rao,Gynecologist,Hyderabad City Hospital,Hyderabad,916303044487,18,5.0,1477
+Dr. Sirisha Goud,Gynecologist,Kakinada Care Hospital,Kakinada,918420824631,33,4.2,909
+Dr. Rajesh Babu,Gynecologist,Hyderabad Institute of Medical Sciences,Hyderabad,917862414342,25,3.1,1286
+Dr. Ramesh Varma,Gynecologist,Hyderabad Memorial Hospital,Hyderabad,916535244065,35,3.2,1173
+Dr. Ramesh Goud,Gynecologist,Guntur Memorial Hospital,Guntur,918749541399,6,3.7,733
+Dr. Prasad Krishna,Gynecologist,Rajahmundry Global Hospital,Rajahmundry,919427802090,15,3.5,250
+Dr. Ravi Raju,Gynecologist,Guntur City Hospital,Guntur,916450983269,8,3.4,1541
+Dr. Madhavi Krishna,Gynecologist,Rajahmundry General Hospital,Rajahmundry,919465171718,32,3.2,764
+Dr. Anil Murthy,Gynecologist,Hyderabad General Hospital,Hyderabad,917164167934,7,4.8,399
+Dr. Lakshmi Chowdary,Gynecologist,Ongole Institute of Medical Sciences,Ongole,917482506257,35,4.1,1856
+Dr. Anusha Sarma,Gynecologist,Guntur Care Hospital,Guntur,916547918432,17,3.0,1101
+Dr. Tejaswi Chowdary,Gynecologist,Visakhapatnam Care Hospital,Visakhapatnam,916612763586,25,4.1,597
+Dr. Soujanya Goud,Gynecologist,Hyderabad General Hospital,Hyderabad,919038699741,16,4.4,906
+Dr. Naresh Yadav,Gynecologist,Anantapur Super Speciality Hospital,Anantapur,917520424503,30,4.0,614
+Dr. Swathi Kumar,Gynecologist,Visakhapatnam City Hospital,Visakhapatnam,919785531386,15,3.6,1807
+Dr. Anil Raju,Gynecologist,Kurnool General Hospital,Kurnool,919309609033,21,4.7,1349
+Dr. Ramesh Kumar,Gynecologist,Secunderabad Memorial Hospital,Secunderabad,917030949947,6,3.3,167
+Dr. Anil Murthy,Gynecologist,Vizianagaram General Hospital,Vizianagaram,919992554381,32,4.6,71
+Dr. Tejaswi Murthy,Gynecologist,Guntur City Hospital,Guntur,919138750794,9,4.0,1104
+Dr. Sirisha Naidu,Gynecologist,Ongole Apollo Hospital,Ongole,917741486648,1,4.2,1915
+Dr. Sirisha Raju,Gynecologist,Hyderabad Apollo Hospital,Hyderabad,919017608443,35,4.5,550
+Dr. Tejaswi Sarma,Gynecologist,Vizianagaram Trust Hospital,Vizianagaram,916181917564,29,4.9,1431
+Dr. Ravi Chowdary,Gynecologist,Anantapur Institute of Medical Sciences,Anantapur,916322648158,24,4.7,1102
+Dr. Venkatesh Raju,Gynecologist,Ongole Care Hospital,Ongole,918128190059,25,3.3,281
+Dr. Tejaswi Rao,Gynecologist,Vijayawada Memorial Hospital,Vijayawada,919572237717,35,4.7,1806
+Dr. Anil Varma,Gynecologist,Secunderabad Medical Center,Secunderabad,918075004731,19,3.5,54
+Dr. Lakshmi Rao,Gynecologist,Kakinada Global Hospital,Kakinada,919964496896,20,4.9,1366
+Dr. Venkatesh Prakash,Gynecologist,Hyderabad Medical Center,Hyderabad,917988814587,32,3.1,62
+Dr. Sridevi Goud,Gynecologist,Hyderabad Apollo Hospital,Hyderabad,917281406275,23,3.2,766
+Dr. Lakshmi Goud,Gynecologist,Anantapur Trust Hospital,Anantapur,916038069463,7,3.9,454
+Dr. Swathi Murthy,Gynecologist,Secunderabad Institute of Medical Sciences,Secunderabad,919859070910,10,3.8,1920
+Dr. Srinivas Chowdary,Gynecologist,Vijayawada Super Speciality Hospital,Vijayawada,919304752292,17,3.5,859
+Dr. Anil Goud,Gynecologist,Visakhapatnam City Hospital,Visakhapatnam,917839712603,12,4.1,601
+Dr. Sridevi Acharya,Gynecologist,Visakhapatnam City Hospital,Visakhapatnam,919605012860,29,3.3,774
+Dr. Srinivas Goud,Gynecologist,Guntur City Hospital,Guntur,919794931145,13,3.2,633
+Dr. Prasad Raju,Gynecologist,Kurnool Memorial Hospital,Kurnool,917808420742,22,4.8,378
+Dr. Anusha Acharya,Gynecologist,Visakhapatnam Care Hospital,Visakhapatnam,917141600678,8,3.8,1176
+Dr. Tejaswi Kumar,Gynecologist,Vijayawada Memorial Hospital,Vijayawada,916547324831,21,4.5,1648
+Dr. Swathi Kumar,Gynecologist,Guntur City Hospital,Guntur,919966665364,25,3.3,270
+Dr. Prasad Chowdary,Gynecologist,Hyderabad City Hospital,Hyderabad,917477986501,33,3.0,1451
+Dr. Venkatesh Acharya,Gynecologist,Kurnool Medical Center,Kurnool,919564117458,22,3.9,1272
+Dr. Padma Yadav,Gynecologist,Hyderabad Medical Center,Hyderabad,917243249710,19,4.0,1608
+Dr. Ravi Sarma,Gynecologist,Guntur City Hospital,Guntur,916654964146,33,3.4,625
+Dr. Mahesh Kumar,Gynecologist,Secunderabad Medical Center,Secunderabad,917062378926,28,3.4,1496
+Dr. Sirisha Kumar,Gynecologist,Secunderabad Trust Hospital,Secunderabad,918157507853,12,3.4,1800
+Dr. Soujanya Acharya,Gynecologist,Visakhapatnam Memorial Hospital,Visakhapatnam,916638773733,15,3.2,871
+Dr. Mahesh Rao,Gynecologist,Hyderabad Super Speciality Hospital,Hyderabad,919990446958,10,3.9,1312
+Dr. Ramesh Krishna,Gynecologist,Kurnool Memorial Hospital,Kurnool,916218851616,25,3.8,677
+Dr. Ravi Goud,Gynecologist,Ongole Super Speciality Hospital,Ongole,917829981864,31,3.1,924
+Dr. Anil Naidu,Gynecologist,Kakinada General Hospital,Kakinada,917156403157,24,3.6,768
+Dr. Ravi Goud,Gynecologist,Tirupati City Hospital,Tirupati,919844452015,4,3.4,51
+Dr. Tejaswi Kumar,Gynecologist,Hyderabad Memorial Hospital,Hyderabad,917381431592,14,3.6,623
+Dr. Suresh Raju,Gynecologist,Hyderabad Super Speciality Hospital,Hyderabad,916793881766,17,4.9,794
+Dr. Anil Naidu,Gynecologist,Vijayawada Institute of Medical Sciences,Vijayawada,916416127433,1,4.4,1627
+Dr. Rajesh Goud,Gynecologist,Hyderabad Trust Hospital,Hyderabad,919183825339,24,4.5,1256
+Dr. Bhavani Goud,Gynecologist,Ongole Global Hospital,Ongole,917023285481,18,3.4,836
+Dr. Suresh Chowdary,Gynecologist,Kurnool Care Hospital,Kurnool,918703933724,8,3.1,1918
+Dr. Kiran Kumar,Gynecologist,Vizianagaram Care Hospital,Vizianagaram,917914566716,7,3.1,1169
+Dr. Rajesh Varma,Gynecologist,Tirupati Super Speciality Hospital,Tirupati,919115357356,31,5.0,463
+Dr. Prasad Reddy,Gynecologist,Visakhapatnam Global Hospital,Visakhapatnam,916549034032,13,3.8,1507
+Dr. Deepika Goud,Gynecologist,Rajahmundry Apollo Hospital,Rajahmundry,919843622192,24,3.9,1519
+Dr. Padma Naidu,Gynecologist,Secunderabad Care Hospital,Secunderabad,918073698756,27,4.0,2000
+Dr. Srinivas Chowdary,Gynecologist,Hyderabad Institute of Medical Sciences,Hyderabad,918573345379,18,4.4,314
+Dr. Venkatesh Sarma,Gynecologist,Kurnool Institute of Medical Sciences,Kurnool,916261105621,13,4.5,864
+Dr. Tejaswi Murthy,Gynecologist,Vijayawada City Hospital,Vijayawada,919737719864,33,4.9,388
+Dr. Swathi Raju,Gynecologist,Vijayawada Medical Center,Vijayawada,918415913029,25,3.8,606
+Dr. Naresh Reddy,Gynecologist,Hyderabad Memorial Hospital,Hyderabad,916687207874,14,4.2,68
+Dr. Sridevi Murthy,Gynecologist,Kurnool Care Hospital,Kurnool,919039780365,34,3.5,1795
+Dr. Anil Kumar,Gynecologist,Hyderabad Global Hospital,Hyderabad,917153261647,8,3.3,143
+Dr. Ravi Varma,Gynecologist,Hyderabad General Hospital,Hyderabad,916167893174,10,4.9,618
+Dr. Mahesh Krishna,Gynecologist,Hyderabad Apollo Hospital,Hyderabad,919395692712,4,4.3,559
+Dr. Deepika Naidu,Gynecologist,Kurnool Trust Hospital,Kurnool,916006012787,23,4.3,805
+Dr. Ramesh Kumar,Gynecologist,Vijayawada Memorial Hospital,Vijayawada,919796692625,17,4.4,886
+Dr. Anil Goud,Gynecologist,Hyderabad Global Hospital,Hyderabad,916245944558,1,4.6,499
+Dr. Naresh Varma,Gynecologist,Anantapur Trust Hospital,Anantapur,916067166793,35,4.3,1827
+Dr. Suresh Kumar,Gynecologist,Visakhapatnam Global Hospital,Visakhapatnam,919203056851,25,4.9,577
+Dr. Deepika Rao,Gynecologist,Ongole Global Hospital,Ongole,919508331283,29,3.4,600
+Dr. Madhavi Acharya,Gynecologist,Ongole General Hospital,Ongole,919469186626,26,3.3,524
+Dr. Harish Chowdary,Gynecologist,Tirupati City Hospital,Tirupati,919874782671,31,3.2,421
+Dr. Naresh Krishna,Gynecologist,Vijayawada General Hospital,Vijayawada,919703774386,12,3.4,1054
+Dr. Soujanya Varma,Gynecologist,Vizianagaram Super Speciality Hospital,Vizianagaram,916090397488,20,3.3,413
+Dr. Tejaswi Sarma,Gynecologist,Tirupati Apollo Hospital,Tirupati,916806801100,5,3.3,923
+Dr. Sridevi Prakash,Gynecologist,Hyderabad Institute of Medical Sciences,Hyderabad,918770763955,26,3.2,1128
+Dr. Srinivas Sarma,Gynecologist,Vizianagaram City Hospital,Vizianagaram,916428336848,25,3.8,275
+Dr. Soujanya Prakash,Gynecologist,Hyderabad Trust Hospital,Hyderabad,916187862051,9,3.5,221
+Dr. Prasad Acharya,Gynecologist,Tirupati Super Speciality Hospital,Tirupati,918575422095,1,4.6,69
+Dr. Deepika Kumar,Gynecologist,Kurnool Super Speciality Hospital,Kurnool,919514380000,22,4.7,224
+Dr. Prasad Yadav,Gynecologist,Hyderabad Global Hospital,Hyderabad,919262765331,29,4.6,679
+Dr. Anusha Chowdary,Gynecologist,Vijayawada Global Hospital,Vijayawada,917047151089,4,4.1,597
+Dr. Suresh Reddy,Gynecologist,Kurnool Memorial Hospital,Kurnool,919543025495,3,3.2,657
+Dr. Swathi Prakash,Gynecologist,Secunderabad Medical Center,Secunderabad,919592668785,27,3.3,1918
+Dr. Srinivas Rao,Gynecologist,Hyderabad General Hospital,Hyderabad,917834532707,25,3.3,1392
+Dr. Ravi Prakash,Gynecologist,Rajahmundry Care Hospital,Rajahmundry,919775233736,25,4.4,1514
+Dr. Anusha Chowdary,ENT Specialist,Kurnool Medical Center,Kurnool,916473029049,15,3.2,627
+Dr. Ramesh Sarma,ENT Specialist,Vijayawada Institute of Medical Sciences,Vijayawada,917433337060,8,3.7,1943
+Dr. Venkatesh Sarma,ENT Specialist,Ongole Apollo Hospital,Ongole,916648982313,12,3.9,735
+Dr. Naresh Acharya,ENT Specialist,Hyderabad City Hospital,Hyderabad,917826411454,10,4.8,1457
+Dr. Bhavani Krishna,ENT Specialist,Rajahmundry Apollo Hospital,Rajahmundry,917232679456,23,4.8,605
+Dr. Tejaswi Goud,ENT Specialist,Vijayawada Institute of Medical Sciences,Vijayawada,917139888502,5,4.6,1814
+Dr. Soujanya Chowdary,ENT Specialist,Hyderabad Global Hospital,Hyderabad,917375489059,10,3.8,1527
+Dr. Ramesh Naidu,ENT Specialist,Tirupati Medical Center,Tirupati,918481816261,28,4.9,620
+Dr. Ramesh Goud,ENT Specialist,Anantapur Super Speciality Hospital,Anantapur,916547761887,12,4.5,772
+Dr. Anusha Raju,ENT Specialist,Vijayawada Care Hospital,Vijayawada,918067118585,27,4.2,1353
+Dr. Prasad Babu,ENT Specialist,Vijayawada Trust Hospital,Vijayawada,918808711981,16,3.8,1175
+Dr. Deepika Murthy,ENT Specialist,Vizianagaram Memorial Hospital,Vizianagaram,918115706932,35,4.1,521
+Dr. Ramesh Sarma,ENT Specialist,Guntur General Hospital,Guntur,919070562552,27,4.1,1640
+Dr. Sirisha Naidu,ENT Specialist,Kurnool Super Speciality Hospital,Kurnool,917010146530,24,3.0,1792
+Dr. Harish Murthy,ENT Specialist,Kakinada Apollo Hospital,Kakinada,918035498167,9,4.8,172
+Dr. Harish Krishna,ENT Specialist,Vijayawada Trust Hospital,Vijayawada,919647840768,9,3.6,345
+Dr. Padma Rao,ENT Specialist,Visakhapatnam General Hospital,Visakhapatnam,916905110100,15,3.1,332
+Dr. Sirisha Kumar,ENT Specialist,Ongole Institute of Medical Sciences,Ongole,916614509229,25,4.5,1475
+Dr. Harish Reddy,ENT Specialist,Guntur Care Hospital,Guntur,919012497650,7,4.3,201
+Dr. Bhavani Krishna,ENT Specialist,Vijayawada Medical Center,Vijayawada,916679348721,2,3.3,339
+Dr. Ravi Naidu,ENT Specialist,Anantapur Care Hospital,Anantapur,916053591309,27,3.3,423
+Dr. Prasad Kumar,ENT Specialist,Vijayawada Super Speciality Hospital,Vijayawada,918265380644,20,3.9,1529
+Dr. Sridevi Babu,ENT Specialist,Vijayawada Apollo Hospital,Vijayawada,918769597436,1,3.6,369
+Dr. Soujanya Reddy,ENT Specialist,Kurnool Care Hospital,Kurnool,918594905851,12,4.0,72
+Dr. Padma Acharya,ENT Specialist,Guntur Memorial Hospital,Guntur,919762290476,30,4.1,1748
+Dr. Madhavi Murthy,ENT Specialist,Kakinada General Hospital,Kakinada,917314405854,15,3.8,371
+Dr. Ramesh Murthy,ENT Specialist,Rajahmundry Medical Center,Rajahmundry,917621609047,9,4.5,870
+Dr. Venkatesh Rao,ENT Specialist,Hyderabad Apollo Hospital,Hyderabad,917684876851,12,4.6,1195
+Dr. Ramesh Krishna,ENT Specialist,Ongole Memorial Hospital,Ongole,918973949575,30,4.0,1386
+Dr. Lakshmi Chowdary,ENT Specialist,Kurnool General Hospital,Kurnool,916234812979,24,4.3,448
+Dr. Suresh Naidu,ENT Specialist,Rajahmundry Care Hospital,Rajahmundry,916334185304,24,4.2,1783
+Dr. Srinivas Rao,ENT Specialist,Vijayawada Apollo Hospital,Vijayawada,917212069537,11,4.1,183
+Dr. Bhavani Reddy,ENT Specialist,Vizianagaram Institute of Medical Sciences,Vizianagaram,919249234840,20,3.4,463
+Dr. Ravi Varma,ENT Specialist,Hyderabad Apollo Hospital,Hyderabad,916365241234,3,4.1,1668
+Dr. Venkatesh Reddy,ENT Specialist,Vijayawada Trust Hospital,Vijayawada,917351112065,6,4.9,67
+Dr. Anil Raju,ENT Specialist,Kakinada Apollo Hospital,Kakinada,918148411730,13,3.6,850
+Dr. Prasad Kumar,ENT Specialist,Vijayawada Medical Center,Vijayawada,918897756110,7,3.7,1886
+Dr. Suresh Murthy,ENT Specialist,Vizianagaram Super Speciality Hospital,Vizianagaram,919468161750,10,3.0,1680
+Dr. Anusha Sarma,ENT Specialist,Guntur Apollo Hospital,Guntur,919731520622,3,3.6,360
+Dr. Ramesh Prakash,ENT Specialist,Kurnool General Hospital,Kurnool,918688446467,6,4.9,524
+Dr. Tejaswi Acharya,ENT Specialist,Hyderabad Trust Hospital,Hyderabad,916605000356,11,5.0,1077
+Dr. Bhavani Acharya,ENT Specialist,Hyderabad Super Speciality Hospital,Hyderabad,918247500903,22,3.9,318
+Dr. Anil Goud,ENT Specialist,Ongole Memorial Hospital,Ongole,918677786557,28,3.1,1509
+Dr. Ravi Rao,ENT Specialist,Anantapur Memorial Hospital,Anantapur,918621593189,5,4.9,1211
+Dr. Suresh Babu,ENT Specialist,Visakhapatnam Care Hospital,Visakhapatnam,916064174343,10,4.5,683
+Dr. Ramesh Yadav,ENT Specialist,Hyderabad General Hospital,Hyderabad,916404216517,30,3.6,1962
+Dr. Naresh Naidu,ENT Specialist,Rajahmundry Apollo Hospital,Rajahmundry,917203094733,24,3.7,195
+Dr. Sirisha Babu,ENT Specialist,Kakinada Super Speciality Hospital,Kakinada,917978868171,17,5.0,574
+Dr. Soujanya Prakash,ENT Specialist,Vijayawada Global Hospital,Vijayawada,916603216318,8,4.9,1049
+Dr. Harish Krishna,ENT Specialist,Hyderabad General Hospital,Hyderabad,917231045296,26,3.8,1319
+Dr. Sridevi Goud,ENT Specialist,Visakhapatnam Apollo Hospital,Visakhapatnam,918201081617,21,3.7,1447
+Dr. Swathi Yadav,ENT Specialist,Ongole Global Hospital,Ongole,917128835207,3,4.2,1368
+Dr. Ravi Kumar,ENT Specialist,Ongole Super Speciality Hospital,Ongole,919527177605,1,3.3,265
+Dr. Lakshmi Chowdary,ENT Specialist,Rajahmundry Medical Center,Rajahmundry,918448705723,26,4.7,506
+Dr. Sridevi Acharya,ENT Specialist,Anantapur Global Hospital,Anantapur,916401592835,23,3.9,1365
+Dr. Sridevi Naidu,ENT Specialist,Vizianagaram Care Hospital,Vizianagaram,916368605032,12,4.5,1928
+Dr. Padma Rao,ENT Specialist,Guntur Apollo Hospital,Guntur,917724517295,22,3.1,751
+Dr. Anusha Rao,ENT Specialist,Anantapur Trust Hospital,Anantapur,919016316162,31,3.2,980
+Dr. Deepika Chowdary,ENT Specialist,Hyderabad Apollo Hospital,Hyderabad,918018495252,10,4.3,705
+Dr. Venkatesh Sarma,ENT Specialist,Hyderabad General Hospital,Hyderabad,919325187403,25,3.1,1705
+Dr. Padma Yadav,ENT Specialist,Vijayawada Medical Center,Vijayawada,916916635497,4,3.4,96
+Dr. Mahesh Varma,ENT Specialist,Guntur Apollo Hospital,Guntur,918730256149,12,3.2,191
+Dr. Lakshmi Naidu,ENT Specialist,Anantapur Institute of Medical Sciences,Anantapur,917281346811,29,4.7,1124
+Dr. Tejaswi Prakash,ENT Specialist,Hyderabad Apollo Hospital,Hyderabad,917114317366,12,4.7,239
+Dr. Rajesh Babu,ENT Specialist,Guntur Trust Hospital,Guntur,917275197185,11,3.4,1979
+Dr. Anusha Yadav,ENT Specialist,Guntur Super Speciality Hospital,Guntur,918299982007,11,4.9,944
+Dr. Sirisha Sarma,ENT Specialist,Ongole Apollo Hospital,Ongole,917671334844,1,4.1,1880
+Dr. Kiran Naidu,ENT Specialist,Hyderabad Institute of Medical Sciences,Hyderabad,919104074578,10,3.6,1736
+Dr. Srinivas Chowdary,ENT Specialist,Vijayawada City Hospital,Vijayawada,919850442961,30,4.9,1072
+Dr. Suresh Babu,ENT Specialist,Vizianagaram Global Hospital,Vizianagaram,918894573076,27,3.5,1529
+Dr. Sridevi Krishna,ENT Specialist,Anantapur Trust Hospital,Anantapur,919681934042,9,4.3,1358
+Dr. Suresh Reddy,ENT Specialist,Tirupati Trust Hospital,Tirupati,916938977642,13,3.8,1168
+Dr. Bhavani Raju,ENT Specialist,Anantapur Memorial Hospital,Anantapur,916928302572,23,3.4,441
+Dr. Srinivas Goud,ENT Specialist,Tirupati Institute of Medical Sciences,Tirupati,919495155700,24,3.0,1886
+Dr. Swathi Krishna,ENT Specialist,Rajahmundry Super Speciality Hospital,Rajahmundry,919726992894,8,4.4,1378
+Dr. Padma Raju,ENT Specialist,Tirupati Institute of Medical Sciences,Tirupati,917510664471,23,4.7,922
+Dr. Rajesh Naidu,ENT Specialist,Hyderabad Memorial Hospital,Hyderabad,919978638053,12,3.9,814
+Dr. Deepika Sarma,ENT Specialist,Hyderabad City Hospital,Hyderabad,916698607094,35,3.9,633
+Dr. Soujanya Varma,ENT Specialist,Guntur City Hospital,Guntur,919015464849,7,5.0,1700
+Dr. Ramesh Acharya,ENT Specialist,Secunderabad Apollo Hospital,Secunderabad,916070551235,27,3.2,1585
+Dr. Deepika Naidu,ENT Specialist,Hyderabad Trust Hospital,Hyderabad,918720969819,29,4.0,1700
+Dr. Tejaswi Varma,ENT Specialist,Visakhapatnam Apollo Hospital,Visakhapatnam,919658046220,27,3.4,1641
+Dr. Deepika Raju,ENT Specialist,Vijayawada Super Speciality Hospital,Vijayawada,916491778504,13,4.7,1996
+Dr. Harish Babu,ENT Specialist,Secunderabad General Hospital,Secunderabad,919925726040,30,3.8,1730
+Dr. Srinivas Goud,ENT Specialist,Guntur Care Hospital,Guntur,919359506482,15,4.0,598
+Dr. Anil Krishna,ENT Specialist,Rajahmundry Medical Center,Rajahmundry,919876951295,27,4.3,58
+Dr. Venkatesh Reddy,ENT Specialist,Visakhapatnam City Hospital,Visakhapatnam,916112729226,10,4.6,1771
+Dr. Bhavani Goud,ENT Specialist,Kakinada Memorial Hospital,Kakinada,917439200321,11,4.9,930
+Dr. Deepika Raju,ENT Specialist,Kurnool Super Speciality Hospital,Kurnool,916827470134,26,4.7,1691
+Dr. Padma Chowdary,ENT Specialist,Hyderabad Memorial Hospital,Hyderabad,918732773834,25,5.0,405
+Dr. Rajesh Murthy,ENT Specialist,Guntur Super Speciality Hospital,Guntur,916680510314,28,3.5,1504
+Dr. Swathi Naidu,ENT Specialist,Hyderabad Medical Center,Hyderabad,918712018738,26,4.7,1334
+Dr. Deepika Chowdary,ENT Specialist,Rajahmundry Trust Hospital,Rajahmundry,917384717361,14,3.2,102
+Dr. Srinivas Acharya,ENT Specialist,Kakinada Super Speciality Hospital,Kakinada,919307263247,10,3.1,1499
+Dr. Ramesh Sarma,ENT Specialist,Hyderabad Global Hospital,Hyderabad,917642416330,2,4.5,317
+Dr. Soujanya Acharya,ENT Specialist,Vijayawada Super Speciality Hospital,Vijayawada,919339722557,23,3.4,1386
+Dr. Anil Rao,ENT Specialist,Hyderabad Institute of Medical Sciences,Hyderabad,918299599426,16,4.5,1702
+Dr. Mahesh Acharya,ENT Specialist,Guntur Memorial Hospital,Guntur,916222259693,18,3.2,344
+Dr. Soujanya Sarma,ENT Specialist,Hyderabad General Hospital,Hyderabad,919723474875,7,3.2,1948
+Dr. Suresh Naidu,ENT Specialist,Hyderabad Super Speciality Hospital,Hyderabad,916609178356,19,3.5,419
+Dr. Ramesh Yadav,ENT Specialist,Secunderabad Global Hospital,Secunderabad,919627630793,24,4.8,475
+Dr. Suresh Yadav,ENT Specialist,Guntur General Hospital,Guntur,919416395064,2,3.8,1046
+Dr. Kiran Acharya,ENT Specialist,Secunderabad Super Speciality Hospital,Secunderabad,917803487332,25,4.8,1347
+Dr. Naresh Chowdary,ENT Specialist,Tirupati General Hospital,Tirupati,917283142882,1,4.8,1400
+Dr. Soujanya Sarma,ENT Specialist,Hyderabad Medical Center,Hyderabad,919671376399,3,3.2,752
+Dr. Anusha Sarma,ENT Specialist,Kakinada Super Speciality Hospital,Kakinada,918576949740,35,3.0,1118
+Dr. Suresh Rao,ENT Specialist,Rajahmundry Global Hospital,Rajahmundry,918603225974,2,4.1,1110
+Dr. Prasad Rao,ENT Specialist,Hyderabad Super Speciality Hospital,Hyderabad,919723196580,24,3.2,494
+Dr. Rajesh Chowdary,ENT Specialist,Kakinada Global Hospital,Kakinada,916943866804,6,4.5,1974
+Dr. Mahesh Varma,ENT Specialist,Ongole General Hospital,Ongole,918068348342,13,4.9,763
+Dr. Soujanya Varma,ENT Specialist,Hyderabad General Hospital,Hyderabad,918005937631,32,3.9,1988
+Dr. Kiran Varma,ENT Specialist,Anantapur Super Speciality Hospital,Anantapur,916742855478,13,4.4,1867
+Dr. Lakshmi Naidu,ENT Specialist,Rajahmundry Global Hospital,Rajahmundry,918506750155,20,3.3,471
+Dr. Padma Prakash,ENT Specialist,Vijayawada Super Speciality Hospital,Vijayawada,917916232890,28,4.2,606
+Dr. Bhavani Naidu,ENT Specialist,Anantapur Memorial Hospital,Anantapur,918608314950,25,3.9,1211
+Dr. Harish Prakash,ENT Specialist,Ongole City Hospital,Ongole,918717419214,5,3.9,1871
+Dr. Swathi Varma,ENT Specialist,Hyderabad Trust Hospital,Hyderabad,918520584223,27,3.6,1743
+Dr. Harish Raju,ENT Specialist,Tirupati Institute of Medical Sciences,Tirupati,916128591125,8,3.4,710
+Dr. Naresh Goud,ENT Specialist,Anantapur Trust Hospital,Anantapur,917053633420,5,3.4,811
+Dr. Prasad Babu,ENT Specialist,Vijayawada Global Hospital,Vijayawada,917350564914,8,3.0,1459
+Dr. Sirisha Goud,ENT Specialist,Hyderabad General Hospital,Hyderabad,916918145589,30,4.1,708
+Dr. Deepika Naidu,ENT Specialist,Visakhapatnam Global Hospital,Visakhapatnam,917656100244,19,4.2,1129
+Dr. Suresh Murthy,ENT Specialist,Hyderabad Apollo Hospital,Hyderabad,917194209083,5,4.1,1373
+Dr. Tejaswi Babu,ENT Specialist,Kurnool Care Hospital,Kurnool,917869193679,21,4.6,455
+Dr. Venkatesh Babu,ENT Specialist,Ongole General Hospital,Ongole,918121431502,32,3.1,612
+Dr. Suresh Naidu,ENT Specialist,Visakhapatnam City Hospital,Visakhapatnam,917944697243,11,4.2,1260
+Dr. Ravi Sarma,ENT Specialist,Visakhapatnam Global Hospital,Visakhapatnam,916091348355,19,3.0,1654
+Dr. Srinivas Prakash,ENT Specialist,Tirupati Apollo Hospital,Tirupati,917983295004,19,3.3,874
+Dr. Deepika Prakash,ENT Specialist,Hyderabad Apollo Hospital,Hyderabad,918265654028,3,3.7,83
+Dr. Anusha Naidu,ENT Specialist,Secunderabad Care Hospital,Secunderabad,919564179535,27,4.4,612
+Dr. Harish Raju,ENT Specialist,Visakhapatnam Memorial Hospital,Visakhapatnam,916342597564,21,4.0,146
+Dr. Anil Kumar,ENT Specialist,Kakinada Medical Center,Kakinada,917952413710,32,4.7,1914
+Dr. Harish Sarma,ENT Specialist,Secunderabad Institute of Medical Sciences,Secunderabad,916441280475,2,3.4,1740
+Dr. Prasad Naidu,ENT Specialist,Anantapur Memorial Hospital,Anantapur,917386669012,28,3.5,230
+Dr. Harish Krishna,ENT Specialist,Hyderabad Trust Hospital,Hyderabad,919877842570,35,5.0,1963
+Dr. Mahesh Prakash,ENT Specialist,Hyderabad City Hospital,Hyderabad,919371308963,3,3.2,1989
+Dr. Ramesh Varma,ENT Specialist,Rajahmundry City Hospital,Rajahmundry,917414457155,25,3.5,398
+Dr. Madhavi Yadav,ENT Specialist,Tirupati Medical Center,Tirupati,916514972684,9,3.6,353
+Dr. Padma Acharya,ENT Specialist,Kurnool Global Hospital,Kurnool,917918904367,8,4.0,542
+Dr. Anusha Acharya,ENT Specialist,Ongole Global Hospital,Ongole,918104979960,18,3.6,1546
+Dr. Ravi Naidu,ENT Specialist,Vijayawada City Hospital,Vijayawada,917133064038,19,4.4,772
+Dr. Ravi Acharya,ENT Specialist,Hyderabad General Hospital,Hyderabad,918779420517,14,4.4,203
+Dr. Venkatesh Rao,ENT Specialist,Vijayawada Memorial Hospital,Vijayawada,916056384771,14,3.9,838
+Dr. Anusha Naidu,ENT Specialist,Hyderabad Trust Hospital,Hyderabad,917462222211,14,4.6,1609
+Dr. Swathi Krishna,ENT Specialist,Kakinada Apollo Hospital,Kakinada,917345866765,20,4.4,1392
+Dr. Swathi Naidu,ENT Specialist,Hyderabad Medical Center,Hyderabad,919926138123,9,3.4,794
+Dr. Sridevi Krishna,ENT Specialist,Anantapur General Hospital,Anantapur,918664932946,33,3.4,869
+Dr. Ramesh Varma,ENT Specialist,Hyderabad Global Hospital,Hyderabad,917817174845,11,4.4,1998
+Dr. Soujanya Naidu,ENT Specialist,Hyderabad Memorial Hospital,Hyderabad,916632604586,30,4.8,1575
+Dr. Ravi Reddy,ENT Specialist,Secunderabad Apollo Hospital,Secunderabad,919840121888,30,3.4,108
+Dr. Tejaswi Murthy,ENT Specialist,Tirupati Global Hospital,Tirupati,917944077950,23,3.5,1948
+Dr. Ramesh Goud,ENT Specialist,Anantapur Apollo Hospital,Anantapur,917853165178,14,3.3,1078
+Dr. Swathi Goud,ENT Specialist,Guntur Medical Center,Guntur,916228307893,29,3.5,250
+Dr. Soujanya Raju,ENT Specialist,Kurnool Trust Hospital,Kurnool,919143922961,28,3.4,437
+Dr. Naresh Sarma,ENT Specialist,Visakhapatnam Super Speciality Hospital,Visakhapatnam,917185091850,34,4.2,1112
+Dr. Suresh Acharya,ENT Specialist,Guntur Apollo Hospital,Guntur,916214196224,16,4.9,499
+Dr. Venkatesh Prakash,ENT Specialist,Secunderabad Medical Center,Secunderabad,916153278605,18,3.5,1139
+Dr. Mahesh Rao,ENT Specialist,Secunderabad Super Speciality Hospital,Secunderabad,919790739390,26,3.8,257
+Dr. Sirisha Varma,ENT Specialist,Visakhapatnam Memorial Hospital,Visakhapatnam,918126746095,14,3.3,466
+Dr. Soujanya Varma,ENT Specialist,Vijayawada Apollo Hospital,Vijayawada,919031617044,19,4.5,243
+Dr. Swathi Prakash,ENT Specialist,Tirupati Global Hospital,Tirupati,919008500997,31,4.5,1796
+Dr. Naresh Goud,ENT Specialist,Kakinada Super Speciality Hospital,Kakinada,918926773184,5,3.3,730
+Dr. Prasad Reddy,ENT Specialist,Vijayawada Apollo Hospital,Vijayawada,918860582992,31,3.9,92
+Dr. Mahesh Prakash,ENT Specialist,Tirupati Super Speciality Hospital,Tirupati,916330614006,11,4.4,1797
+Dr. Bhavani Goud,ENT Specialist,Kurnool Medical Center,Kurnool,918035085042,1,4.0,556
+Dr. Suresh Reddy,ENT Specialist,Kurnool Apollo Hospital,Kurnool,919517262299,2,4.1,645
+Dr. Swathi Murthy,ENT Specialist,Hyderabad Care Hospital,Hyderabad,916718568378,10,4.6,254
+Dr. Rajesh Yadav,ENT Specialist,Rajahmundry Care Hospital,Rajahmundry,918107376583,23,5.0,577
+Dr. Mahesh Goud,ENT Specialist,Vijayawada Global Hospital,Vijayawada,917970319532,1,4.7,666
+Dr. Swathi Babu,ENT Specialist,Ongole Global Hospital,Ongole,918851587793,31,3.2,1454
+Dr. Soujanya Reddy,ENT Specialist,Hyderabad Care Hospital,Hyderabad,916635227298,27,4.7,1400
+Dr. Harish Yadav,ENT Specialist,Hyderabad Memorial Hospital,Hyderabad,916132734573,16,4.2,1475
+Dr. Harish Rao,ENT Specialist,Guntur Institute of Medical Sciences,Guntur,919197023855,6,3.4,823
+Dr. Mahesh Prakash,ENT Specialist,Secunderabad City Hospital,Secunderabad,918692479387,35,4.8,970
+Dr. Naresh Varma,ENT Specialist,Tirupati Memorial Hospital,Tirupati,919909826129,23,4.8,850
+Dr. Padma Varma,ENT Specialist,Tirupati Trust Hospital,Tirupati,917328533462,13,3.1,1115
+Dr. Bhavani Naidu,ENT Specialist,Vijayawada Institute of Medical Sciences,Vijayawada,917861694890,30,4.1,1673
+Dr. Anil Naidu,ENT Specialist,Vijayawada Institute of Medical Sciences,Vijayawada,916035798032,32,4.9,351
+Dr. Tejaswi Chowdary,ENT Specialist,Vijayawada Institute of Medical Sciences,Vijayawada,918247067486,19,4.2,1410
+Dr. Anil Yadav,ENT Specialist,Hyderabad Medical Center,Hyderabad,917238067088,5,4.6,81
+Dr. Venkatesh Rao,ENT Specialist,Ongole Apollo Hospital,Ongole,917215550034,8,3.1,676
+Dr. Padma Goud,ENT Specialist,Visakhapatnam Apollo Hospital,Visakhapatnam,918835766393,1,3.1,332
+Dr. Anil Babu,ENT Specialist,Anantapur Super Speciality Hospital,Anantapur,919689422202,33,4.3,1624
+Dr. Prasad Naidu,ENT Specialist,Hyderabad Apollo Hospital,Hyderabad,919063158215,18,3.3,1551
+Dr. Padma Sarma,ENT Specialist,Anantapur City Hospital,Anantapur,919943895991,6,3.6,115
+Dr. Harish Rao,ENT Specialist,Vijayawada Trust Hospital,Vijayawada,919486263997,25,3.8,1901
+Dr. Mahesh Prakash,ENT Specialist,Secunderabad Super Speciality Hospital,Secunderabad,917297177432,20,3.3,942
+Dr. Madhavi Chowdary,ENT Specialist,Vijayawada Super Speciality Hospital,Vijayawada,918934842114,13,3.5,902
+Dr. Kiran Varma,ENT Specialist,Vizianagaram Institute of Medical Sciences,Vizianagaram,917309948279,6,3.6,1948
+Dr. Deepika Chowdary,ENT Specialist,Anantapur Super Speciality Hospital,Anantapur,917614761436,28,3.2,1128
+Dr. Sirisha Goud,ENT Specialist,Vijayawada Institute of Medical Sciences,Vijayawada,918163869667,23,3.9,925
+Dr. Padma Raju,ENT Specialist,Anantapur Apollo Hospital,Anantapur,917981199619,2,4.8,104
+Dr. Ramesh Babu,ENT Specialist,Guntur Institute of Medical Sciences,Guntur,916603810526,20,4.6,1238
+Dr. Harish Chowdary,ENT Specialist,Vizianagaram Apollo Hospital,Vizianagaram,918666701128,35,4.8,1847
+Dr. Venkatesh Babu,ENT Specialist,Rajahmundry Trust Hospital,Rajahmundry,919629708388,26,3.3,1422
+Dr. Sridevi Babu,ENT Specialist,Vizianagaram Trust Hospital,Vizianagaram,919277040775,34,3.9,161
+Dr. Venkatesh Varma,ENT Specialist,Secunderabad Care Hospital,Secunderabad,919564368821,7,3.7,249
+Dr. Madhavi Yadav,ENT Specialist,Rajahmundry City Hospital,Rajahmundry,918966073929,22,4.7,298
+Dr. Tejaswi Murthy,ENT Specialist,Hyderabad Trust Hospital,Hyderabad,919175541717,4,4.4,1107
+Dr. Deepika Kumar,ENT Specialist,Visakhapatnam Medical Center,Visakhapatnam,918127317293,9,3.4,1433
+Dr. Anil Acharya,ENT Specialist,Hyderabad Global Hospital,Hyderabad,917335265924,1,4.6,1327
+Dr. Suresh Naidu,ENT Specialist,Hyderabad City Hospital,Hyderabad,916000153386,10,4.2,297
+Dr. Suresh Rao,ENT Specialist,Hyderabad Super Speciality Hospital,Hyderabad,916877434572,7,3.9,1755
+Dr. Sridevi Raju,ENT Specialist,Hyderabad Apollo Hospital,Hyderabad,916239028498,8,3.6,1040
+Dr. Ravi Krishna,ENT Specialist,Tirupati Global Hospital,Tirupati,919640965255,35,3.5,1304
+Dr. Tejaswi Sarma,ENT Specialist,Kurnool Memorial Hospital,Kurnool,916529125058,28,3.3,94
+Dr. Prasad Krishna,ENT Specialist,Hyderabad Apollo Hospital,Hyderabad,919198026153,16,3.3,1568
+Dr. Kiran Yadav,ENT Specialist,Hyderabad Medical Center,Hyderabad,918063587773,19,3.6,254
+Dr. Anusha Goud,ENT Specialist,Visakhapatnam Trust Hospital,Visakhapatnam,918867748200,18,3.8,1478
+Dr. Sridevi Raju,ENT Specialist,Anantapur Super Speciality Hospital,Anantapur,919493928428,28,3.3,630
+Dr. Suresh Sarma,ENT Specialist,Kakinada Memorial Hospital,Kakinada,917672586542,1,4.2,119
+Dr. Sridevi Reddy,ENT Specialist,Hyderabad Trust Hospital,Hyderabad,919900295590,23,4.9,1008
+Dr. Mahesh Reddy,ENT Specialist,Vijayawada Global Hospital,Vijayawada,916679955714,23,4.0,1813
+Dr. Kiran Goud,ENT Specialist,Hyderabad Apollo Hospital,Hyderabad,919876424967,34,3.8,178
+Dr. Soujanya Chowdary,ENT Specialist,Tirupati Medical Center,Tirupati,917511257275,22,3.9,1808
+Dr. Mahesh Babu,ENT Specialist,Hyderabad Medical Center,Hyderabad,919275374638,20,4.8,189
+Dr. Lakshmi Yadav,ENT Specialist,Vijayawada Super Speciality Hospital,Vijayawada,918602070700,12,4.2,1949
+Dr. Tejaswi Murthy,ENT Specialist,Hyderabad Global Hospital,Hyderabad,917113367267,9,4.4,1255
+Dr. Harish Sarma,ENT Specialist,Hyderabad General Hospital,Hyderabad,918652035023,26,3.1,110
+Dr. Ravi Naidu,ENT Specialist,Hyderabad Medical Center,Hyderabad,918857274115,7,4.0,1441
+Dr. Rajesh Babu,ENT Specialist,Vijayawada Super Speciality Hospital,Vijayawada,916994433399,16,3.2,1853
+Dr. Lakshmi Babu,ENT Specialist,Visakhapatnam City Hospital,Visakhapatnam,917804127440,5,3.1,562
+Dr. Venkatesh Krishna,ENT Specialist,Kurnool General Hospital,Kurnool,919220946051,5,3.9,816
+Dr. Soujanya Krishna,ENT Specialist,Hyderabad Care Hospital,Hyderabad,916126527390,12,3.6,1480
+Dr. Lakshmi Chowdary,ENT Specialist,Vijayawada Super Speciality Hospital,Vijayawada,918737594009,13,3.4,1055
+Dr. Tejaswi Varma,ENT Specialist,Kakinada Apollo Hospital,Kakinada,916968500282,13,4.5,938
+Dr. Kiran Naidu,ENT Specialist,Hyderabad City Hospital,Hyderabad,918500134621,2,4.3,1419
+Dr. Kiran Reddy,ENT Specialist,Secunderabad Institute of Medical Sciences,Secunderabad,919478961535,9,4.8,786
+Dr. Madhavi Murthy,ENT Specialist,Guntur Super Speciality Hospital,Guntur,919712961266,5,3.7,1447
+Dr. Anusha Rao,ENT Specialist,Hyderabad Trust Hospital,Hyderabad,919575143282,14,4.1,1020
+Dr. Harish Goud,ENT Specialist,Kakinada City Hospital,Kakinada,918656346485,9,4.6,948
+Dr. Soujanya Raju,ENT Specialist,Guntur Medical Center,Guntur,919753702208,5,4.1,310
+Dr. Anil Naidu,ENT Specialist,Kurnool Care Hospital,Kurnool,916506494736,32,3.5,1281
+Dr. Rajesh Reddy,ENT Specialist,Hyderabad Global Hospital,Hyderabad,916962163813,19,4.8,564
+Dr. Sirisha Goud,ENT Specialist,Kakinada Care Hospital,Kakinada,916291855134,11,4.9,203
+Dr. Madhavi Rao,ENT Specialist,Vizianagaram Memorial Hospital,Vizianagaram,919664445536,34,4.9,1074
+Dr. Lakshmi Sarma,ENT Specialist,Rajahmundry Memorial Hospital,Rajahmundry,916243302147,35,4.4,277
+Dr. Anusha Prakash,ENT Specialist,Hyderabad General Hospital,Hyderabad,919940165765,17,4.3,116
+Dr. Padma Varma,ENT Specialist,Vijayawada Memorial Hospital,Vijayawada,916861189310,22,4.8,171
+Dr. Kiran Murthy,ENT Specialist,Hyderabad Super Speciality Hospital,Hyderabad,919507967701,22,4.8,1408
+Dr. Ravi Yadav,ENT Specialist,Tirupati Medical Center,Tirupati,916313154228,3,3.7,194
+Dr. Bhavani Kumar,ENT Specialist,Visakhapatnam General Hospital,Visakhapatnam,918630378189,6,4.8,1030
+Dr. Mahesh Kumar,ENT Specialist,Hyderabad Apollo Hospital,Hyderabad,916179276130,7,3.1,1089
+Dr. Soujanya Goud,ENT Specialist,Hyderabad Apollo Hospital,Hyderabad,917853345235,31,3.6,1790
+Dr. Srinivas Prakash,ENT Specialist,Hyderabad Institute of Medical Sciences,Hyderabad,916237754569,2,4.5,1711
+Dr. Deepika Sarma,ENT Specialist,Hyderabad Care Hospital,Hyderabad,919694936634,25,4.4,1561
+Dr. Deepika Yadav,ENT Specialist,Kakinada Care Hospital,Kakinada,916223941379,25,4.5,1474
+Dr. Padma Kumar,ENT Specialist,Kakinada Medical Center,Kakinada,917833236259,9,3.2,291
+Dr. Harish Goud,ENT Specialist,Kakinada Institute of Medical Sciences,Kakinada,916831701660,22,3.9,168
+Dr. Ravi Naidu,ENT Specialist,Hyderabad Care Hospital,Hyderabad,918528092810,1,3.5,1580
